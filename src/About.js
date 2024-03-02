@@ -2,7 +2,7 @@ import React from 'react'
 import Header from './Header'
 import Footer from './Footer'
 
-function Blog() {
+function About() {
   return (
     <div>
     <Header/>
@@ -57,9 +57,10 @@ function Blog() {
 
 </div>
 
+
     <Footer/>
-    </div>
+    </div> 
   )
 }
 
-export default Blog
+export default About

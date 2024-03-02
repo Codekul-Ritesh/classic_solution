@@ -7,6 +7,7 @@ import {BrowserRouter,Routes,Route} from 'react-router-dom'
 import Contact from './Contact';
 import Products from './Products';
 import Blog from './Blog';
+import About from './About';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
 <Routes>
 
 <Route path='/' element={<Banner/>}/>
+<Route path='/About' element={<About/>}/>
 <Route path='/Contact' element={<Contact/>}/>
 <Route path='/Products' element={<Products/>}/>
 <Route path='/Blog' element={<Blog/>}/>
