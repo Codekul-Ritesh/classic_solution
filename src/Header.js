@@ -6,9 +6,9 @@ function Header() {
 
             
 <body>
-    <div class="preloader">
+    {/* <div class="preloader">
         <img src="assets/images/loader.gif" alt="Gif"/>
-    </div>
+    </div> */}
 
 
     <div class="product-quick-view-panel">
