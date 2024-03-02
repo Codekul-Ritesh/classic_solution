@@ -190,23 +190,9 @@ function Header() {
                     </div>
                 </div>
             </div>
-        </div>
-
-
-
-         
-   
-
-
-
-
+        </div>    
     </div>
 
-
-
-
-
-    
     <div class="mobile-menu d-lg-none d-block">
         <div class="mobile-category-list">
             <button class="mobile-menu-close-btn"><i class="fa-solid fa-xmark-large"></i></button>
@@ -308,19 +294,19 @@ function Header() {
                     <img src="assets/images/Logo.html" alt="Logo"/>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="index.html">Home</a>
+                    <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a href="account.html" class="nav-link">About</a>
+                    <a href="/About" class="nav-link">About</a>
                 </li>
                 <li class="nav-item">
-                    <a href="register.html" class="nav-link">Product</a>
+                    <a href="/Products" class="nav-link">Product</a>
                 </li>
                 <li class="nav-item">
-                    <a href="about.html" class="nav-link">Blog</a>
+                    <a href="/Blog" class="nav-link">Blog</a>
                 </li>               
                 <li class="nav-item">
-                    <a href="contact.html" class="nav-link">Contact</a>
+                    <a href="/Contact" class="nav-link">Contact</a>
                 </li>
                
             </ul>
