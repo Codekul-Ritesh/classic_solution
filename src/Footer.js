@@ -4,65 +4,18 @@ function Footer() {
   return (
     <div>
 
-<div id="cdfooter" class="footer rev-7-footer">
-        <div class="container">
-            <div class="footer-subscribe">
-                <div class="row align-items-center">
-                    <div class="col-xxl-3 col-xl-4">
-                        <h3>Our Newsletter Now</h3>
-                    </div>
+       
 
-                    <div class="col-xxl-4 col-xl-4 col-lg-9 col-11 col-xs-12">
-                        <form action="#" class="footer-subs-form">
-                            <input type="text" name="Subscription-form" id="footer-subscribe-input" placeholder="Your emal Address"/>
-                            <button class="subs-btn">Subscribe</button>
-                        </form>
-                    </div>
-
-                    <div class="col-xxl-5 col-xl-4">
-                        <div class="footer-socials">
-                            <h3 class="footer-title">Join us on</h3>
-                            <ul>
-                                <li>
-                                    <a href="https://instagram.com/" target="_blank">
-                                        <img src="assets/images/socials/fb.png" alt="facebook logo"/>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://instagram.com/" target="_blank">
-                                        <img src="assets/images/socials/pt.png" alt="pinterest logo"/>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://instagram.com/" target="_blank">
-                                        <img src="assets/images/socials/lk.png" alt="linkedin logo"/>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://instagram.com/" target="_blank">
-                                        <img src="assets/images/socials/tw.png" alt="twitter logo"/>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://instagram.com/" target="_blank">
-                                        <img src="assets/images/socials/in.png" alt="instagram logo"/>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
+    <div id="cdfooter" class="footer">
         <div class="main-footer">
             <div class="container">
                 <div class="custom-row">
                     <div class="custom-col-2">
                         <div class="footer-about">
                             <div class="footer-logo">
-                                <img src="assets/images/logos/logo-light-6.png" alt="Logo"/>
+                                <img src="assets/images/Logo-2.html" alt="Logo"/>
                             </div>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed</p>
                             <ul>
                                 <li>
                                     <div class="icon">
@@ -96,7 +49,7 @@ function Footer() {
                     <div class="custom-col-2">
                         <div class="link-wrap">
                             <div class="footer-link">
-                                <h3 class="footer-title">My Account</h3>
+                                <h3 class="footer-title">Information</h3>
                                 <ul>
                                     <li><a href="about.html">About Us</a></li>
                                     <li><a href="contact.html">Contact Us</a></li>
@@ -117,27 +70,61 @@ function Footer() {
                             </div>
                         </div>
                     </div>
-                    <div class="custom-col-2">
-                        <div class="link-wrap">
-                            <div class="footer-link">
-                                <h3 class="footer-title">Custom Links</h3>
-                                <ul>
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="contact.html">Contact Us</a></li>
-                                    <li><a href="blog.html">Blogs</a></li>
-                                    <li><a href="#">Terms Of Use</a></li>
-                                    <li><a href="#">Privacy Policies</a></li>
-                                </ul>
-                            </div>
-                            <div class="footer-link">
-                                <h3 class="footer-title">Categories</h3>
-                                <ul>
-                                    <li><a href="cart.html">My Order</a></li>
-                                    <li><a href="wishlist.html">Wishlist</a></li>
-                                    <li><a href="account.html">My Credit</a></li>
-                                    <li><a href="register.html">Login</a></li>
-                                    <li><a href="account.html">Personal Info</a></li>
-                                </ul>
+                    <div class="custom-col">
+                        <div class="footer-gallery">
+                            <h3 class="footer-title">Instagram</h3>
+                            <ul>
+                                <li>
+                                    <a href="https://instagram.com/" target="_blank">
+                                        <img src="assets/images/gl-1.png" alt="image"/>
+                                        <span><i class="fa-brands fa-instagram"></i></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://instagram.com/" target="_blank">
+                                        <img src="assets/images/gl-2.png" alt="image"/>
+                                        <span><i class="fa-brands fa-instagram"></i></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://instagram.com/" target="_blank">
+                                        <img src="assets/images/gl-3.png" alt="image"/>
+                                        <span><i class="fa-brands fa-instagram"></i></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://instagram.com/" target="_blank">
+                                        <img src="assets/images/gl-4.png" alt="image"/>
+                                        <span><i class="fa-brands fa-instagram"></i></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://instagram.com/" target="_blank">
+                                        <img src="assets/images/gl-5.png" alt="image"/>
+                                        <span><i class="fa-brands fa-instagram"></i></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://instagram.com/" target="_blank">
+                                        <img src="assets/images/gl-6.png" alt="image"/>
+                                        <span><i class="fa-brands fa-instagram"></i></span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="custom-col">
+                        <div class="footer-subscribe">
+                            <h3 class="footer-title">Subscribe</h3>
+                            <p>Lorem ipsum dolor si consectetur adipisicing elit, sed eiusmotempor incididunt ut labore et
+                            </p>
+                            <form>
+                                <input type="email" name="email" placeholder="Your Email"/>
+                                <button type="submit"><i class="fa-solid fa-paper-plane"></i></button>
+                            </form>
+                            <div class="btn-box">
+                                <a href="#"><img src="assets/images/play-store.png" alt="Play Store"/></a>
+                                <a href="#"><img src="assets/images/app-store.png" alt="App Store"/></a>
                             </div>
                         </div>
                     </div>
@@ -147,11 +134,11 @@ function Footer() {
         <div class="copyright">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-12 text-center">
+                    <div class="col-md-6">
                         <p>&copy; Copyright Revel All Right Reserved</p>
                     </div>
-                    <div class="col-12">
-                        <div class="part-img d-flex justify-content-center">
+                    <div class="col-md-6">
+                        <div class="part-img d-flex justify-content-md-end justify-content-center">
                             <img src="assets/images/payment-gateway.png" alt="Image"/>
                         </div>
                     </div>
