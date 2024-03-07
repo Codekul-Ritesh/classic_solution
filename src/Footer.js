@@ -13,7 +13,7 @@ function Footer() {
                     <div class="custom-col-2">
                         <div class="footer-about">
                             <div class="footer-logo">
-                                <img src="assets/images/Logo-2.html" alt="Logo"/>
+                                <img src="assets/images/LOGO.JPEG" alt="Logo"/>
                             </div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed</p>
                             <ul>
@@ -53,9 +53,7 @@ function Footer() {
                                 <ul>
                                     <li><a href="about.html">About Us</a></li>
                                     <li><a href="contact.html">Contact Us</a></li>
-                                    <li><a href="blog.html">Blogs</a></li>
-                                    <li><a href="#">Terms Of Use</a></li>
-                                    <li><a href="#">Privacy Policies</a></li>
+                                   
                                 </ul>
                             </div>
                             <div class="footer-link">
@@ -63,71 +61,14 @@ function Footer() {
                                 <ul>
                                     <li><a href="cart.html">My Order</a></li>
                                     <li><a href="wishlist.html">Wishlist</a></li>
-                                    <li><a href="account.html">My Credit</a></li>
-                                    <li><a href="register.html">Login</a></li>
-                                    <li><a href="account.html">Personal Info</a></li>
+                                    
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="custom-col">
-                        <div class="footer-gallery">
-                            <h3 class="footer-title">Instagram</h3>
-                            <ul>
-                                <li>
-                                    <a href="https://instagram.com/" target="_blank">
-                                        <img src="assets/images/gl-1.png" alt="image"/>
-                                        <span><i class="fa-brands fa-instagram"></i></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://instagram.com/" target="_blank">
-                                        <img src="assets/images/gl-2.png" alt="image"/>
-                                        <span><i class="fa-brands fa-instagram"></i></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://instagram.com/" target="_blank">
-                                        <img src="assets/images/gl-3.png" alt="image"/>
-                                        <span><i class="fa-brands fa-instagram"></i></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://instagram.com/" target="_blank">
-                                        <img src="assets/images/gl-4.png" alt="image"/>
-                                        <span><i class="fa-brands fa-instagram"></i></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://instagram.com/" target="_blank">
-                                        <img src="assets/images/gl-5.png" alt="image"/>
-                                        <span><i class="fa-brands fa-instagram"></i></span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://instagram.com/" target="_blank">
-                                        <img src="assets/images/gl-6.png" alt="image"/>
-                                        <span><i class="fa-brands fa-instagram"></i></span>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="custom-col">
-                        <div class="footer-subscribe">
-                            <h3 class="footer-title">Subscribe</h3>
-                            <p>Lorem ipsum dolor si consectetur adipisicing elit, sed eiusmotempor incididunt ut labore et
-                            </p>
-                            <form>
-                                <input type="email" name="email" placeholder="Your Email"/>
-                                <button type="submit"><i class="fa-solid fa-paper-plane"></i></button>
-                            </form>
-                            <div class="btn-box">
-                                <a href="#"><img src="assets/images/play-store.png" alt="Play Store"/></a>
-                                <a href="#"><img src="assets/images/app-store.png" alt="App Store"/></a>
-                            </div>
-                        </div>
-                    </div>
+
+
+                   
                 </div>
             </div>
         </div>
@@ -137,11 +78,7 @@ function Footer() {
                     <div class="col-md-6">
                         <p>&copy; Copyright Revel All Right Reserved</p>
                     </div>
-                    <div class="col-md-6">
-                        <div class="part-img d-flex justify-content-md-end justify-content-center">
-                            <img src="assets/images/payment-gateway.png" alt="Image"/>
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
         </div>
