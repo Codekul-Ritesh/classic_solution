@@ -137,7 +137,7 @@ function Header() {
                     <div class="col-xxl-3 col-xl-2 col-lg-2 col-sm-3 col-6">
                         <div class="logo">
                             <a href="index.html">
-                                <img src="assets/images/LOGOO.PNG" alt="logonew"/>
+                                <img src="assets/LOGOO.PNG" alt="logonew"/>
                             </a>
                         </div>
                     </div>
@@ -296,7 +296,7 @@ function Header() {
             <button class="mobile-menu-close-btn"><i class="fa-solid fa-xmark-large"></i></button>
             <ul class="menu-bar">
                 <li class="logo">
-                    <img src="assets/images/LOGOO.PNG" alt="Logo"/>
+                    <img src="assets/LOGOO.PNG" alt="Logo"/>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/">Home</a>
