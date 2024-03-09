@@ -92,7 +92,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/healthSupplement"><img src="assets/images/classic/health supplement/image_24.PNG" alt="Product" /></a>
+                                            <a href="/healthSupplement"><img src="assets/images/classic/health supplement/image_24.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                    
@@ -112,7 +112,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/ayurveda"><img src="assets/images/classic/AYURVEDA/image_36.PNG" alt="Product" /></a>
+                                            <a href="/ayurveda"><img src="assets/images/classic/AYURVEDA/image_36.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
@@ -134,7 +134,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/waterPurifire"><img src="assets/images/classic/water purifier/image_55.PNG" alt="Product" /></a>
+                                            <a href="/waterPurifire"><img src="assets/images/classic/water purifier/image_55.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
@@ -155,7 +155,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/airPurifire"><img src="assets/images/classic/AIR PURIFIER/image_75.PNG" alt="Product" /></a>
+                                            <a href="/airPurifire"><img src="assets/images/classic/AIR PURIFIER/image_75.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
@@ -177,7 +177,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/healthFood"><img src="assets/images/classic/HEALTH FOOD/image_86.PNG" alt="Product" /></a>
+                                            <a href="/healthFood"><img src="assets/images/classic/HEALTH FOOD/image_86.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
@@ -210,7 +210,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/womenHygein"><img src="assets/images/classic/women hygiene/image_90.PNG" alt="Product" /></a>
+                                            <a href="/womenHygein"><img src="assets/images/classic/women hygiene/image_90.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                    
@@ -231,7 +231,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/oralCare"><img src="assets/images/classic/ORAL CARE/image_93.PNG" alt="Product" /></a>
+                                            <a href="/oralCare"><img src="assets/images/classic/ORAL CARE/image_93.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
@@ -253,7 +253,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/personalCare"><img src="assets/images/classic/PERSONAL CARE/image_124.PNG" alt="Product" /></a>
+                                            <a href="/personalCare"><img src="assets/images/classic/PERSONAL CARE/image_124.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
@@ -296,7 +296,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/machDrive"><img src="assets/images/classic/mech drive/image_73.PNG" alt="Product" /></a>
+                                            <a href="/machDrive"><img src="assets/images/classic/mech drive/image_73.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
