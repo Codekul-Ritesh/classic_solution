@@ -296,7 +296,7 @@ function Header() {
             <button class="mobile-menu-close-btn"><i class="fa-solid fa-xmark-large"></i></button>
             <ul class="menu-bar">
                 <li class="logo">
-                    <img src="assets/images/Logo.jpeg" alt="Logo"/>
+                    <img src="assets/images/LOGOO.PNG" alt="Logo"/>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/">Home</a>
