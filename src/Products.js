@@ -84,17 +84,20 @@ function Products() {
                                 </div>
                             </div>
                         </div>
+
+
+
                         <div class="panel-body">
                             <div class="product-custom-row">
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="prodCategory"><img src="assets/images/feat-product-1.jpg" alt="Product" /></a>
+                                            <a href="/healthSupplement"><img src="assets/images/classic/health supplement/image_24.PNG" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                    
                                                     <li>
-                                                        <a href="prodCategory" class="view-product">
+                                                        <a href="/healthSupplement" class="view-product">
                                                             <i class="fa-light fa-eye"></i>
                                                         </a>
                                                     </li>
@@ -102,27 +105,19 @@ function Products() {
                                             </div>
                                         </div>
                                         <div class="part-txt">
-                                            <h4 class="product-name"><a href="prodCategory">Category name</a></h4>
-                                            <p class="price"><span>$96.00</span>$75.00</p>
-                                            <div class="star">
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp"></i>
-                                            </div>
+                                            <h4 class="product-name"><a href="/healthSupplement">HEALTH SUPPLEMENT</a></h4>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="prodCategory"><img src="assets/images/feat-product-2.jpg" alt="Product" /></a>
+                                            <a href="/ayurveda"><img src="assets/images/classic/AYURVEDA/image_36.PNG" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
                                                     <li>
-                                                        <a href="prodCategory" class="view-product">
+                                                        <a href="/ayurveda" class="view-product">
                                                             <i class="fa-light fa-eye"></i>
                                                         </a>
                                                     </li>
@@ -130,28 +125,21 @@ function Products() {
                                             </div>
                                         </div>
                                         <div class="part-txt">
-                                            <h4 class="product-name"><a href="prodCategory">Living Summer Chair</a>
+                                            <h4 class="product-name"><a href="/ayurveda">AYURVEDA</a>
                                             </h4>
-                                            <p class="price"><span>$96.00</span>$75.00</p>
-                                            <div class="star">
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp"></i>
-                                            </div>
+                                           
                                         </div>
                                     </div>
                                 </div>
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="prodCategory"><img src="assets/images/feat-product-3.jpg" alt="Product" /></a>
+                                            <a href="/waterPurifire"><img src="assets/images/classic/water purifier/image_55.PNG" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
                                                     <li>
-                                                        <a href="prodCategory" class="view-product">
+                                                        <a href="/waterPurifire" class="view-product">
                                                             <i class="fa-light fa-eye"></i>
                                                         </a>
                                                     </li>
@@ -159,27 +147,20 @@ function Products() {
                                             </div>
                                         </div>
                                         <div class="part-txt">
-                                            <h4 class="product-name"><a href="prodCategory">category Name</a></h4>
-                                            <p class="price"><span>$96.00</span>$75.00</p>
-                                            <div class="star">
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp"></i>
-                                            </div>
+                                            <h4 class="product-name"><a href="/waterPurifire">WATER PURIFIRE</a></h4>
+                                           
                                         </div>
                                     </div>
                                 </div>
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="prodCategory"><img src="assets/images/feat-product-4.jpg" alt="Product" /></a>
+                                            <a href="/airPurifire"><img src="assets/images/classic/AIR PURIFIER/image_75.PNG" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
                                                     <li>
-                                                        <a href="prodCategory" class="view-product">
+                                                        <a href="/airPurifire" class="view-product">
                                                             <i class="fa-light fa-eye"></i>
                                                         </a>
                                                     </li>
@@ -187,28 +168,21 @@ function Products() {
                                             </div>
                                         </div>
                                         <div class="part-txt">
-                                            <h4 class="product-name"><a href="prodCategory">Travel handle totte bags</a>
+                                            <h4 class="product-name"><a href="/airPurifire">AIR PURIFIER</a>
                                             </h4>
-                                            <p class="price"><span>$96.00</span>$75.00</p>
-                                            <div class="star">
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp"></i>
-                                            </div>
+                                           
                                         </div>
                                     </div>
                                 </div>
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="prodCategory"><img src="assets/images/feat-product-5.jpg" alt="Product" /></a>
+                                            <a href="/healthFood"><img src="assets/images/classic/HEALTH FOOD/image_86.PNG" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
                                                     <li>
-                                                        <a href="prodCategory" class="view-product">
+                                                        <a href="/healthFood" class="view-product">
                                                             <i class="fa-light fa-eye"></i>
                                                         </a>
                                                     </li>
@@ -216,15 +190,127 @@ function Products() {
                                             </div>
                                         </div>
                                         <div class="part-txt">
-                                            <h4 class="product-name"><a href="prodCategory">Short-Sleeve T-Shirt</a></h4>
-                                            <p class="price"><span>$96.00</span>$75.00</p>
-                                            <div class="star">
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp"></i>
+                                            <h4 class="product-name"><a href="/healthFood">HEALTH FOOD</a></h4>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                              
+
+                            </div>
+                        </div>
+
+
+
+
+
+                        
+                        <div class="panel-body">
+                            <div class="product-custom-row">
+                                <div class="custom-col">
+                                    <div class="single-product-card">
+                                        <div class="part-img">
+                                            <a href="/womenHygein"><img src="assets/images/classic/women hygiene/image_90.PNG" alt="Product" /></a>
+                                            <div class="cart-option cart-option-bottom">
+                                                <ul>
+                                                   
+                                                    <li>
+                                                        <a href="/womenHygein" class="view-product">
+                                                            <i class="fa-light fa-eye"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
                                             </div>
+                                        </div>
+                                        <div class="part-txt">
+                                            <h4 class="product-name"><a href="/womenHygein">WOMEN HYGEIN</a></h4>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="custom-col">
+                                    <div class="single-product-card">
+                                        <div class="part-img">
+                                            <a href="/oralCare"><img src="assets/images/classic/ORAL CARE/image_93.PNG" alt="Product" /></a>
+                                            <div class="cart-option cart-option-bottom">
+                                                <ul>
+                                                  
+                                                    <li>
+                                                        <a href="/oralCare" class="view-product">
+                                                            <i class="fa-light fa-eye"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="part-txt">
+                                            <h4 class="product-name"><a href="/oralCare">ORAL CARE</a>
+                                            </h4>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="custom-col">
+                                    <div class="single-product-card">
+                                        <div class="part-img">
+                                            <a href="/personalCare"><img src="assets/images/classic/PERSONAL CARE/image_124.PNG" alt="Product" /></a>
+                                            <div class="cart-option cart-option-bottom">
+                                                <ul>
+                                                  
+                                                    <li>
+                                                        <a href="/personalCare" class="view-product">
+                                                            <i class="fa-light fa-eye"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="part-txt">
+                                            <h4 class="product-name"><a href="/personalCare">PERSONAL CARE</a></h4>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="custom-col">
+                                    <div class="single-product-card">
+                                        <div class="part-img">
+                                            <a href="/agriProducts"><img src="assets/images/classic/agri product/image_63.JPG" alt="Product" /></a>
+                                            <div class="cart-option cart-option-bottom">
+                                                <ul>
+                                                  
+                                                    <li>
+                                                        <a href="/agriProducts" class="view-product">
+                                                            <i class="fa-light fa-eye"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="part-txt">
+                                            <h4 class="product-name"><a href="/agriProducts">AGRI PRODUCTS</a>
+                                            </h4>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="custom-col">
+                                    <div class="single-product-card">
+                                        <div class="part-img">
+                                            <a href="/machDrive"><img src="assets/images/classic/mech drive/image_73.PNG" alt="Product" /></a>
+                                            <div class="cart-option cart-option-bottom">
+                                                <ul>
+                                                  
+                                                    <li>
+                                                        <a href="/machDrive" class="view-product">
+                                                            <i class="fa-light fa-eye"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="part-txt">
+                                            <h4 class="product-name"><a href="/machDrive">MACH-DRIVE</a></h4>
+                                            
                                         </div>
                                     </div>
                                 </div>
