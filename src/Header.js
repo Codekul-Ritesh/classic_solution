@@ -287,7 +287,7 @@ function Header() {
                     </div>
                     <ul class="mobile-nav">
                         <li><a role="button" data-target="mobile-category-list" class="m-nav-link"><i class="fa-light fa-grid-2"></i></a></li>
-                        <li><a href="http://wa.me/+917219769682" class="m-nav-link"><i class="fa-light fa-comment"></i></a></li>
+                        <li><a href="http://wa.me/+917420998608" class="m-nav-link"><i class="fa-light fa-comment"></i></a></li>
                         <li><a href="/" class="center"><i class="fa-light fa-house"></i></a></li>
                         <li><a href="/Contact" class="m-nav-link"><i class="fa-light fa-phone"></i></a></li>
                         <li><a role="button" data-target="m-main-menu" class="m-nav-link"><i class="fa-light fa-ellipsis-stroke"></i></a></li>

@@ -64,19 +64,19 @@ function Footer() {
                             <ul>
                                 <li>
                                     <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
-                                        <img src="assets/images/inst3.jpg" alt="image"/>
+                                        <img src="assets/gl-3.png" alt="image"/>
                                         <span><i class="fa-brands fa-instagram"></i></span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
-                                        <img src="assets/images/inst2.jpg" alt="image"/>
+                                        <img src="assets/gl-1.png" alt="image"/>
                                         <span><i class="fa-brands fa-instagram"></i></span>
                                     </a>
                                 </li>
                                 <li>
                                     <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
-                                        <img src="assets/images/inst1.jpg" alt="image"/>
+                                        <img src="assets/gl-2.png" alt="image"/>
                                         <span><i class="fa-brands fa-instagram"></i></span>
                                     </a>
                                 </li>
