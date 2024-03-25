@@ -246,11 +246,11 @@ function Banner() {
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/classic/ORAL CARE/image_93.png" alt="Product"/></a>
+                                            <a href="shop-details.html"><img src="assets/images/classic/HEALTH FOOD/image_86.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="shop-details.html">ORAL CARE</a></h4>
+                                            <h4 class="product-name"><a href="shop-details.html">HEALTH FOOD</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
@@ -421,7 +421,7 @@ function Banner() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/healthFood"><img src="assets/images/classic/HEALTH FOOD/image_86.png" alt="Product" /></a>
+                                            <a href="/healthFood"><img src="assets/images/classic/health food/image_86.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
