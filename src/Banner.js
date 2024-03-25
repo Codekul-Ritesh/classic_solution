@@ -3,7 +3,7 @@ import Header from './Header'
 import Footer from './Footer'
 
 function Banner() {
-    function sendwhatsapp() {
+      function sendwhatsapp() {
         var phonenumber = "+917420998608";
 
         var name = document.querySelector('.name').value;
@@ -237,11 +237,11 @@ function Banner() {
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/classic/PERSONAL CARE/image_124.png" alt="Product"/></a>
+                                            <a href="shop-details.html"><img src="assets/images/classic/health supplement/image_24.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="shop-details.html">PERSONAL CARE</a></h4>
+                                            <h4 class="product-name"><a href="shop-details.html">HEALTH SUPPLEMENT</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
