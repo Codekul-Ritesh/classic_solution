@@ -1,12 +1,29 @@
 import React from 'react'
 
+
+
 function Header() {
+
+    function sendwhatsapp() {
+        var phonenumber = "+917420998608";
+
+        var name = document.querySelector('.name').value;
+        var email = document.querySelector('.email').value;
+        var message = document.querySelector('.message').value;
+
+        var url = "https://wa.me/" + phonenumber + "?text=" +
+            "*name : * " + name + "%0a" +
+            "*email : * " + email + "%0a" +
+            "*message : * " + message + "%0a%0a";
+
+        window.open(url, '_blank').focus();
+    }
+
     return (
         <div>
 
             
 <body>
-   
 
 
     <div class="product-quick-view-panel">
@@ -135,7 +152,7 @@ function Header() {
                     <div class="col-xxl-3 col-xl-2 col-lg-2 col-sm-3 col-6">
                         <div class="logo">
                             <a href="index.html">
-                                <img src="/assets/images/LOGOO.png" alt="logo"/>
+                                <img src="assets/images/LOGOO.PNG" alt="logonew"/>
                             </a>
                         </div>
                     </div>
@@ -161,30 +178,6 @@ function Header() {
                         </div>
                     </div>
                     <div class="col-xl-3 col-xl-3 col-lg-2 col-sm-3 col-6">
-                        <ul class="bottom-header-right d-flex align-items-center justify-content-end">
-                            <li class="live-chat d-xl-flex d-none align-items-center">
-                                <div class="icon">
-                                    <img src="assets/images/call-icon.png" alt="call"/>
-                                </div>
-                                <div class="txt">
-                                    <span class="d-block">Live Chat on :</span>
-                                    <a class="d-block" href="tel:+997509153">+997 509 153</a>
-                                </div>
-                            </li>
-                            <li class="header-cart-options">
-                                <a role="button" class="search-open d-sm-none"><i class="fa-light fa-magnifying-glass"></i></a>
-                                <a href="compare.html" class="compare-list-btn"><i class="fa-light fa-shuffle"></i></a>
-                                <a role="button" class="wish-list-btn">
-                                    {/* <i class="fa-light fa-heart"></i>
-                                    <span class="quantity">02</span> */}
-                                </a>
-                                <a role="button" class="cart-list-btn">
-                                    {/* <i class="fa-light fa fa-whatsapp"></i>
-                                    <span class="quantity">03</span> */}
-                                </a>
-
-                            </li>
-                        </ul>
                     </div>
                 </div>
             </div>
@@ -294,7 +287,7 @@ function Header() {
             <button class="mobile-menu-close-btn"><i class="fa-solid fa-xmark-large"></i></button>
             <ul class="menu-bar">
                 <li class="logo">
-                    <img src="/assets/LOGOO.png" alt="Logo"/>
+                    <img src="assets/images/LOGOO.PNG" alt="Logo"/>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/">Home</a>

@@ -51,17 +51,7 @@ function Products() {
                                     </div>
                                 </nav>
                             </div>
-                            <div class="col-lg-2">
-                                <li class="live-chat d-xl-flex d-none align-items-center">
-                                    <div class="icon">
-                                        <img src="assets/images/call-icon.png" alt="call" />
-                                    </div>
-                                    <div class="txt">
-                                        <span class="d-block">Contact :</span>
-                                        <a class="d-block" href="tel:+997509153">+997 509 153</a>
-                                    </div>
-                                </li>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -274,7 +264,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/agriProducts"><img src="assets/images/classic/agri product/image_63.JPG" alt="Product" /></a>
+                                            <a href="/agriProducts"><img src="assets/images/classic/agri product/image_63.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   

@@ -13,7 +13,7 @@ function Footer() {
                     <div class="custom-col-2">
                         <div class="footer-about">
                             <div class="footer-logo">
-                                <img src="assets/images/LOGOO.png" alt="Logo"/>
+                                <img src="assets/images/LOGOO.PNG" alt="Logo"/>
                             </div>
                             <ul>
                                 <li>
@@ -48,11 +48,11 @@ function Footer() {
                             <div class="footer-link">
                                 <h3 class="footer-title">Information</h3>
                                 <ul>
-                                    <li><a href="about.html">Home</a></li>
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="contact.html">Products</a></li>
-                                    <li><a href="about.html">Blog</a></li>
-                                    <li><a href="contact.html">Contact Us</a></li>
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="/About">About Us</a></li>
+                                    <li><a href="/Products">Products</a></li>
+                                    <li><a href="/Blog">Blog</a></li>
+                                    <li><a href="/Contact">Contact Us</a></li>
                                 </ul>
                             </div>
                            
@@ -63,37 +63,37 @@ function Footer() {
                             <h3 class="footer-title">Instagram</h3>
                             <ul>
                                 <li>
-                                    <a href="https://instagram.com/" target="_blank">
+                                    <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
                                         <img src="assets/images/gl-1.png" alt="image"/>
                                         <span><i class="fa-brands fa-instagram"></i></span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://instagram.com/" target="_blank">
+                                    <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
                                         <img src="assets/images/gl-2.png" alt="image"/>
                                         <span><i class="fa-brands fa-instagram"></i></span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://instagram.com/" target="_blank">
+                                    <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
                                         <img src="assets/images/gl-3.png" alt="image"/>
                                         <span><i class="fa-brands fa-instagram"></i></span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://instagram.com/" target="_blank">
+                                    <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
                                         <img src="assets/images/gl-4.png" alt="image"/>
                                         <span><i class="fa-brands fa-instagram"></i></span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://instagram.com/" target="_blank">
+                                    <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
                                         <img src="assets/images/gl-5.png" alt="image"/>
                                         <span><i class="fa-brands fa-instagram"></i></span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://instagram.com/" target="_blank">
+                                    <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
                                         <img src="assets/images/gl-6.png" alt="image"/>
                                         <span><i class="fa-brands fa-instagram"></i></span>
                                     </a>
@@ -110,7 +110,7 @@ function Footer() {
         <div class="copyright">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-md-6">
+                    <div class="col-md-10">
                         <p>&copy; 2024 Classic-Solution all Right Reserved. Design by Ritesh Tagunde, Piyush Kulkarni, Manthan Bhome Distributed by RBT </p>
                     </div>
                     

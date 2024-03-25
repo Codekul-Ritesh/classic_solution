@@ -3,6 +3,22 @@ import Header from './Header'
 import Footer from './Footer'
 
 function Contact() {
+
+    function sendwhatsapp() {
+        var phonenumber = "+917420998608";
+
+        var name = document.querySelector('.name').value;
+        var email = document.querySelector('.email').value;
+        var message = document.querySelector('.message').value;
+
+        var url = "https://wa.me/" + phonenumber + "?text=" +
+            "*name : * " + name + "%0a" +
+            "*email : * " + email + "%0a" +
+            "*message : * " + message + "%0a%0a";
+
+        window.open(url, '_blank').focus();
+    }
+
     return (
         <div>
 
@@ -52,17 +68,6 @@ function Contact() {
                                     </div>
                                 </nav>
                             </div>
-                            <div class="col-lg-2">
-                                <li class="live-chat d-xl-flex d-none align-items-center">
-                                    <div class="icon">
-                                        <img src="assets/images/call-icon.png" alt="call" />
-                                    </div>
-                                    <div class="txt">
-                                        <span class="d-block">Contact :</span>
-                                        <a class="d-block" href="tel:+997509153">+997 509 153</a>
-                                    </div>
-                                </li>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -80,8 +85,8 @@ function Contact() {
                                             <span><i class="fa-solid fa-phone-flip"></i></span>
                                         </div>
                                         <div class="part-txt">
-                                            <a href="mailto:Support@gmail.com">Support@gmail.com</a>
-                                            <a href="tel:+1212-683-9756">+1 212-683-9756</a>
+                                            <a href="mailto:Support@gmail.com">pandharpurmi@gmail.com</a>
+                                            <a href="tel:+1212-683-9756">+91 742-099-8608</a>
                                         </div>
                                     </li>
                                     <li>
@@ -89,7 +94,7 @@ function Contact() {
                                             <span><i class="fa-solid fa-location-dot"></i></span>
                                         </div>
                                         <div class="part-txt">
-                                            <span>799 W 6th St Hoisington, Kansas 121 Sparrow Hawk, Alberta</span>
+                                            <span>Lad nagar, behind Kandre's Fitness Hub, Isbavi, Pandharpur, Maharashtra 413304</span>
                                         </div>
                                     </li>
                                     <li>
@@ -109,30 +114,30 @@ function Contact() {
                                 <h2 class="title">Leave a Message</h2>
                                 <form class="row g-lg-4 g-3">
                                     <div class="col-lg-6 col-md-12 col-sm-6">
-                                        <input type="text" placeholder="Name" />
+                                        <input type="text" placeholder="Name" className='name' />
                                     </div>
                                     <div class="col-lg-6 col-md-12 col-sm-6">
-                                        <input type="email" placeholder="Email" />
+                                        <input type="email" placeholder="Email" className='email'/>
                                     </div>
                                     <div class="col-12">
-                                        <textarea placeholder="Your message"></textarea>
+                                        <textarea placeholder="Your message" className='message'></textarea>
                                     </div>
                                     <div class="col-12">
-                                        <button class="def-btn btn-border w-100">Find an agent</button>
+                                        <button class="def-btn btn-border w-100" type='submit' onClick={sendwhatsapp}>Submit</button>
                                     </div>
                                 </form>
                             </div>
                         </div>
                     </div>
                     <div class="map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14594.426811590003!2d90.40170455!3d23.8680958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1661416116390!5m2!1sen!2sbd" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10125.01371262565!2d75.30545811010865!3d17.68006083457984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc4173e86433fcf%3A0xc7db0353a060c8d2!2sVESTIGE%20BO%20DLCP%20Pandharpur!5e0!3m2!1sen!2sin!4v1703689303965!5m2!1sen!2sin" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>
 
 
 
-            <div class="features" id="feature">
+            {/* <div class="features" id="feature">
                 <div class="container">
                     <div class="panel panel-shadow px-0">
                         <div class="custom-row">
@@ -183,7 +188,7 @@ function Contact() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
 
             <Footer />
@@ -192,4 +197,6 @@ function Contact() {
     )
 }
 
+
 export default Contact
+
