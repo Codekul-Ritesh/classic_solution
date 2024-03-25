@@ -221,7 +221,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/oralCare"><img src="assets/images/classic/ORAL CARE/image_93.png" alt="Product" /></a>
+                                            <a href="/oralCare"><img src="assets/images/classic/oral care/image_93.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
@@ -243,7 +243,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/personalCare"><img src="assets/images/classic/PERSONAL CARE/image_124.png" alt="Product" /></a>
+                                            <a href="/personalCare"><img src="assets/images/classic/personal care/image_124.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
