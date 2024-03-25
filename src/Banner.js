@@ -219,25 +219,25 @@ function Banner() {
                                 <div class="product-slider-1">
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/classic/mech drive/image_73.png" alt="Product"/></a>
+                                            <a href="/Products"><img src="assets/images/classic/mech drive/image_73.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="shop-details.html">MACH-DRIVE</a></h4>
+                                            <h4 class="/Products"><a href="shop-details.html">MACH-DRIVE</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/classic/agri product/image_63.png" alt="Product"/></a>
+                                            <a href="/Products"><img src="assets/images/classic/agri product/image_63.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="shop-details.html">AGRI PRODUCTS</a></h4>
+                                            <h4 class="/Products"><a href="shop-details.html">AGRI PRODUCTS</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/classic/health supplement/image_24.png" alt="Product"/></a>
+                                            <a href="/Products"><img src="assets/images/classic/health supplement/image_24.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
@@ -246,7 +246,7 @@ function Banner() {
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/classic/health food/image_86.png" alt="Product"/></a>
+                                            <a href="/Products"><img src="assets/images/classic/health food/image_86.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
@@ -255,7 +255,7 @@ function Banner() {
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/classic/women hygiene/image_90.png" alt="Product"/></a>
+                                            <a href="/Products"><img src="assets/images/classic/women hygiene/image_90.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
