@@ -323,7 +323,7 @@ function Banner() {
                                 </div>
                                 <div class="col-4">
                                     <div class="text-end">
-                                        <a href="shop.html" class="explore-section">View more</a>
+                                        <a href="/Products" class="explore-section">View more</a>
                                     </div>
                                 </div>
                             </div>
@@ -399,7 +399,7 @@ function Banner() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/airPurifire"><img src="assets/images/classic/air purifire/image_75.png" alt="Product" /></a>
+                                            <a href="/airPurifire"><img src="assets/images/classic/air purifier/image_75.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
