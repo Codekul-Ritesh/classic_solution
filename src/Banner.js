@@ -223,7 +223,7 @@ function Banner() {
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="/Products"><a href="shop-details.html">MACH-DRIVE</a></h4>
+                                            <h4 class="product-name"><a href="/Products">MACH-DRIVE</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
@@ -232,7 +232,7 @@ function Banner() {
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="/Products"><a href="shop-details.html">AGRI PRODUCTS</a></h4>
+                                            <h4 class="product-name"><a href="/Products">AGRI PRODUCTS</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
@@ -241,7 +241,7 @@ function Banner() {
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="shop-details.html">HEALTH SUPPLEMENT</a></h4>
+                                            <h4 class="product-name"><a href="/Products">HEALTH SUPPLEMENT</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
@@ -250,7 +250,7 @@ function Banner() {
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="shop-details.html">HEALTH FOOD</a></h4>
+                                            <h4 class="product-name"><a href="/Products">HEALTH FOOD</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
@@ -259,7 +259,7 @@ function Banner() {
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="shop-details.html">WOMEN HYGEIN</a></h4>
+                                            <h4 class="product-name"><a href="/Products">WOMEN HYGEIN</a></h4>
                                         </div>
                                     </div>
                                 </div>
