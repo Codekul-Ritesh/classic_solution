@@ -4050,15 +4050,15 @@ img {
   }
 }
 .banner.banner-2 .banner-slider .slide.slide-1 {
-  background: url(../images/banner-slider-1.jpg) center center no-repeat;
+  background: url(../images/banner-1011.jpg) center center no-repeat;
   background-size: cover;
 }
 .banner.banner-2 .banner-slider .slide.slide-2 {
-  background: url(../images/banner-slider-2.jpg) center center no-repeat;
+  background: url(../images/banner-1012.jpg) center center no-repeat;
   background-size: cover;
 }
 .banner.banner-2 .banner-slider .slide.slide-3 {
-  background: url(../images/banner-slider-3.jpg) center center no-repeat;
+  background: url(../images/banner-1011.jpg) center center no-repeat;
   background-size: cover;
 }
 .banner.banner-2 .banner-slider .slide .part-txt {
@@ -4339,7 +4339,7 @@ img {
   position: relative;
 }
 .banner .slider-area .slide-1 {
-  background: url(../images/main-slider-img-1.png) center center no-repeat;
+  background: url(../images/banner-1011.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
   z-index: 2;
@@ -4354,7 +4354,7 @@ img {
   z-index: -1;
 }
 .banner .slider-area .slide-2 {
-  background: url(../images/main-slider-img-2.png) center center no-repeat;
+  background: url(../images/banner-1012.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
   z-index: 2;
@@ -4370,7 +4370,7 @@ img {
   z-index: -1;
 }
 .banner .slider-area .slide-3 {
-  background: url(../images/main-slider-img-3.png) center center no-repeat;
+  background: url(../images/banner-1011.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
   z-index: 2;

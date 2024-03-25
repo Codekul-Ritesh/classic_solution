@@ -146,42 +146,17 @@ function Header() {
     <div class="header">
       
 
-        <div class="bottom-header">
             <div class="container">
                 <div class="row justify-content-between align-items-center g-md-4 g-sm-0">
                     <div class="col-xxl-3 col-xl-2 col-lg-2 col-sm-3 col-6">
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="/">
                                 <img src="assets/images/LOGOO.png" alt="logonew"/>
                             </a>
                         </div>
-                    </div>
-                    <div class="col-xxl-6 col-xl-7 col-lg-8 col-sm-6 col-12 search-col">
-                        <div class="header-search">
-                            <form>
-                                <div class="wrap">
-                                    <select name="category" class="select">
-                                        <button href='/'><option>Home</option></button>
-                                        <option value="2" >About</option>
-                                        <option value="3">Product</option>
-                                        <option value="4">Blog</option>
-                                        <option value="5">Contact </option>
-                                      
-                                    </select>
-                                    <span class="devider"></span>
-                                    <input type="search" name="search" placeholder="What do you need?"/>
-                                </div>
-                                <button type="submit">
-                                    <span><i class="fa-light fa-magnifying-glass"></i></span>
-                                </button>
-                            </form>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-xl-3 col-lg-2 col-sm-3 col-6">
-                    </div>
+                    </div>                  
                 </div>
             </div>
-        </div>    
     </div>
 
 
@@ -309,9 +284,9 @@ function Header() {
         </div>
         <ul class="mobile-nav">
             <li><a role="button" data-target="mobile-category-list" class="m-nav-link"><i class="fa-light fa-grid-2"></i></a></li>
-            <li><a href="http://wa.me/+917219769682" class="m-nav-link"><i class="fa-light fa-fa-whatsapp"></i></a></li>
-            <li><a href="index.html" class="center"><i class="fa-light fa-house"></i></a></li>
-            <li><a href="account.html" class="m-nav-link"><i class="fa-light fa-user-large"></i></a></li>
+            <li><a href="http://wa.me/+917219769682" class="m-nav-link"><i class="fa-light fa-whatsapp"></i></a></li>
+            <li><a href="/" class="center"><i class="fa-light fa-house"></i></a></li>
+            <li><a href="/Contact" class="m-nav-link"><i class="fa-light fa-phone"></i></a></li>
             <li><a role="button" data-target="m-main-menu" class="m-nav-link"><i class="fa-light fa-ellipsis-stroke"></i></a></li>
         </ul>
     </div>

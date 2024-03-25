@@ -3,6 +3,20 @@ import Header from './Header'
 import Footer from './Footer'
 
 function Banner() {
+    function sendwhatsapp() {
+        var phonenumber = "+917420998608";
+
+        var name = document.querySelector('.name').value;
+        var email = document.querySelector('.email').value;
+        var message = document.querySelector('.message').value;
+
+        var url = "https://wa.me/" + phonenumber + "?text=" +
+            "*name : * " + name + "%0a" +
+            "*email : * " + email + "%0a" +
+            "*message : * " + message + "%0a%0a";
+
+        window.open(url, '_blank').focus();
+    }
     return (
         <div>
 
@@ -14,11 +28,14 @@ function Banner() {
   
     <div class="menu-bar">
             <div class="container">
+
                 <div class="row align-items-center">  
                 
                          
                     <div class="col-xxl-3 col-xl-3 col-lg-4">
+
                         <div class="all-department">
+                            
                             <span>all Departments</span>
                             <button class="category-list-close"><i class="fa-light fa-bars"></i></button>
                             <div class="banner">
@@ -31,105 +48,7 @@ function Banner() {
                                                 </div>
                                                 <span>HEALTH SUPPLEMENT</span>
                                             </a>
-                                            {/* <div class="category-sub-menu bg-1">
-                                                <div class="row g-4">
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-wedding-dress"></i></span> Clothing</h4>
-                                                        <ul>
-                                                            <li>
-                                                                <a href="#">Dresses</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Jeggings</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Kurtis</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Palazzo Pants & Culottes</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Pants</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Shapewear</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Skirts</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Tops</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">T-Shirts</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Tunics</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-
-
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-heels"></i></span> Shoes</h4>
-                                                        <ul>
-                                                            <li>
-                                                                <a href="#">Ballet Flats</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Pumps</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Closed-Toe Wedges</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Fashion Boots</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Flat Sandals</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Flip Flops</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Heeled Sandals</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">House Slippers</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Slip-Ons</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Sneakers</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Wedge Sandals</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-watch"></i></span> Watches</h4>
-                                                        <ul>
-                                                            <li>
-                                                                <a href="#">Fashion</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Casual</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Business</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Sports</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Accessories</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div> */}
+                                           
                                         </li>
                                         <li class="category-item">
                                             <a href="/ayurveda">
@@ -162,119 +81,7 @@ function Banner() {
                                                 </div>
                                                 <span>HEALTH FOOD</span>
                                             </a>
-                                            {/* <div class="category-sub-menu">
-                                                <div class="row g-4">
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-television"></i></span> Televisions</h4>
-                                                        <ul>
-                                                            <li>
-                                                                <a href="#">Smart Televisions</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">LED Televisions</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">OLED Televisions</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Other Televisions</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Mini Televisions</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-speaker"></i></span> Home Audio</h4>
-                                                        <ul>
-                                                            <li>
-                                                                <a href="#">Sondbars</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Home Entertainment</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Portable Players</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Fashion Boots</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Live Sound</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-refrigerator"></i></span> Large Appliances</h4>
-                                                        <ul>
-                                                            <li>
-                                                                <a href="#">Refrigerators</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Freezers</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Washing Machines</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Microwave Oven</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Electric Oven</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-cooking"></i></span> Kitchen Appliances</h4>
-                                                        <ul>
-                                                            <li>
-                                                                <a href="#">Rice Cooker</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Blender, Mixer & Grinder</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Electric Kettle</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Juicer & Fruit Extraction</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Fryer</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Coffee Machine</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-air-conditioner"></i></span> Cooling & Heating</h4>
-                                                        <ul>
-                                                            <li>
-                                                                <a href="#">Air Conditioner</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Air Coolers</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Air Purifiers</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Dehumidifiers</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Water Heater</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-season"></i></span> Season Sale</h4>
-                                                        <a href="#">
-                                                            <img src="assets/images/mega-menu-bg-2.jpg" alt="Image"/>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div> */}
+                                          
                                         </li>
                                         <li class="category-item">
                                             <a href="/womenHygein">
@@ -291,76 +98,7 @@ function Banner() {
                                                 </div>
                                                 <span>ORAL CARE</span>
                                             </a>
-                                            {/* <div class="category-sub-menu">
-                                                <div class="row g-4">
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-baby-boy"></i></span> Mother & Baby</h4>
-                                                        <ul>
-                                                            <li>
-                                                                <a href="#">Baby & Toddler Foods</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Milk Formula</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Cloth Diapers & Accessories</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Diaper Bags</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Wipes & Holders</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-rocking-horse"></i></span> Baby Gear</h4>
-                                                        <ul>
-                                                            <li>
-                                                                <a href="#">Baby Walkers</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Backpacks & Carriers</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Strollers</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Swings, Jumpers & Bouncers</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Activity Gym & Playmats</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-4">
-                                                        <h4><span><i class="flaticon-baby-dress"></i></span> Clothing & Accessories</h4>
-                                                        <ul>
-                                                            <li>
-                                                                <a href="#">Girls Clothing</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Girls Shoes</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Boys Clothing</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">Maternity Wear</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="#">New Born Unisex (0 - 6 months)</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-lg-12">
-                                                        <h4><span><i class="flaticon-season"></i></span> Season Sale</h4>
-                                                        <a href="#">
-                                                            <img src="assets/images/mega-menu-bg-3.jpg" alt="Image"/>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div> */}
+                                          
                                         </li>
                                         <li class="category-item">
                                             <a href="/personalCare">
@@ -444,29 +182,29 @@ function Banner() {
                     <div class="slider-area">
                         <div class="slide-1">
                             <div class="banner-txt">
-                                <h6>Fashion</h6>
-                                <h1>New Women</h1>
-                                <p>The 10 Best Fashion Collection 2021</p>
-                                <div class="price"><span>$320.00</span> <span>$295.00</span></div>
-                                <a href="shop-details.html" class="def-btn">buy now</a>
+                             <h6></h6>
+                                <h1>New Products</h1>
+                                <p></p>
+                                <div class="price"><span></span> <span></span></div>
+                                <a href="/Products" class="def-btn">buy now</a>
                             </div>
                         </div>
                         <div class="slide-2">
                             <div class="banner-txt">
-                                <h6>Fashion</h6>
-                                <h1>New Women</h1>
-                                <p>The 10 Best Fashion Collection 2021</p>
-                                <div class="price"><span>$320.00</span> <span>$295.00</span></div>
-                                <a href="shop-details.html" class="def-btn">buy now</a>
+                                <h6></h6>
+                                <h1>New Products</h1>
+                                <p></p>
+                                <div class="price"><span></span> <span></span></div>
+                                <a href="/Products" class="def-btn">buy now</a>
                             </div>
                         </div>
                         <div class="slide-3">
                             <div class="banner-txt">
-                                <h6>Fashion</h6>
-                                <h1>New Women</h1>
-                                <p>The 10 Best Fashion Collection 2021</p>
-                                <div class="price"><span>$320.00</span> <span>$295.00</span></div>
-                                <a href="shop-details.html" class="def-btn">buy now</a>
+                            <h6></h6>
+                                <h1>New Products</h1>
+                                <p></p>
+                                <div class="price"><span></span> <span></span></div>
+                                <a href="/Products" class="def-btn">buy now</a>
                             </div>
                         </div>
                     </div>
@@ -481,82 +219,47 @@ function Banner() {
                                 <div class="product-slider-1">
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/best-selling-1.png" alt="Product"/></a>
+                                            <a href="shop-details.html"><img src="assets/images/classic/mech drive/image_73.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
-                                            <div class="star">
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp"></i>
-                                            </div>
-                                            <h4 class="product-name"><a href="shop-details.html">Cuisinart Barrel</a></h4>
-                                            <p class="price">$75.00 <span>$94.00</span></p>
+                                           
+                                            <h4 class="product-name"><a href="shop-details.html">MACH-DRIVE</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/best-selling-2.png" alt="Product"/></a>
+                                            <a href="shop-details.html"><img src="assets/images/classic/agri product/image_63.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
-                                            <div class="star">
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp"></i>
-                                            </div>
-                                            <h4 class="product-name"><a href="shop-details.html">Ut enim ad minima</a></h4>
-                                            <p class="price">$25.00</p>
+                                           
+                                            <h4 class="product-name"><a href="shop-details.html">AGRI PRODUCTS</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/best-selling-3.png" alt="Product"/></a>
+                                            <a href="shop-details.html"><img src="assets/images/classic/PERSONAL CARE/image_124.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
-                                            <div class="star">
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp"></i>
-                                            </div>
-                                            <h4 class="product-name"><a href="shop-details.html">Aut odit aut fugit</a></h4>
-                                            <p class="price">$98.00</p>
+                                           
+                                            <h4 class="product-name"><a href="shop-details.html">PERSONAL CARE</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/best-selling-4.png" alt="Product"/></a>
+                                            <a href="shop-details.html"><img src="assets/images/classic/ORAL CARE/image_93.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
-                                            <div class="star">
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp"></i>
-                                            </div>
-                                            <h4 class="product-name"><a href="shop-details.html">Aut odit aut fugit</a></h4>
-                                            <p class="price">$98.00</p>
+                                           
+                                            <h4 class="product-name"><a href="shop-details.html">ORAL CARE</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="shop-details.html"><img src="assets/images/best-selling-1.png" alt="Product"/></a>
+                                            <a href="shop-details.html"><img src="assets/images/classic/women hygiene/image_90.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
-                                            <div class="star">
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp rated"></i>
-                                                <i class="fa-solid fa-star-sharp"></i>
-                                            </div>
-                                            <h4 class="product-name"><a href="shop-details.html">Cuisinart Barrel</a></h4>
-                                            <p class="price">$75.00 <span>$94.00</span></p>
+                                           
+                                            <h4 class="product-name"><a href="shop-details.html">WOMEN HYGEIN</a></h4>
                                         </div>
                                     </div>
                                 </div>
@@ -568,6 +271,220 @@ function Banner() {
         </div>
     </div>
 
+
+
+
+
+    <div class="about pt-120 pb-60">
+                <div class="container">
+                   
+                    <div class="main-txt">
+                        <div class="row justify-content-center">
+                            <div class="col-xxl-6 col-xl-7">
+                                <h2 class="about-page-title text-center">Life is Hard Enough Already. Let us Make it a Much More Easier.​</h2>
+                            </div>
+                        </div>
+
+
+
+                        <div class="why-choose">
+                            <div class="row g-4 justify-content-between">
+                                <div class="col-xl-6 col-lg-7">
+                                    <div class="part-txt">
+                                        <h2 class="part-title">Vestige Store (Est. 2019)</h2>
+                                        <p>
+                                            We started our firm in Vestige since the product quality and performance were excellent. We began with utilizing Agri goods for at least a year before expanding to include health supplements, personal care products, and health food products. The products were good and worth the price. We had good success in Agri Products.  We also got to know the other consumers in Pandharpur. Vestige items were in high demand in Pandharpur at the time. This gave rise to the concept of Vestige Business. So we took the initiative and set up the Vestige Branch in Pandharpur.
+                                        </p>
+
+                                       
+
+                                    </div>
+                                </div>
+                                <div class="col-xl-6 col-lg-5">
+                                    <img src="assets/images/store-image.png" alt="Image" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+    
+
+    <div class="featured-product py-25">
+                <div class="container">
+                    <div class="panel">
+                        <div class="panel-header">
+                            <div class="row">
+                                <div class="col-8">
+                                    <h2 class="title">Category products</h2>
+                                </div>
+                                <div class="col-4">
+                                    <div class="text-end">
+                                        <a href="shop.html" class="explore-section">View more</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="panel-body">
+                            <div class="product-custom-row">
+                                <div class="custom-col">
+                                    <div class="single-product-card">
+                                        <div class="part-img">
+                                            <a href="/healthSupplement"><img src="assets/images/classic/health supplement/image_24.png" alt="Product" /></a>
+                                            <div class="cart-option cart-option-bottom">
+                                                <ul>
+                                                   
+                                                    <li>
+                                                        <a href="/healthSupplement" class="view-product">
+                                                            <i class="fa-light fa-eye"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="part-txt">
+                                            <h4 class="product-name"><a href="/healthSupplement">HEALTH SUPPLEMENT</a></h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="custom-col">
+                                    <div class="single-product-card">
+                                        <div class="part-img">
+                                            <a href="/ayurveda"><img src="assets/images/classic/AYURVEDA/image_36.png" alt="Product" /></a>
+                                            <div class="cart-option cart-option-bottom">
+                                                <ul>
+                                                  
+                                                    <li>
+                                                        <a href="/ayurveda" class="view-product">
+                                                            <i class="fa-light fa-eye"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="part-txt">
+                                            <h4 class="product-name"><a href="/ayurveda">AYURVEDA</a>
+                                            </h4>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="custom-col">
+                                    <div class="single-product-card">
+                                        <div class="part-img">
+                                            <a href="/waterPurifire"><img src="assets/images/classic/water purifier/image_55.png" alt="Product" /></a>
+                                            <div class="cart-option cart-option-bottom">
+                                                <ul>
+                                                  
+                                                    <li>
+                                                        <a href="/waterPurifire" class="view-product">
+                                                            <i class="fa-light fa-eye"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="part-txt">
+                                            <h4 class="product-name"><a href="/waterPurifire">WATER PURIFIRE</a></h4>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="custom-col">
+                                    <div class="single-product-card">
+                                        <div class="part-img">
+                                            <a href="/airPurifire"><img src="assets/images/classic/AIR PURIFIER/image_75.png" alt="Product" /></a>
+                                            <div class="cart-option cart-option-bottom">
+                                                <ul>
+                                                  
+                                                    <li>
+                                                        <a href="/airPurifire" class="view-product">
+                                                            <i class="fa-light fa-eye"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="part-txt">
+                                            <h4 class="product-name"><a href="/airPurifire">AIR PURIFIER</a>
+                                            </h4>
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="custom-col">
+                                    <div class="single-product-card">
+                                        <div class="part-img">
+                                            <a href="/healthFood"><img src="assets/images/classic/HEALTH FOOD/image_86.png" alt="Product" /></a>
+                                            <div class="cart-option cart-option-bottom">
+                                                <ul>
+                                                  
+                                                    <li>
+                                                        <a href="/healthFood" class="view-product">
+                                                            <i class="fa-light fa-eye"></i>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="part-txt">
+                                            <h4 class="product-name"><a href="/healthFood">HEALTH FOOD</a></h4>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                              
+
+                            </div>
+                        </div>
+
+
+
+
+
+                        
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="contact py-120">
+                <div class="container">
+                    <div class="row justify-content-between">
+
+                    <div class="col-xxl-7 col-lg-7 col-md-6">
+                            <div class="contact-form">
+                                <h2 class="title">Leave a Message</h2>
+                                <form class="row g-lg-4 g-3">
+                                    <div class="col-lg-6 col-md-12 col-sm-6">
+                                        <input type="text" placeholder="Name" className='name' />
+                                    </div>
+                                    <div class="col-lg-6 col-md-12 col-sm-6">
+                                        <input type="email" placeholder="Email" className='email'/>
+                                    </div>
+                                    <div class="col-12">
+                                        <textarea placeholder="Your message" className='message'></textarea>
+                                    </div>
+                                    <div class="col-12">
+                                        <button class="def-btn btn-border w-100" type='submit' onClick={sendwhatsapp}>Submit</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+
+            <div class="map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10125.01371262565!2d75.30545811010865!3d17.68006083457984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc4173e86433fcf%3A0xc7db0353a060c8d2!2sVESTIGE%20BO%20DLCP%20Pandharpur!5e0!3m2!1sen!2sin!4v1703689303965!5m2!1sen!2sin" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                    </div>
+                    </div>
+                    </div>
             
 
 
