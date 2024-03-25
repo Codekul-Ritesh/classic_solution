@@ -71,7 +71,7 @@ function RICE_BRAN_OIL() {
                                     <h2 class="main-product-title">LITE HOUSE RICE BRAN OIL</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹560.00</span>₹475</li>
+                                        <li><span >MRP  ₹560.00</span>MRP  ₹475</li>
                                         <li>Product Code: <span>22042A</span></li>
                                         <li>PV <span> 7.92</span></li>
                                         <li>NET VOLUMES<span> 2 Ltr.</span></li>

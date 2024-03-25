@@ -71,7 +71,7 @@ function BB_CREAM() {
                                     <h2 class="main-product-title">ASSURE BB CREAM</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹400.00</span>₹340</li>
+                                        <li><span >MRP  ₹400.00</span>MRP  ₹340</li>
                                         <li>Product Code: <span>23016</span></li>
                                         <li>PV <span> 11.33</span></li>
                                         <li>NET VOLUMES<span> 30 g</span></li>

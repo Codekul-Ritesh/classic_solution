@@ -72,7 +72,7 @@ function VESTIGE_AGRI_MOSS() {
                                     <h2 class="main-product-title">VESTIGE AGRI MOSS</h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹380.00 </span> ₹330.00 </li>  
+                                    <li><span >MRP  ₹380.00 </span>Discount  ₹330.00 </li>  
                                         <li>Product Code: <span>26011</span></li>
                                         <li>PV <span>11.00</span></li>
                                         <li>NET CONTENT<span>100 ml</span></li>

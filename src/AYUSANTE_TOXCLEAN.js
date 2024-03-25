@@ -72,7 +72,7 @@ function AYUSANTE_TOXCLEAN() {
 
                                     <ul class="short-details">
                                   
-                                        <li><span >₹825.00 </span> ₹705.00 </li>  
+                                        <li><span >MRP  ₹825.00 </span>Discount  ₹705.00 </li>  
 
                                         <li>Product Code: <span>20011</span></li>
                                         <li>PV <span>23.50</span></li>

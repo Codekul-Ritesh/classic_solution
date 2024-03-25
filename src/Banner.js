@@ -14,7 +14,9 @@ function Banner() {
   
     <div class="menu-bar">
             <div class="container">
-                <div class="row align-items-center">           
+                <div class="row align-items-center">  
+                
+                         
                     <div class="col-xxl-3 col-xl-3 col-lg-4">
                         <div class="all-department">
                             <span>all Departments</span>

@@ -71,7 +71,7 @@ function AGRI_AQUAGEL() {
                                     <h2 class="main-product-title"> AGRI AQUAGEL </h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹2000.00 </span> ₹180.00 </li>  
+                                    <li><span >MRP  ₹2000.00 </span>Discount  ₹180.00 </li>  
                                         <li>Product Code: <span>26022</span></li>
                                         <li>PV <span>60.00</span></li>
                                         <li>NET CONTENT<span> 1kg</span></li>

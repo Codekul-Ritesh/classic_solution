@@ -71,7 +71,7 @@ function PROTEIN_SNAK_BAR() {
                                     <h2 class="main-product-title">ENERVA PROTEIN SNACK BAR</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹65.00</span>₹55</li>
+                                        <li><span >MRP  ₹65.00</span>MRP  ₹55</li>
                                         <li>Product Code: <span>21012</span></li>
                                         <li>PV <span> 1.83</span></li>
                                         <li>NET VOLUMES<span> 30 g</span></li>

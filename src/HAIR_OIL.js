@@ -71,7 +71,7 @@ function HAIR_OIL() {
                                     <h2 class="main-product-title">ASSURE HAIR OIL</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹195.00</span>₹165</li>
+                                        <li><span >MRP  ₹195.00</span>MRP  ₹165</li>
                                         <li>Product Code: <span>23011</span></li>
                                         <li>PV <span> 5.50</span></li>
                                         <li>NET VOLUMES<span>200 ml</span></li>

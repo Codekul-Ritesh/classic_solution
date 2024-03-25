@@ -71,7 +71,7 @@ function SHARP_PITCHER() {
                                     <h2 class="main-product-title">SHARP WATER PURIFIER PITCHER</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹3200.00</span> ₹4000</li>
+                                        <li><span >Discount  ₹3200.00</span>Discount  ₹4000</li>
                                         <li>Product Code: <span> 27004A</span></li>
                                         <li>PV <span>133.33</span></li>
                                         <li>NET VOLUMES<span>1 Unit</span></li>

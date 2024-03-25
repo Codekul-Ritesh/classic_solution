@@ -71,7 +71,7 @@ function VESLIM_SHAKE() {
                                     <h2 class="main-product-title">VESTIGE VESLIM SHAKE 500G</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹1750.00 </span> ₹1495.00</li>
+                                        <li><span >MRP  ₹1750.00 </span>Discount  ₹1495.00</li>
                                         <li>Product Code: <span> 22040</span></li>
                                         <li>PV <span>49.83</span></li>
                                         <li>NET VOLUMES<span>500 g</span></li>

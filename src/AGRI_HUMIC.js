@@ -71,7 +71,7 @@ function AGRI_HUMIC() {
                                     <h2 class="main-product-title"> AGRI HUMIC </h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹635.00 </span> ₹550.00 </li>  
+                                    <li><span >MRP  ₹635.00 </span>Discount  ₹550.00 </li>  
                                         <li>Product Code: <span>26023</span></li>
                                         <li>PV <span>18.33</span></li>
                                         <li>NET CONTENT<span>500 ml</span></li>

@@ -72,7 +72,7 @@ function VESTIGE_NOONI() {
 
                                     <ul class="short-details">
                                    
-                                        <li><span >₹585.00 </span> ₹500.00 </li>  
+                                        <li><span >MRP  ₹585.00 </span>Discount  ₹500.00 </li>  
                                         <li>Product Code: <span>20004</span></li>
                                         <li>PV <span>18.05</span></li>
                                         <li>NET CONTENT<span>90 capsules</span></li>

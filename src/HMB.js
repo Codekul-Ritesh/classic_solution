@@ -71,7 +71,7 @@ function HMB() {
                                     <h2 class="main-product-title">VESTIGE HMB</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹1875.00</span>  ₹1585.00</li>
+                                        <li><span >Discount  ₹1875.00</span> Discount  ₹1585.00</li>
                                         <li>Product Code: <span> 22036</span></li>
                                         <li>PV <span>52.83</span></li>
                                         <li>NET VOLUMES<span>15 x 5 g</span></li>

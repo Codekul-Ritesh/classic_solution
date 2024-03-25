@@ -71,7 +71,7 @@ function VESTIGE_AGRI_PROTEK() {
                                     <h2 class="main-product-title">VESTIGE AGRI PROTEK </h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹760.00 </span> ₹630.00 </li>  
+                                    <li><span >MRP  ₹760.00 </span>Discount  ₹630.00 </li>  
                                         <li>Product Code: <span>26018</span></li>
                                         <li>PV <span>21.00</span></li>
                                         <li>NET CONTENT<span>250 g</span></li>

@@ -71,7 +71,7 @@ function INTIMATE_WASH() {
                                     <h2 class="main-product-title">DEWGARDEN FOAMING INTIMATE WASH</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹210.00</span> ₹180</li>
+                                        <li><span >Discount  ₹210.00</span>Discount  ₹180</li>
                                         <li>Product Code: <span> 23039</span></li>
                                         <li>PV <span>6.00</span></li>
                                         <li>NET VOLUMES<span>80 ml</span></li>

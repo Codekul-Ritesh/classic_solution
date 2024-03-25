@@ -73,7 +73,7 @@ function AYUSANTE_GLUCOHEALTH() {
 
                                     <ul class="short-details">
                            
-                                        <li><span >₹795.00 </span> ₹680.00 </li>  
+                                        <li><span >MRP  ₹795.00 </span>Discount  ₹680.00 </li>  
 
                                         <li>Product Code: <span>20010</span></li>
                                         <li>PV <span>22.67</span></li>

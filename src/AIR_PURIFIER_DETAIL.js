@@ -71,7 +71,7 @@ function AIR_PURIFIER_DETAIL() {
                                     <h2 class="main-product-title">Air Purifier</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹19,500.00</span> ₹18,500</li>
+                                        <li><span >MRP  ₹19,500.00</span>Discount  ₹18,500</li>
                                         <li>Product Code: <span> 27011</span></li>
                                         <li>PV <span>616.67</span></li>
                                         <li>NET VOLUMES<span>1 Unit</span></li>

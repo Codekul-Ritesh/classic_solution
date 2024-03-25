@@ -71,7 +71,7 @@ function HER_OWN() {
                                     <h2 class="main-product-title">VESTIGE HER OWN</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹460.00</span> ₹385.00</li>
+                                        <li><span >Discount  ₹460.00</span>Discount  ₹385.00</li>
                                         <li>Product Code: <span> 21038</span></li>
                                         <li>PV <span>12.83</span></li>
                                         <li>NET VOLUMES<span>30 capsules</span></li>

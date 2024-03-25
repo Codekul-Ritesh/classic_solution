@@ -71,7 +71,7 @@ function FOLIC_IRON() {
                                     <h2 class="main-product-title">VESTIGE FOLIC & IRON PLUS</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹280.00</span> ₹240.00</li>
+                                        <li><span >Discount  ₹280.00</span>Discount  ₹240.00</li>
                                         <li>Product Code: <span>  21006</span></li>
                                         <li>PV <span>8.00</span></li>
                                         <li>NET VOLUMES<span>60 capsules</span></li>

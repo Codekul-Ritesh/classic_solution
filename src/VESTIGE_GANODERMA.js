@@ -72,7 +72,7 @@ function VESTIGE_GANODERMA() {
 
                                     <ul class="short-details">
                                    
-                                    <li><span >₹920.00 </span> ₹785.00 </li>  
+                                    <li><span >MRP  ₹920.00 </span>Discount  ₹785.00 </li>  
                                         
                                         <li>Product Code: <span>20007</span></li>
                                         <li>PV <span>26.17</span></li>

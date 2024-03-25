@@ -71,7 +71,7 @@ function VANILLA_SHAKE() {
                                     <h2 class="main-product-title">VESTIGE VESLIM SHAKE VANILLA FLAVOUR 500 G</h2>
 
                                     <ul class="short-details">
-                                        <li><span>₹2175.00</span> ₹1850.00</li>
+                                        <li><span>MRP  ₹2175.00</span>Discount  ₹1850.00</li>
                                         <li>Product Code: <span> 22048</span></li>
                                         <li>PV <span>61.67</span></li>
                                         <li>NET VOLUMES<span>500 g</span></li>

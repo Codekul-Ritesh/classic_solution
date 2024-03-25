@@ -71,7 +71,7 @@ function MECH_DRIVE_TW() {
                                     <h2 class="main-product-title">MACH-DRIVE NanoEnergizer 2/3 Wheeler</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹1495.00</span> ₹1450</li>
+                                        <li><span >Discount  ₹1495.00</span>Discount  ₹1450</li>
                                         <li>Product Code: <span> 40001A</span></li>
                                         <li>PV <span>48.33</span></li>
                                         <li>NET VOLUMES<span>30 ml</span></li>

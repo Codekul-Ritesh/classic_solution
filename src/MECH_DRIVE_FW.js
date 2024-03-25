@@ -71,7 +71,7 @@ function MECH_DRIVE_FW() {
                                     <h2 class="main-product-title">MACH-DRIVE NANOENERGIZER (FOUR-WHEELER)</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹1870.00</span> ₹1850</li>
+                                        <li><span >MRP  ₹1870.00</span>Discount  ₹1850</li>
                                         <li>Product Code: <span> 40002A</span></li>
                                         <li>PV <span>61.67</span></li>
                                         <li>NET VOLUMES<span>30 ml</span></li>

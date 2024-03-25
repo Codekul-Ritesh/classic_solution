@@ -71,7 +71,7 @@ function AGRI_GOLDL() {
                                     <h2 class="main-product-title">AGRI GOLDL </h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹600.00 </span> ₹500.00 </li>  
+                                    <li><span >MRP  ₹600.00 </span>Discount  ₹500.00 </li>  
                                         <li>Product Code: <span>26002</span></li>
                                         <li>PV <span>16.67</span></li>
                                         <li>NET CONTENT<span>100 g</span></li>

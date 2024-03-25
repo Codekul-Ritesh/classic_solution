@@ -71,7 +71,7 @@ function VITAMIN_D_SPRAY() {
                                     <h2 class="main-product-title">VESTIGE PRIME ABSORVIT VITAMIN D SUBLINGUAL SPRAY</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹560.00</span>  ₹480.00</li>
+                                        <li><span >MRP  ₹560.00</span> Discount  ₹480.00</li>
                                         <li>Product Code: <span>21044</span></li>
                                         <li>PV <span>16</span></li>
                                         <li>NET VOLUMES<span> 9 ml</span></li>

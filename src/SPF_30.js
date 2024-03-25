@@ -71,7 +71,7 @@ function SPF_30() {
                                     <h2 class="main-product-title">ASSURE SUN DEFENSE SPF 30+</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹265.00</span>₹225</li>
+                                        <li><span >Discount  ₹265.00</span>MRP  ₹225</li>
                                         <li>Product Code: <span>23029</span></li>
                                         <li>PV <span>7.50</span></li>
                                         <li>NET VOLUMES<span> 60 g</span></li>

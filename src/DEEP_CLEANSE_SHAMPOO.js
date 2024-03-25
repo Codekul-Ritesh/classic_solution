@@ -71,7 +71,7 @@ function DEEP_CLEANSE_SHAMPOO() {
                                     <h2 class="main-product-title">ASSURE DEEP CLEANSE SHAMPOO (OILY)</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹190.00</span> ₹163</li>
+                                        <li><span >Discount  ₹190.00</span>Discount  ₹163</li>
                                         <li>Product Code: <span>23020</span></li>
                                         <li>PV <span>4.53</span></li>
                                         <li>NET VOLUMES<span> 200 ml</span></li>

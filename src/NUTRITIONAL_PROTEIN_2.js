@@ -71,7 +71,7 @@ function NUTRITIONAL_PROTEIN_2() {
                                     <h2 class="main-product-title">INVIGO NUTRITIONAL PROTEIN </h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹640.00</span>₹545</li>
+                                        <li><span >MRP  ₹640.00</span>MRP  ₹545</li>
                                         <li>Product Code: <span>22043</span></li>
                                         <li>PV <span>18.17</span></li>
                                         <li>NET VOLUMES<span> 200 g</span></li>

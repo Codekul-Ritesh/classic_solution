@@ -71,7 +71,7 @@ function GANO_TOOTHPASTE() {
                                     <h2 class="main-product-title">DENTASSURE GANO TOOTHPASTE</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹175.00</span> ₹150</li>
+                                        <li><span >MRP  ₹175.00</span>Discount  ₹150</li>
                                         <li>Product Code: <span> 24007</span></li>
                                         <li>PV <span> 5.00</span></li>
                                         <li>NET VOLUMES<span> 100 g</span></li>

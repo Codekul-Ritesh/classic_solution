@@ -72,7 +72,7 @@ function AYUSANTE_CAPSULE() {
 
                                     <ul class="short-details">
                                    
-                                        <li><span >₹895.00 </span> ₹765.00 </li>  
+                                        <li><span >MRP  ₹895.00 </span>Discount  ₹765.00 </li>  
 
                                         <li>Product Code: <span>20012</span></li>
                                         <li>PV <span>25.50</span></li>

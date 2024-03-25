@@ -71,7 +71,7 @@ function SANITARY_NAPKIN() {
                                     <h2 class="main-product-title">DEWGARDEN SANITARY NAPKIN</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹290.00</span> ₹250</li>
+                                        <li><span >Discount  ₹290.00</span>Discount  ₹250</li>
                                         <li>Product Code: <span> 23045</span></li>
                                         <li>PV <span>8.33</span></li>
                                         <li>NET VOLUMES<span>10 Nos.</span></li>

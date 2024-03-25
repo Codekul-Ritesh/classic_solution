@@ -71,7 +71,7 @@ function COMPLEXION_BAR() {
                                     <h2 class="main-product-title">ASSURE COMPLEXION BAR</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹84.00</span>₹70</li>
+                                        <li><span >MRP  ₹84.00</span>MRP  ₹70</li>
                                         <li>Product Code: <span>23086</span></li>
                                         <li>PV <span>1.94</span></li>
                                         <li>NET VOLUMES<span>75 g</span></li>

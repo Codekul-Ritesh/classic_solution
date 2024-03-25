@@ -71,7 +71,7 @@ function FRESHNUP_DRINK() {
                                     <h2 class="main-product-title">IINVIGO FRESHNUP DRINK </h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹235.00</span>₹200</li>
+                                        <li><span >MRP  ₹235.00</span>MRP  ₹200</li>
                                         <li>Product Code: <span>21022</span></li>
                                         <li>PV <span>6.67</span></li>
                                         <li>NET VOLUMES<span> 200 g</span></li>

@@ -71,7 +71,7 @@ function BODY_BUTTER() {
                                     <h2 class="main-product-title">ASSURE CHERRY BLOSSOM BODY BUTTER</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹360.00</span> ₹320</li>
+                                        <li><span >MRP  ₹360.00</span>Discount  ₹320</li>
                                         <li>Product Code: <span>23079</span></li>
                                         <li>PV <span> 8.88</span></li>
                                         <li>NET VOLUMES<span>100 g</span></li>

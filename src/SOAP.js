@@ -71,7 +71,7 @@ function SOAP() {
                                     <h2 class="main-product-title">ASSURE SOAP</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹54.00</span> ₹45</li>
+                                        <li><span >MRP  ₹54.00</span>Discount  ₹45</li>
                                         <li>Product Code: <span>23090A</span></li>
                                         <li>PV <span> 0.88</span></li>
                                         <li>NET VOLUMES<span>100 g</span></li>

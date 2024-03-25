@@ -71,7 +71,7 @@ function FAIRNESS_CREAM() {
                                     <h2 class="main-product-title">ASSURE COMPLETE FAIRNESS CREAM</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹200.00</span>₹169</li>
+                                        <li><span >Discount  ₹200.00</span>MRP  ₹169</li>
                                         <li>Product Code: <span>23024</span></li>
                                         <li>PV <span> 4.69</span></li>
                                         <li>NET VOLUMES<span> 50 g</span></li>

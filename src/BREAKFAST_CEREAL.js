@@ -71,7 +71,7 @@ function BREAKFAST_CEREAL() {
                                     <h2 class="main-product-title">ENERVA HI-NUTRITION BREAKFAST CEREAL</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹350.00</span>₹299</li>
+                                        <li><span >MRP  ₹350.00</span>MRP  ₹299</li>
                                         <li>Product Code: <span>21007</span></li>
                                         <li>PV <span> 8.30</span></li>
                                         <li>NET VOLUMES<span> 350 g</span></li>

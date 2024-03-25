@@ -71,7 +71,7 @@ function ENCHANT_BODY_TALC() {
                                     <h2 class="main-product-title">ASSURE ENCHANT BODY TALC</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹65.00</span> ₹58</li>
+                                        <li><span >MRP  ₹65.00</span>Discount  ₹58</li>
                                         <li>Product Code: <span>23074</span></li>
                                         <li>PV <span> 1.74</span></li>
                                         <li>NET VOLUMES<span>100 g</span></li>

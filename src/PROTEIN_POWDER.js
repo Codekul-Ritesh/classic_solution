@@ -71,7 +71,7 @@ function PROTEIN_POWDER() {
                                     <h2 class="main-product-title">VESTIGE PROTEIN POWDER 500g</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹2350.00 </span> ₹1995.00</li>
+                                        <li><span >MRP  ₹2350.00 </span>Discount  ₹1995.00</li>
                                         <li>Product Code: <span> 22042</span></li>
                                         <li>PV <span>66.50</span></li>
                                         <li>NET VOLUMES<span>500 g</span></li>

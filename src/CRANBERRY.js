@@ -71,7 +71,7 @@ function CRANBERRY() {
                                     <h2 class="main-product-title">VESTIGE CRANBERRY</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹1875.00</span> ₹1630.00</li>
+                                        <li><span >MRP  ₹1875.00</span>Discount  ₹1630.00</li>
                                         <li>Product Code: <span> 21018</span></li>
                                         <li>PV <span>54.33</span></li>
                                         <li>NET VOLUMES<span>  60 capsules</span></li>

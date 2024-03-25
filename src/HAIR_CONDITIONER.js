@@ -71,7 +71,7 @@ function HAIR_CONDITIONER() {
                                     <h2 class="main-product-title">ASSURE HAIR CONDITIONER</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹245.00</span>₹208</li>
+                                        <li><span >MRP  ₹245.00</span>MRP  ₹208</li>
                                         <li>Product Code: <span>23010</span></li>
                                         <li>PV <span> 6.93</span></li>
                                         <li>NET VOLUMES<span> 75 g</span></li>

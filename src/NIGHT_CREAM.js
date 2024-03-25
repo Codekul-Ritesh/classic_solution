@@ -71,7 +71,7 @@ function NIGHT_CREAM() {
                                     <h2 class="main-product-title">ASSURE ANTI-AGEING NIGHT CREAM</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹255.00</span>₹219</li>
+                                        <li><span >MRP  ₹255.00</span>MRP  ₹219</li>
                                         <li>Product Code: <span>23023</span></li>
                                         <li>PV <span> 7.30</span></li>
                                         <li>NET VOLUMES<span> 60 g</span></li>

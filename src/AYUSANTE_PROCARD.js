@@ -72,7 +72,7 @@ function AYUSANTE_PROCARD() {
 
                                     <ul class="short-details">
                                  
-                                        <li><span >₹960.00 </span> ₹820.00 </li>  
+                                        <li><span >MRP  ₹960.00 </span>Discount  ₹820.00 </li>  
 
                                         <li>Product Code: <span>20015</span></li>
                                         <li>PV <span>27.33</span></li>

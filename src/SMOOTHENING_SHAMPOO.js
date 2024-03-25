@@ -71,7 +71,7 @@ function SMOOTHENING_SHAMPOO() {
                                     <h2 class="main-product-title">ASSURE KERATIN SMOOTHENING SHAMPOO</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹210.00</span> ₹180</li>
+                                        <li><span >Discount  ₹210.00</span>Discount  ₹180</li>
                                         <li>Product Code: <span>23093</span></li>
                                         <li>PV <span>5.00</span></li>
                                         <li>NET VOLUMES<span>150 ml</span></li>

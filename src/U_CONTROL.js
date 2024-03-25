@@ -71,7 +71,7 @@ function U_CONTROL() {
                                     <h2 class="main-product-title">VESTIGE U CONTROL</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹1600.00</span> ₹1400.00</li>
+                                        <li><span >Discount  ₹1600.00</span>Discount  ₹1400.00</li>
                                         <li>Product Code: <span> 21034</span></li>
                                         <li>PV <span>46.67</span></li>
                                         <li>NET VOLUMES<span>30 capsules</span></li>

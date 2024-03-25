@@ -71,7 +71,7 @@ function KRILL_OIL() {
                                     <h2 class="main-product-title">VESTIGE PRIME KRILL OIL</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹1435.00</span> ₹1250.00</li>
+                                        <li><span >MRP  ₹1435.00</span>Discount  ₹1250.00</li>
                                         <li>Product Code: <span> 21013</span></li>
                                         <li>PV <span>41.67</span></li>
                                         <li>NET VOLUMES<span>30 softgels</span></li>

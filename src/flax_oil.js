@@ -71,7 +71,7 @@ function flax_oil () {
                                     <h2 class="main-product-title">VESTIGE FLAX OIL</h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹635.00 </span> ₹540.00 </li>  
+                                    <li><span >MRP  ₹635.00 </span>Discount  ₹540.00 </li>  
                                         <li>Product Code: <span> 20037</span></li>
                                         <li>PV <span>18.00</span></li>
                                         <li>NET CONTENT<span>90 softgels</span></li>

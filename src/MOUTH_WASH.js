@@ -71,7 +71,7 @@ function MOUTH_WASH () {
                                     <h2 class="main-product-title">DENTASSURE MOUTH WASH</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹205.00</span> ₹175</li>
+                                        <li><span >MRP  ₹205.00</span>Discount  ₹175</li>
                                         <li>Product Code: <span> 24005</span></li>
                                         <li>PV <span> 5.83</span></li>
                                         <li>NET VOLUMES<span> 250 ml</span></li>

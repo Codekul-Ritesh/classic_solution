@@ -73,7 +73,7 @@ function AYUSANTE_KIDNEYHEALTH() {
 
                                     <ul class="short-details">
                                   
-                                        <li><span >₹760.00 </span> ₹450.00 </li>  
+                                        <li><span >MRP  ₹760.00 </span>Discount  ₹450.00 </li>  
 
                                         <li>Product Code: <span>20013</span></li>
                                         <li>PV <span>21.67</span></li>

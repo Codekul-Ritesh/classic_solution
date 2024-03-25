@@ -71,7 +71,7 @@ function Q10() {
                                     <h2 class="main-product-title">VESTIGE COENZYME Q10</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹1050.00</span> ₹995.00</li>
+                                        <li><span >MRP  ₹1050.00</span>Discount  ₹995.00</li>
                                         <li>Product Code: <span> 21030A</span></li>
                                         <li>PV <span>33.17</span></li>
                                         <li>NET VOLUMES<span>30 softgels capsules</span></li>

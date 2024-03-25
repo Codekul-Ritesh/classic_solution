@@ -71,7 +71,7 @@ function MOISTURE_RICH_SHAMPOO() {
                                     <h2 class="main-product-title">ASSURE MOISTURE RICH SHAMPOO</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹190.00</span> ₹163</li>
+                                        <li><span >Discount  ₹190.00</span>Discount  ₹163</li>
                                         <li>Product Code: <span>23021</span></li>
                                         <li>PV <span>4.53</span></li>
                                         <li>NET VOLUMES<span> 200 ml</span></li>

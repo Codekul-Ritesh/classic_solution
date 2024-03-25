@@ -72,7 +72,7 @@ function VESTIGE_CURCUMIN_PLUS() {
 
                                     <ul class="short-details">
                                   
-                                    <li><span >₹1050.00 </span> ₹900.00 </li>  
+                                    <li><span >MRP  ₹1050.00 </span>Discount  ₹900.00 </li>  
 
                                         <li>Product Code: <span>20016</span></li>
                                         <li>PV <span>30.00</span></li>

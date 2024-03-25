@@ -71,7 +71,7 @@ function WHITENING_TOOTHPASTE() {
                                     <h2 class="main-product-title">DENTASSURE WHITENING TOOTH PASTE</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹150.00</span> ₹125</li>
+                                        <li><span >MRP  ₹150.00</span>Discount  ₹125</li>
                                         <li>Product Code: <span> 24004</span></li>
                                         <li>PV <span> 4.17</span></li>
                                         <li>NET VOLUMES<span> 90 g</span></li>

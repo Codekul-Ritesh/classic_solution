@@ -71,7 +71,7 @@ function DAILY_MOISTURISER() {
                                     <h2 class="main-product-title">ASSURE DAILY MOISTURISER</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹290.00</span>₹248</li>
+                                        <li><span >MRP  ₹290.00</span>MRP  ₹248</li>
                                         <li>Product Code: <span>23036</span></li>
                                         <li>PV <span> 8.27</span></li>
                                         <li>NET VOLUMES<span> 250 ml</span></li>

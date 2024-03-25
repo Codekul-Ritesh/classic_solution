@@ -72,7 +72,7 @@ function VESTIGE_SHATAVARI_MAX() {
 
                                     <ul class="short-details">
                                  
-                                    <li><span >₹545.00 </span> ₹460.00 </li>  
+                                    <li><span >MRP  ₹545.00 </span>Discount  ₹460.00 </li>  
 
                                         <li>Product Code: <span>20017</span></li>
                                         <li>PV <span>15.33</span></li>

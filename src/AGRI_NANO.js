@@ -71,7 +71,7 @@ function AGRI_NANO() {
                                     <h2 class="main-product-title">VESTIGE AGRI82 NANO </h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹381.00 </span> ₹350.00 </li>  
+                                    <li><span >MRP  ₹381.00 </span>Discount  ₹350.00 </li>  
                                         <li>Product Code: <span>26014A</span></li>
                                         <li>PV <span>12.00</span></li>
                                         <li>NET CONTENT<span> 100 ml x 3</span></li>

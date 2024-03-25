@@ -71,7 +71,7 @@ function VESTIGE_ALOE_VERA() {
                                     <h2 class="main-product-title">VESTIGE ALOE VERA </h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹320.00 </span> ₹275.00 </li>  
+                                    <li><span >MRP  ₹320.00 </span>Discount  ₹275.00 </li>  
                                         <li>Product Code: <span>20005</span></li>
                                         <li>PV <span>9.17</span></li>
                                         <li>NET CONTENT<span>60 capsules</span></li>

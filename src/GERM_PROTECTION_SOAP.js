@@ -71,7 +71,7 @@ function GERM_PROTECTION_SOAP() {
                                     <h2 class="main-product-title">ASSURE GERM PROTECTION SOAP</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹63.00</span>₹53</li>
+                                        <li><span >Discount  ₹63.00</span>MRP  ₹53</li>
                                         <li>Product Code: <span>23089A</span></li>
                                         <li>PV <span>1.03</span></li>
                                         <li>NET VOLUMES<span> 75 g</span></li>

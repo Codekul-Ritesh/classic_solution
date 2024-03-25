@@ -71,7 +71,7 @@ function COLOUR_PROTECT_SHAMPOO() {
                                     <h2 class="main-product-title">ASSURE COLOUR PROTECT SHAMPOO 150 ML</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹210.00</span> ₹180</li>
+                                        <li><span >MRP  ₹210.00</span>Discount  ₹180</li>
                                         <li>Product Code: <span>23092</span></li>
                                         <li>PV <span>5.00</span></li>
                                         <li>NET VOLUMES<span>150 ml</span></li>

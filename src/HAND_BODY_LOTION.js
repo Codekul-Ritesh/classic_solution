@@ -68,7 +68,7 @@ function HAND_BODY_LOTION() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE HAND & BODY LOTION</h2>
-                                    <p class="price"><span >₹225.00</span>₹191</p>
+                                    <p class="price"><span >MRP  ₹225.00</span>MRP  ₹191</p>
                                     <ul class="short-details">
                                         <li>Product Code: <span>23035</span></li>
                                         <li>PV <span>6.37</span></li>

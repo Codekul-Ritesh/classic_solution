@@ -71,7 +71,7 @@ function INSTANT_GLOW_FACE_PACK() {
                                     <h2 class="main-product-title">ASSURE INSTANT GLOW FACE PACK</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹170.00</span>₹146</li>
+                                        <li><span >MRP  ₹170.00</span>MRP  ₹146</li>
                                         <li>Product Code: <span>23025</span></li>
                                         <li>PV <span> 4.87</span></li>
                                         <li>NET VOLUMES<span> 60 g</span></li>

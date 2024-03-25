@@ -71,7 +71,7 @@ function GLUCOSAMINE_2() {
                                     <h2 class="main-product-title">VESTIGE GLUCOSAMINE</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹610.00</span> ₹520.00</li>
+                                        <li><span >MRP  ₹610.00</span>Discount  ₹520.00</li>
                                         <li>Product Code: <span> 21001</span></li>
                                         <li>PV <span>17.33</span></li>
                                         <li>NET VOLUMES<span>60 tablets</span></li>

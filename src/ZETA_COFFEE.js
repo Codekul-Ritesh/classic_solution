@@ -71,7 +71,7 @@ function ZETA_COFFEE() {
                                     <h2 class="main-product-title">ZETA COFFEE</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹205.00</span>₹175</li>
+                                        <li><span >MRP  ₹205.00</span>MRP  ₹175</li>
                                         <li>Product Code: <span>22041</span></li>
                                         <li>PV <span> 5.83</span></li>
                                         <li>NET VOLUMES<span> 50 g</span></li>

@@ -68,7 +68,7 @@ function FOOT_CREAM() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE FOOT CREAM</h2>
-                                    <p class="price"><span >₹165.00</span>₹141</p>
+                                    <p class="price"><span >MRP  ₹165.00</span>MRP  ₹141</p>
                                     <ul class="short-details">
                                         <li>Product Code: <span>23014</span></li>
                                         <li>PV <span>4.70</span></li>

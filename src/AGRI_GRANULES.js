@@ -71,7 +71,7 @@ function AGRI_GRANULES() {
                                     <h2 class="main-product-title"> AGRI GRANULES </h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹825.00 </span> ₹700.00 </li>  
+                                    <li><span >MRP  ₹825.00 </span>Discount  ₹700.00 </li>  
                                         <li>Product Code: <span>26009A</span></li>
                                         <li>PV <span>23.33</span></li>
                                         <li>NET CONTENT<span> 5 kg</span></li>

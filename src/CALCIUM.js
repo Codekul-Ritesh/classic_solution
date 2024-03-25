@@ -71,7 +71,7 @@ function CALCIUM() {
                                     <h2 class="main-product-title">VESTIGE CALCIUM</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹270.00</span> ₹230.00</li>
+                                        <li><span >MRP  ₹270.00</span>Discount  ₹230.00</li>
                                         <li>Product Code: <span> 21023</span></li>
                                         <li>PV <span>7.67</span></li>
                                         <li>NET VOLUMES<span>100 tablets</span></li>

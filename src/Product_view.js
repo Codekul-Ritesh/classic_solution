@@ -83,7 +83,7 @@ function Product_view() {
                             <h2 class="main-product-title">VESTIGE PRIME COMBIOTICS</h2>
 
                             <ul class="short-details">
-                                <li><span>₹525.00</span>₹570.00</li>
+                                <li><span>MRP  ₹525.00</span>MRP  ₹570.00</li>
                                 <li>Product Code: <span>21020A</span></li>
                                 <li>PV <span>19</span></li>
                                 <li>NET VOLUMES<span>30 capsules</span></li>

@@ -13,7 +13,7 @@ function Footer() {
                     <div class="custom-col-2">
                         <div class="footer-about">
                             <div class="footer-logo">
-                                <img src="assets/images/LOGOO.PNG" alt="Logo"/>
+                                <img src="assets/images/LOGOO.png" alt="Logo"/>
                             </div>
                             <ul>
                                 <li>

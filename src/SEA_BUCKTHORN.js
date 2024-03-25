@@ -71,7 +71,7 @@ function SEA_BUCKTHORN () {
                                     <h2 class="main-product-title">VESTIGE PRIME SEA BUCKTHORN</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹1000.00</span>  ₹850.00</li>
+                                        <li><span >MRP  ₹1000.00</span> Discount  ₹850.00</li>
                                         <li>Product Code: <span>21028</span></li>
                                         <li>PV <span>28.33 </span></li>
                                         <li>NET VOLUMES<span> 60 capsules</span></li>

@@ -71,7 +71,7 @@ function RAPTURE_DEO() {
                                     <h2 class="main-product-title">ASSURE RAPTURE DEO (Women)</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹205.00</span>₹175</li>
+                                        <li><span >MRP  ₹205.00</span>MRP  ₹175</li>
                                         <li>Product Code: <span>23088</span></li>
                                         <li>PV <span>4.86</span></li>
                                         <li>NET VOLUMES<span>125 ml</span></li>

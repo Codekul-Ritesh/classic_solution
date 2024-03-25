@@ -71,7 +71,7 @@ function ACTIVE_DEO_MEN() {
                                     <h2 class="main-product-title">ASSURE ACTIVE DEO (Men)</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹215.00</span>₹185</li>
+                                        <li><span >MRP  ₹215.00</span>MRP  ₹185</li>
                                         <li>Product Code: <span>23087</span></li>
                                         <li>PV <span>5.14</span></li>
                                         <li>NET VOLUMES<span>150 ml</span></li>

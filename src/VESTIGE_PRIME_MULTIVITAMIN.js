@@ -71,7 +71,7 @@ function VESTIGE_PRIME_MULTIVITAMIN() {
                                     <h2 class="main-product-title">VESTIGE PRIME MULTI VITA MIN</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹825.00</span>  ₹540.00</li>
+                                        <li><span >MRP  ₹825.00</span> Discount  ₹540.00</li>
                                         <li>Product Code: <span>21035</span></li>
                                         <li>PV <span>23.17</span></li>
                                         <li>NET VOLUMES<span> 60 gummies</span></li>

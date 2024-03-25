@@ -71,7 +71,7 @@ function VITAMIN_C_FACIAL_FOAM() {
                                     <h2 class="main-product-title">ASSURE VITAMIN C FACIAL FOAM</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹382.00</span>₹335</li>
+                                        <li><span >MRP  ₹382.00</span>MRP  ₹335</li>
                                         <li>Product Code: <span>23080</span></li>
                                         <li>PV <span> 11.17</span></li>
                                         <li>NET VOLUMES<span>100 ml</span></li>

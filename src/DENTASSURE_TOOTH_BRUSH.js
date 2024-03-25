@@ -71,7 +71,7 @@ function DENTASSURE_TOOTH_BRUSH() {
                                     <h2 class="main-product-title">DENTASSURE TOOTH BRUSH</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹260.00</span> ₹220</li>
+                                        <li><span >MRP  ₹260.00</span>Discount  ₹220</li>
                                         <li>Product Code: <span> 24011</span></li>
                                         <li>PV <span> 7.33</span></li>
                                         <li>NET VOLUMES<span> Set of 4</span></li>

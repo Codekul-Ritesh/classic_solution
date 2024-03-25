@@ -71,7 +71,7 @@ function VESTIGE_AMLA() {
                                     <h2 class="main-product-title">VESTIGE AMLA</h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹222.00 </span> ₹185.00 </li>  
+                                    <li><span >MRP  ₹222.00 </span>Discount  ₹185.00 </li>  
                                         <li>Product Code: <span>  20025</span></li>
                                         <li>PV <span>6.17</span></li>
                                         <li>NET CONTENT<span>60 capsules</span></li>

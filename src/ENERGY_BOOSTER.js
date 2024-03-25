@@ -71,7 +71,7 @@ function ENERGY_BOOSTER() {
                                     <h2 class="main-product-title">VESTIGE PRIME ENERGY BOOSTER</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹1050.00</span>  ₹920.00</li>
+                                        <li><span >MRP  ₹1050.00</span> Discount  ₹920.00</li>
                                         <li>Product Code: <span>20028</span></li>
                                         <li>PV <span>30.67</span></li>
                                         <li>NET VOLUMES<span> 30 Units</span></li>

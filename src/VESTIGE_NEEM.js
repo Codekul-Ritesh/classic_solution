@@ -71,8 +71,8 @@ function VESTIGE_NEEM () {
                                     <h2 class="main-product-title">VESTIGE FLAX OIL</h2>
 
                                     <ul class="short-details">
-                                    <li><span >MRP</span>₹635.00 </li>
-                                        <li><span >Disscount Price:</span> ₹540.00 </li>
+                                    <li><span >MRP</span>MRP  ₹635.00 </li>
+                                        <li><span >Disscount Price:</span>Discount  ₹540.00 </li>
                                         <li>Product Code: <span> 20037</span></li>
                                         <li>PV <span>18.00</span></li>
                                         <li>NET CONTENT<span>90 softgels</span></li>

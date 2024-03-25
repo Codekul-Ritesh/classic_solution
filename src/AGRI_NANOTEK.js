@@ -71,7 +71,7 @@ function AGRI_NANOTEK() {
                                     <h2 class="main-product-title">AGRI NANOTEK </h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹1475.00 </span> ₹1250.00 </li>  
+                                    <li><span >MRP  ₹1475.00 </span>Discount  ₹1250.00 </li>  
                                         <li>Product Code: <span>26004</span></li>
                                         <li>PV <span>41.67</span></li>
                                         <li>NET CONTENT<span> 500 G</span></li>

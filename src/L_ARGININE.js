@@ -71,7 +71,7 @@ function L_ARGININE() {
                                     <h2 class="main-product-title">VESTIGE L-ARGININE</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹1515.00</span> ₹1320.00</li>
+                                        <li><span >MRP  ₹1515.00</span>Discount  ₹1320.00</li>
                                         <li>Product Code: <span> 21003</span></li>
                                         <li>PV <span>44.00</span></li>
                                         <li>NET VOLUMES<span>15 x 10g</span></li>

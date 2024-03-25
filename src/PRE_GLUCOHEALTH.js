@@ -71,7 +71,7 @@ function PRE_GLUCOHEALTH() {
                                     <h2 class="main-product-title">VESTIGE PRE GLUCOHEALTH</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹1020.00</span> ₹870.00</li>
+                                        <li><span >MRP  ₹1020.00</span>Discount  ₹870.00</li>
                                         <li>Product Code: <span> 21039</span></li>
                                         <li>PV <span>29.00</span></li>
                                         <li>NET VOLUMES<span>60 capsules</span></li>

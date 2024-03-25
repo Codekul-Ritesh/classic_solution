@@ -71,7 +71,7 @@ function SPICE_TEA() {
                                     <h2 class="main-product-title">ZETA PREMIUM SPICE TEA</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹285.00</span>₹99</li>
+                                        <li><span >MRP  ₹285.00</span>MRP  ₹99</li>
                                         <li>Product Code: <span>22015</span></li>
                                         <li>PV <span> 8.33</span></li>
                                         <li>NET VOLUMES<span> 250 g</span></li>

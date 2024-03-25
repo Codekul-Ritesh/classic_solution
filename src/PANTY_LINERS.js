@@ -71,7 +71,7 @@ function PANTY_LINERS() {
                                     <h2 class="main-product-title">DEWGARDEN PANTY LINERS</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹175.00</span> ₹150</li>
+                                        <li><span >Discount  ₹175.00</span>Discount  ₹150</li>
                                         <li>Product Code: <span> 23046</span></li>
                                         <li>PV <span>5.00</span></li>
                                         <li>NET VOLUMES<span>12 Nos.</span></li>

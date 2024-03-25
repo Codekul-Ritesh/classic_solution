@@ -71,7 +71,7 @@ function MELATONIN_ORAL_SPRAY() {
                                     <h2 class="main-product-title">VESTIGE MELATONIN ORAL SPRAY</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹460.00</span> ₹395.00</li>
+                                        <li><span >MRP  ₹460.00</span>Discount  ₹395.00</li>
                                         <li>Product Code: <span> 21037</span></li>
                                         <li>PV <span>13.17</span></li>
                                         <li>NET VOLUMES<span>30 ml</span></li>

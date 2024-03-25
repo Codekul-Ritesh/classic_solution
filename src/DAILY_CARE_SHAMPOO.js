@@ -71,7 +71,7 @@ function DAILY_CARE_SHAMPOO() {
                                     <h2 class="main-product-title">ASSURE DAILY CARE SHAMPOO (NORMAL)</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹190.00</span> ₹163</li>
+                                        <li><span >MRP  ₹190.00</span>Discount  ₹163</li>
                                         <li>Product Code: <span>23022</span></li>
                                         <li>PV <span>4.53</span></li>
                                         <li>NET VOLUMES<span> 200 ml</span></li>

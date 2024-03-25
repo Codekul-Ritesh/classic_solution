@@ -71,7 +71,7 @@ function VESTIGE_COLOSTRUM() {
                                     <h2 class="main-product-title">VESTIGE COLOSTRUM </h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹720.00 </span> ₹615.00 </li>  
+                                    <li><span >MRP  ₹720.00 </span>Discount  ₹615.00 </li>  
                                         <li>Product Code: <span>20008</span></li>
                                         <li>PV <span>20.50</span></li>
                                         <li>NET CONTENT<span>60 capsules</span></li>

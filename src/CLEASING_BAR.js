@@ -71,7 +71,7 @@ function CLEASING_BAR() {
                                     <h2 class="main-product-title">ASSURE CREAMY CLEASING BAR</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹69.00</span>₹58</li>
+                                        <li><span >Discount  ₹69.00</span>MRP  ₹58</li>
                                         <li>Product Code: <span>23091A</span></li>
                                         <li>PV <span>1.13</span></li>
                                         <li>NET VOLUMES<span> 75 g</span></li>

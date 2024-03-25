@@ -73,7 +73,7 @@ function AYUSANTE_LIVERHEALTH() {
 
                                     <ul class="short-details">
                               
-                                        <li><span >₹765.00 </span> ₹655.00 </li>  
+                                        <li><span >MRP  ₹765.00 </span>Discount  ₹655.00 </li>  
 
                                         <li>Product Code: <span>20014</span></li>
                                         <li>PV <span>21.83</span></li>

@@ -71,7 +71,7 @@ function HEALTH_DROPS() {
                                     <h2 class="main-product-title">INVIGO HEALTH DROPS PANCH TULSI ARK</h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹210.00 </span> ₹175.00 </li>  
+                                    <li><span >MRP  ₹210.00 </span>Discount  ₹175.00 </li>  
                                         <li>Product Code: <span> 20029</span></li>
                                         <li>PV <span>5.83</span></li>
                                         <li>NET CONTENT<span>30 ML</span></li>

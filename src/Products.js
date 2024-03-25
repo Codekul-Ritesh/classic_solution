@@ -264,7 +264,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/agriProducts"><img src="assets/images/classic/agri product/image_63.png" alt="Product" /></a>
+                                            <a href="/agriProducts"><img src="assets/images/classic/agri product/image_63.jpg" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   

@@ -71,7 +71,7 @@ function EYE_SUPPORT() {
                                     <h2 class="main-product-title">VESTIGE EYE SUPPORT</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹625.00</span> ₹575.00</li>
+                                        <li><span >MRP  ₹625.00</span>Discount  ₹575.00</li>
                                         <li>Product Code: <span> 21019</span></li>
                                         <li>PV <span>19.17</span></li>
                                         <li>NET VOLUMES<span>30 capsules</span></li>

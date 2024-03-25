@@ -71,7 +71,7 @@ function COLLAGEN() {
                                     <h2 class="main-product-title">VESTIGE COLLAGEN</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹700.00</span> ₹600.00</li>
+                                        <li><span >MRP  ₹700.00</span>Discount  ₹600.00</li>
                                         <li>Product Code: <span> 21026</span></li>
                                         <li>PV <span>20.00</span></li>
                                         <li>NET VOLUMES<span>10 x 7.5 g</span></li>

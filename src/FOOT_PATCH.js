@@ -71,7 +71,7 @@ function FOOT_PATCH() {
                                     <h2 class="main-product-title">VESTIGE DETOX FOOT PATCHES</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹1400.00</span> ₹1204.00</li>
+                                        <li><span >MRP  ₹1400.00</span>Discount  ₹1204.00</li>
                                         <li>Product Code: <span> 21012</span></li>
                                         <li>PV <span>33.44</span></li>
                                         <li>NET VOLUMES<span>10 pieces</span></li>

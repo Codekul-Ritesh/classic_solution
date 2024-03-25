@@ -71,7 +71,7 @@ function VESLIM() {
                                     <h2 class="main-product-title">VESTIGE VESLIM</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹1290.00</span> ₹1100.00</li>
+                                        <li><span >MRP  ₹1290.00</span>Discount  ₹1100.00</li>
                                         <li>Product Code: <span> 21017</span></li>
                                         <li>PV <span>36.67</span></li>
                                         <li>NET VOLUMES<span>90 capsules</span></li>

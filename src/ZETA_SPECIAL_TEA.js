@@ -71,7 +71,7 @@ function ZETA_SPECIAL_TEA() {
                                     <h2 class="main-product-title">ZETA SPECIAL TEA</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹118.00</span> ₹99</li>
+                                        <li><span >MRP  ₹118.00</span>Discount  ₹99</li>
                                         <li>Product Code: <span> 22044</span></li>
                                         <li>PV <span>1.92</span></li>
                                         <li>NET VOLUMES<span> 200 g</span></li>

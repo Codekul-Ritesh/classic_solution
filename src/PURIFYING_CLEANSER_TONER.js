@@ -71,7 +71,7 @@ function PURIFYING_CLEANSER_TONER() {
                                     <h2 class="main-product-title">ASSURE PURIFYING CLEANSER + TONER</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹315.00</span>₹270</li>
+                                        <li><span >MRP  ₹315.00</span>MRP  ₹270</li>
                                         <li>Product Code: <span>23037</span></li>
                                         <li>PV <span> 9.00</span></li>
                                         <li>NET VOLUMES<span> 250 ml</span></li>

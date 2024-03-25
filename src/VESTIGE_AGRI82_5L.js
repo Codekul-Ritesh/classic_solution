@@ -72,7 +72,7 @@ function VESTIGE_AGRI82_5L() {
                                     <h2 class="main-product-title">VESTIGE AGRI82 5 L </h2>
 
                                     <ul class="short-details">
-                                    <li><span >₹4300.00 </span> ₹4000.00 </li>  
+                                    <li><span >MRP  ₹4300.00 </span>Discount  ₹4000.00 </li>  
                                         <li>Product Code: <span>26016A</span></li>
                                         <li>PV <span>111.11</span></li>
                                         <li>NET CONTENT<span>5 L</span></li>

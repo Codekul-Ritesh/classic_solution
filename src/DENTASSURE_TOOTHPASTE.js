@@ -71,7 +71,7 @@ function DENTASSURE_TOOTHPASTE() {
                                     <h2 class="main-product-title">DENTASSURE TOOTHPASTE</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹80.00</span> ₹67</li>
+                                        <li><span >MRP  ₹80.00</span>Discount  ₹67</li>
                                         <li>Product Code: <span> 24010</span></li>
                                         <li>PV <span> 1.86</span></li>
                                         <li>NET VOLUMES<span> 100 g</span></li>

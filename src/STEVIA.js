@@ -71,7 +71,7 @@ function STEVIA() {
                                     <h2 class="main-product-title">VESTIGE PRE GLUCOHEALTH</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹160.00</span> ₹140.00</li>
+                                        <li><span >MRP  ₹160.00</span>Discount  ₹140.00</li>
                                         <li>Product Code: <span> 21008</span></li>
                                         <li>PV <span>4.67</span></li>
                                         <li>NET VOLUMES<span>100 tablets</span></li>

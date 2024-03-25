@@ -72,7 +72,7 @@ function AYUSANTE_RESPOCARE() {
 
                                     <ul class="short-details">
                                   
-                                        <li><span >₹730.00 </span> ₹625.00 </li>  
+                                        <li><span >MRP  ₹730.00 </span>Discount  ₹625.00 </li>  
 
                                         <li>Product Code: <span>20015</span></li>
                                         <li>PV <span>20.83</span></li>

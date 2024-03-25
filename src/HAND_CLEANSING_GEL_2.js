@@ -68,7 +68,7 @@ function HAND_CLEANSING_GEL_2() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE HAND CLEANSING GEL</h2>
-                                    <p class="price"><span >₹340.00</span>₹290</p>
+                                    <p class="price"><span >MRP  ₹340.00</span>MRP  ₹290</p>
                                     <ul class="short-details">
                                         <li>Product Code: <span>23067</span></li>
                                         <li>PV <span>8.06</span></li>

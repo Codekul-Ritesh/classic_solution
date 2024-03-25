@@ -68,7 +68,7 @@ function RELIEF_CREAM() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESCARE INSTA RELIEF CREAM</h2>
-                                    <p class="price"><span >₹150.00</span>₹129</p>
+                                    <p class="price"><span >MRP  ₹150.00</span>MRP  ₹129</p>
                                     <ul class="short-details">
                                         <li>Product Code: <span>23015</span></li>
                                         <li>PV <span>4.30</span></li>

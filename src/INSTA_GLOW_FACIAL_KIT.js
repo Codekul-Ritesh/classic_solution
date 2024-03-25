@@ -71,7 +71,7 @@ function INSTA_GLOW_FACIAL_KIT() {
                                     <h2 class="main-product-title">ASSURE INSTA-GLOW FACIAL KIT</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹700.00</span>₹620</li>
+                                        <li><span >MRP  ₹700.00</span>MRP  ₹620</li>
                                         <li>Product Code: <span>23085</span></li>
                                         <li>PV <span> 20.67</span></li>
                                         <li>NET VOLUMES<span>1 N x 5 g + 3 N x 10 g = 35 g (Pack of 5 kits)</span></li>

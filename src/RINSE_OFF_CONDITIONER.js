@@ -71,7 +71,7 @@ function RINSE_OFF_CONDITIONER() {
                                     <h2 class="main-product-title">ASSURE INTENSIVE CARE RINSE OFF CONDITIONER</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹280.00</span> ₹240</li>
+                                        <li><span >MRP  ₹280.00</span>Discount  ₹240</li>
                                         <li>Product Code: <span>23095</span></li>
                                         <li>PV <span>8.00</span></li>
                                         <li>NET VOLUMES<span>100 ml</span></li>

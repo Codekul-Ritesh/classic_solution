@@ -71,7 +71,7 @@ function HAIR_SPA() {
                                     <h2 class="main-product-title">ASSURE HAIR SPA</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹405.00</span> ₹350</li>
+                                        <li><span >Discount  ₹405.00</span>Discount  ₹350</li>
                                         <li>Product Code: <span>23009</span></li>
                                         <li>PV <span> 11.67</span></li>
                                         <li>NET VOLUMES<span>150 g</span></li>

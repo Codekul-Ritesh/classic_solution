@@ -73,7 +73,7 @@ function AYUSANTE_PROSTATE_CARE() {
 
                                     <ul class="short-details">
                                   
-                                    <li><span >₹525.00 </span> ₹450.00 </li>  
+                                    <li><span >MRP  ₹525.00 </span>Discount  ₹450.00 </li>  
 
                                         <li>Product Code: <span>20016</span></li>
                                         <li>PV <span>15.00</span></li>

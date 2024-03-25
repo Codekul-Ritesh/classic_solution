@@ -71,7 +71,7 @@ function CHOCO_FLAXSEED_BAR() {
                                     <h2 class="main-product-title">ENERVA CHOCO-FLAXSEED BAR</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹60.00</span>₹50</li>
+                                        <li><span >MRP  ₹60.00</span>MRP  ₹50</li>
                                         <li>Product Code: <span>21006</span></li>
                                         <li>PV <span> 1.67</span></li>
                                         <li>NET VOLUMES<span> 30 g</span></li>

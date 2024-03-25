@@ -68,7 +68,7 @@ function HAND_WASH() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE HAND WASH</h2>
-                                    <p class="price"><span >₹145.00</span>₹130</p>
+                                    <p class="price"><span >MRP  ₹145.00</span>MRP  ₹130</p>
                                     <ul class="short-details">
                                         <li>Product Code: <span>23038</span></li>
                                         <li>PV <span>3.97</span></li>

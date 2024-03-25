@@ -71,7 +71,7 @@ function CLARIFYING_FACE_WASH() {
                                     <h2 class="main-product-title">ASSURE CLARIFYING FACE WASH</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹170.00</span>₹225</li>
+                                        <li><span >Discount  ₹170.00</span>MRP  ₹225</li>
                                         <li>Product Code: <span>23030</span></li>
                                         <li>PV <span> 7.50</span></li>
                                         <li>NET VOLUMES<span> 60 g</span></li>

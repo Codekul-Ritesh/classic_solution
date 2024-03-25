@@ -71,7 +71,7 @@ function WATER_PURIFIRE_DETAIL() {
                                     <h2 class="main-product-title">WATER PURIFIER</h2>
 
                                     <ul class="short-details">
-                                        <li><span > ₹35500.00</span> ₹30990</li>
+                                        <li><span >Discount  ₹35500.00</span>Discount  ₹30990</li>
                                         <li>Product Code: <span> 27013</span></li>
                                         <li>PV <span>1033</span></li>
                                         <li>NET VOLUMES<span>1 Unit</span></li>

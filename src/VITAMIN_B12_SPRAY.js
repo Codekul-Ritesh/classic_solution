@@ -81,7 +81,7 @@ function VITAMIN_B12_SPRAY () {
                             <h2 class="main-product-title">VESTIGE PRIME ABSORVIT VITAMIN B12 SUBLINGUAL SPRAY</h2>
 
                             <ul class="short-details">
-                                <li><span >₹625.00</span>  ₹540.00</li>
+                                <li><span >MRP  ₹625.00</span> Discount  ₹540.00</li>
                                 <li>Product Code: <span>21046</span></li>
                                 <li>PV <span>18</span></li>
                                 <li>NET VOLUMES<span> 9 ml</span></li>

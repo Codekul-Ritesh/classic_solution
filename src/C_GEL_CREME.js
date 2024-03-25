@@ -71,7 +71,7 @@ function C_GEL_CREME() {
                                     <h2 class="main-product-title">ASSURE VITAMIN C GEL CREME</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹230.00</span>₹240</li>
+                                        <li><span >MRP  ₹230.00</span>MRP  ₹240</li>
                                         <li>Product Code: <span>23081A</span></li>
                                         <li>PV <span> 8.00</span></li>
                                         <li>NET VOLUMES<span>50 g (When packed)</span></li>

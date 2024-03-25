@@ -73,7 +73,7 @@ function VESTIGE_SPIRULINA() {
 
                                     <ul class="short-details">
                                   
-                                    <li><span >₹421.00 </span> ₹360.00 </li>  
+                                    <li><span >MRP  ₹421.00 </span>Discount  ₹360.00 </li>  
                                         
                                         <li>Product Code: <span>20023</span></li>
                                         <li>PV <span>12.00</span></li>

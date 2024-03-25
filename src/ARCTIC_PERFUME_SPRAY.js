@@ -68,7 +68,7 @@ function ARCTIC_PERFUME_SPRAY() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE ARCTIC PERFUME SPRAY</h2>
-                                    <p class="price"><span >₹325.00</span>₹275</p>
+                                    <p class="price"><span >MRP  ₹325.00</span>MRP  ₹275</p>
                                     <ul class="short-details">
                                         <li>Product Code: <span>23031</span></li>
                                         <li>PV <span>9.17</span></li>

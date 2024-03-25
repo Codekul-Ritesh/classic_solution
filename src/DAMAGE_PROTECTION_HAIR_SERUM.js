@@ -71,7 +71,7 @@ function DAMAGE_PROTECTION_HAIR_SERUM() {
                                     <h2 class="main-product-title">ASSURE DAMAGE PROTECTION LEAVE-ON HAIR SERUM</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹190.00</span> ₹165</li>
+                                        <li><span >MRP  ₹190.00</span>Discount  ₹165</li>
                                         <li>Product Code: <span>23096</span></li>
                                         <li>PV <span>4.58</span></li>
                                         <li>NET VOLUMES<span>30 ml</span></li>

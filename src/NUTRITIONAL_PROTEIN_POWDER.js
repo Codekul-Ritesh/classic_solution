@@ -71,7 +71,7 @@ function NUTRITIONAL_PROTEIN_POWDER() {
                                     <h2 class="main-product-title">INVIGO NUTRITIONAL PROTEIN POWDER</h2>
 
                                     <ul class="short-details">
-                                        <li><span >₹615.00</span> ₹525</li>
+                                        <li><span >MRP  ₹615.00</span>Discount  ₹525</li>
                                         <li>Product Code: <span> 22039</span></li>
                                         <li>PV <span>17.50</span></li>
                                         <li>NET VOLUMES<span> 200 g</span></li>
