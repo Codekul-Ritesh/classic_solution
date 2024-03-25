@@ -219,47 +219,47 @@ function Banner() {
                                 <div class="product-slider-1">
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="/Products"><img src="assets/images/classic/mech drive/image_73.png" alt="Product"/></a>
+                                            <a href="/machDrive"><img src="assets/images/classic/mech drive/image_73.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="/Products">MACH-DRIVE</a></h4>
+                                            <h4 class="product-name"><a href="/machDrive">MACH-DRIVE</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="/Products"><img src="assets/images/classic/agri product/image_63.png" alt="Product"/></a>
+                                            <a href="/agriProducts"><img src="assets/images/classic/agri product/image_63.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="/Products">AGRI PRODUCTS</a></h4>
+                                            <h4 class="product-name"><a href="/agriProducts">AGRI PRODUCTS</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="/Products"><img src="assets/images/classic/health supplement/image_24.png" alt="Product"/></a>
+                                            <a href="/healthSupplement"><img src="assets/images/classic/health supplement/image_24.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="/Products">HEALTH SUPPLEMENT</a></h4>
+                                            <h4 class="product-name"><a href="/healthSupplement">HEALTH SUPPLEMENT</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="/Products"><img src="assets/images/classic/health food/image_86.png" alt="Product"/></a>
+                                            <a href="/healthFood"><img src="assets/images/classic/health food/image_86.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="/Products">HEALTH FOOD</a></h4>
+                                            <h4 class="product-name"><a href="/healthFood">HEALTH FOOD</a></h4>
                                         </div>
                                     </div>
                                     <div class="single-product-slider">
                                         <div class="part-img">
-                                            <a href="/Products"><img src="assets/images/classic/women hygiene/image_90.png" alt="Product"/></a>
+                                            <a href="/womenHygein"><img src="assets/images/classic/women hygiene/image_90.png" alt="Product"/></a>
                                         </div>
                                         <div class="part-txt">
                                            
-                                            <h4 class="product-name"><a href="/Products">WOMEN HYGEIN</a></h4>
+                                            <h4 class="product-name"><a href="/womenHygein">WOMEN HYGEIN</a></h4>
                                         </div>
                                     </div>
                                 </div>
