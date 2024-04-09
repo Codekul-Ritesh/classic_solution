@@ -48,7 +48,7 @@ function EYE_SUPPORT() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -63,25 +63,24 @@ function EYE_SUPPORT() {
                                     <div class="img-box" id="bigPreview">
                                         <img src="assets/images/classic/health supplement/demo/image_57.png" alt="Image" />
                                     </div>
-
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE EYE SUPPORT</h2>
-
+                                    <p class="price"><span >₹625.00</span> ₹575.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹625.00</span>Discount  ₹575.00</li>
-                                        <li>Product Code: <span> 21019</span></li>
-                                        <li>PV <span>19.17</span></li>
-                                        <li>NET VOLUMES<span>30 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code  :  <span> 21019</span></li>
+                                        <li>PV  :  <span>19.17</span></li>
+                                        <li>NET VOLUMES  : <span>30 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Vestige Eye Support has Marigold and Bilberry extracts, which are beneficial for eye health. These extracts are rich in Lutein, which helps in improving the eyesight, night vision and prevent eye irritation. It also helps to prevent eye disorders like macular degeneration, eye inflammation and other retina related complications.</p>
 
                                     <p>
-                                    Dosage: Two capsules daily with meals.
+                                        Dosage :  Two capsules daily with meals.
                                     </p>
                                     <form>
                                     </form>

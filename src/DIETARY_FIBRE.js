@@ -48,7 +48,7 @@ function DIETARY_FIBRE() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,20 +69,19 @@ function DIETARY_FIBRE() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE DIETARY FIBRE</h2>
-
+                                    <p class="price"><span >₹1000.00</span> ₹850.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1000.00</span>Discount  ₹850.00</li>
-                                        <li>Product Code: <span> 21032</span></li>
-                                        <li>PV <span>28.33</span></li>
-                                        <li>NET VOLUMES<span>200 g</span></li>
+                                        <li>Product Code :  <span> 21032</span></li>
+                                        <li>PV  :  <span>28.33</span></li>
+                                        <li>NET VOLUMES  : <span>200 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Vestige Dietary Fibre is a special blend of 3 soluble fibres, Chicory root extract, Maltodextrin and Guar Gum. Soluble fibers attract water and form a gel, which slows down digestion giving a full feeling for long. Chicory root extract contains inulin which is the main source of fibre. It is a low calorie yet high fibre root extract that adds to the daily requirement of fibre to maintain digestive health. Inulin is a prebiotic, which supports the presence of beneficial bacteria in the digestive system. A spoon (5 g) of Vestige Dietary Fibre contains 4 grams of soluble fiber.</p>
 
                                     <p>
-                                    Dosage: Adults & Children (12 years & above)
-                                    1 teaspoon per day & gradually increase fibre intake.
+                                        Dosage :  Adults & Children (12 years & above)
+                                        1 teaspoon per day & gradually increase fibre intake.
                                     </p>
                                     <form>
                                     </form>

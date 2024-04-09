@@ -48,7 +48,7 @@ function AYUSANTE_PROCARD() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,23 +69,20 @@ function AYUSANTE_PROCARD() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">AYUSANTE PROCARD </h2>
-
+                                    <p class="price"><span >₹960.00 </span> ₹820.00 </p>
                                     <ul class="short-details">
-                                 
-                                        <li><span >MRP  ₹960.00 </span>Discount  ₹820.00 </li>  
-
-                                        <li>Product Code: <span>20015</span></li>
-                                        <li>PV <span>27.33</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li>Product Code :  <span>20015</span></li>
+                                        <li>PV  :  <span>27.33</span></li>
+                                        <li>NET CONTENT  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr"> A unique powerful formulation (Terminalia arjuna, Balsamodendron mukul, Withania somnifera, Allium Sativum, Saccharum Officinarum) of well-known cardio-tonic and cardio-protective ingredients that offers optimal cardiovascular health. All these ingredients have been extensively researched for their beneficial effects on lipid management, supporting the normalisation of lipid levels including serum cholesterol, LDL, triglycerides and HDL cholesterol, thus playing a vital role in supporting cardiovascular health.</p>
                                     <p>
-                                    Dosage: One to two capsules twice daily or as advised by a physician.
+                                        Dosage :  One to two capsules twice daily or as advised by a physician.
                                     </p>
                                     <p>
-                                    Indications: Used for Hydrog (useful for heart related problems)
+                                        Indications :  Used for Hydrog (useful for heart related problems)
                                     </p>
                                     <form>
                                     </form>

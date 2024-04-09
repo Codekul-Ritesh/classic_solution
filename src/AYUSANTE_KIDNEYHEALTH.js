@@ -70,24 +70,21 @@ function AYUSANTE_KIDNEYHEALTH() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">AYUSANTE KIDNEYHEALTH</h2>
-
+                                    <p class="price"><span >₹760.00 </span> ₹450.00</p> 
                                     <ul class="short-details">
-                                  
-                                        <li><span >MRP  ₹760.00 </span>Discount  ₹450.00 </li>  
-
-                                        <li>Product Code: <span>20013</span></li>
-                                        <li>PV <span>21.67</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li>Product Code :  <span>20013</span></li>
+                                        <li>PV  :  <span>21.67</span></li>
+                                        <li>NET CONTENT  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">A combination of Emblica officinalis, Crataeva nurvala, Tribulus terrestris, Saxifraga ligulata wall, Tinospora cordifolia, Phyllanthus niruri, and Swet parpati is a preparation that deals with the problem of stones in the kidney. The ingredients help in providing relief from symptomatic problems like frequent urination, urinary tract infection and also neutralises the enzyme responsible for stone formation.</p>
                                    
                                     <p>
-                                    Dosage:One capsule thrice daily or as advised by a physician.
+                                    Dosage : One capsule thrice daily or as advised by a physician.
                                     </p>
                                     <p>
-                                    Indications: Urinary diseases and renal calculi.
+                                    Indications :  Urinary diseases and renal calculi.
                                     </p>
                                     <form>
                                     </form>

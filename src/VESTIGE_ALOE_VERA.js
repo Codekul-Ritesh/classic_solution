@@ -48,7 +48,7 @@ function VESTIGE_ALOE_VERA() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function VESTIGE_ALOE_VERA() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE ALOE VERA </h2>
-
+                                    <p class="price"><span >₹320.00 </span> ₹275.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹320.00 </span>Discount  ₹275.00 </li>  
-                                        <li>Product Code: <span>20005</span></li>
-                                        <li>PV <span>9.17</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>20005</span></li>
+                                        <li>PV  :  <span>9.17</span></li>
+                                        <li>NET CONTENT  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Aloe Vera is a plant with proven rejuvenating, healing and soothing properties. It contains more than 20 essential amino acids and vital minerals such as calcium, magnesium and sodium. It also contains enzymes, vitamins, polysaccharides, nitrogen and other components. It aids in proper digestion. It is useful in the cases of constipation, acidity and liver weakness. It helps treat skin disorders and suitable for hair related problems. Each capsule contains Aloe Vera Extract (Aloe barbadensis) 500 mg.</p>
 
                                     <p>
-                                    Dosage: One or two capsules twice a day or as directed.
+                                        Dosage :  One or two capsules twice a day or as directed.
                                     </p>
                                     <form>
                                     </form>

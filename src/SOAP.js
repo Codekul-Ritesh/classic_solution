@@ -48,7 +48,7 @@ function SOAP() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function SOAP() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE SOAP</h2>
-
+                                    <p class="price"><span >₹54.00</span> ₹45</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹54.00</span>Discount  ₹45</li>
-                                        <li>Product Code: <span>23090A</span></li>
-                                        <li>PV <span> 0.88</span></li>
-                                        <li>NET VOLUMES<span>100 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23090A</span></li>
+                                        <li>PV  :  <span> 0.88</span></li>
+                                        <li>NET VOLUMES  : <span>100 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Assure soap is a unique blend of Neem, Tulsi and Pudina. It protects the skin without drying it out. It also disinfects and refreshes the skin leaving it feeling fresh.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

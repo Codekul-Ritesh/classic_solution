@@ -48,7 +48,7 @@ function NUTRITIONAL_PROTEIN_POWDER() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function NUTRITIONAL_PROTEIN_POWDER() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">INVIGO NUTRITIONAL PROTEIN POWDER</h2>
-
+                                    <p class="price"><span >₹615.00</span> ₹525</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹615.00</span>Discount  ₹525</li>
-                                        <li>Product Code: <span> 22039</span></li>
-                                        <li>PV <span>17.50</span></li>
-                                        <li>NET VOLUMES<span> 200 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 22039</span></li>
+                                        <li>PV  :  <span>17.50</span></li>
+                                        <li>NET VOLUMES  : <span> 200 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Invigo Nutritional Protein Powder is a low-fat milk and whey protein food supplement, ideal for the entire family. It is enriched with DHA - an important essential fatty acid that is crucial for the brain's functioning and recommended for children in their growing years. Besides vital amino acids, it contains vitamins A, C, D, B1, B2, B6 and B12, along with folic acid, to provide the body with essential nutrients. Protein Powder is also a rich source of calcium and minerals to strengthen bones and helps to improve overall health.</p>
 
                                     <p>
-                                    Recommended Usage: Two tablespoons (30 g) of Invigo Nutritional Protein Powder provides 5 g of protein along with vitamins and minerals.
+                                        Recommended Usage :  Two tablespoons (30 g) of Invigo Nutritional Protein Powder provides 5 g of protein along with vitamins and minerals.
                                     </p>
                                     <form>
                                     </form>

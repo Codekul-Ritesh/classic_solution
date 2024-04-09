@@ -48,7 +48,7 @@ function PURIFYING_CLEANSER_TONER() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function PURIFYING_CLEANSER_TONER() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE PURIFYING CLEANSER + TONER</h2>
-
+                                    <p class="price"><span >₹315.00</span>₹270</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹315.00</span>MRP  ₹270</li>
-                                        <li>Product Code: <span>23037</span></li>
-                                        <li>PV <span> 9.00</span></li>
-                                        <li>NET VOLUMES<span> 250 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23037</span></li>
+                                        <li>PV  :  <span> 9.00</span></li>
+                                        <li>NET VOLUMES  : <span> 250 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">It effectively cleanses away impurities, makeup and excess oil without drying out skin. Its deep cleansing action unclog pores, removes blackheads and pollutants from the skin. Enriched with rose water and tea seed oil that helps to calm and revive the skin with freshness. It also tones the skin and make it look radiant and firm.</p>
 
                                     <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p>
                                     <form>
                                     </form>

@@ -48,7 +48,7 @@ function SANITARY_NAPKIN() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function SANITARY_NAPKIN() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">DEWGARDEN SANITARY NAPKIN</h2>
-
+                                    <p class="price"><span > ₹290.00</span> ₹250</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹290.00</span>Discount  ₹250</li>
-                                        <li>Product Code: <span> 23045</span></li>
-                                        <li>PV <span>8.33</span></li>
-                                        <li>NET VOLUMES<span>10 Nos.</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 23045</span></li>
+                                        <li>PV  :  <span>8.33</span></li>
+                                        <li>NET VOLUMES  : <span>10 Nos.</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">DewGarden Sanitary Napkin is an eight-layered napkin embedded with anti-bacterial, Graphene-Anion chip and Far Infrared Ray (FIR) function. This combination helps in inhibiting the reproduction of bacteria and the production of foul smell. Its 100% cotton top layer keeps you comfortable and confident for longer hours.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

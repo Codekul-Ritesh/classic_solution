@@ -48,7 +48,7 @@ function VESTIGE_GANODERMA() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,21 +69,18 @@ function VESTIGE_GANODERMA() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE_GANODERMA </h2>
-
+                                    <p class="price"><span >₹920.00 </span> ₹785.00 </p>
                                     <ul class="short-details">
-                                   
-                                    <li><span >MRP  ₹920.00 </span>Discount  ₹785.00 </li>  
-                                        
-                                        <li>Product Code: <span>20007</span></li>
-                                        <li>PV <span>26.17</span></li>
-                                        <li>NET CONTENT<span>90 capsules</span></li>
+                                        <li>Product Code :  <span>20007</span></li>
+                                        <li>PV  :  <span>26.17</span></li>
+                                        <li>NET CONTENT  : <span>90 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Ganoderma Lucidum is a type of mushroom that contains effective antioxidants, which help in strengthening the immune system and detoxifying the body. It has stress-relieving properties that refresh the body and calm the nerves. It promotes stamina and endurance to fight fatigue and illnesses. It also helps to improve blood circulation, boosts immunity and energises the body. As a detoxifier it helps to eliminate toxins from the body accumulated through intake of various medications and helps to maintain the body balance. It also helps to maintain stability and ensure balance between internal and external body conditions. It enhances the overall wellness of the human body as it is a rich source of essential vitamins and nutrients. Each capsule contains Ganoderma lucidum Extract Powder (Chatrakh) 425 mg.</p>
 
                                     <p>
-                                    Dosage: One capsule three times daily.
+                                        Dosage :  One capsule three times daily.
                                     </p>
                                     <form>
                                     </form>

@@ -48,7 +48,7 @@ function HAIR_SKIN_NAIL() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,20 +69,20 @@ function HAIR_SKIN_NAIL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE HAIR,SKIN & NAIL</h2>
-
+                                    <p class="price"><span > ₹585.00</span> ₹540.00</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹585.00</span>Discount  ₹540.00</li>
-                                        <li>Product Code: <span> 21029A</span></li>
-                                        <li>PV <span>18.00</span></li>
-                                        <li>NET VOLUMES<span>60 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21029A</span></li>
+                                        <li>PV  :  <span>18.00</span></li>
+                                        <li>NET VOLUMES  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
-                                    <p class="dscr">Vestige Hair Skin & Nail Capsules is a unique formulation that helps in reducing hair loss, 
-                                    pigmentation, reducing the effects of pollution on hair and skin. It helps to promote the health of nails and glowing skin.</p>
+                                    <p class="dscr">Vestige Hair Skin & Nail Capsules is a unique formulation that helps in reducing hair loss,
+                                        pigmentation, reducing the effects of pollution on hair and skin. It helps to promote the health of nails and glowing skin.</p>
 
                                     <p>
-                                    Recommended Usage: Two capsules a day.
+                                        Recommended Usage :  Two capsules a day.
                                     </p>
                                     <form>
                                     </form>

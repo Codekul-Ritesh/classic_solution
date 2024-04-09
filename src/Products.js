@@ -67,11 +67,7 @@ function Products() {
                                 <div class="col-8">
                                     <h2 class="title">Category products</h2>
                                 </div>
-                                <div class="col-4">
-                                    <div class="text-end">
-                                        <a href="shop.html" class="explore-section">View more</a>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </div>
 
@@ -102,7 +98,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/ayurveda"><img src="assets/images/classic/ayurveda/image_36.png" alt="Product" /></a>
+                                            <a href="/ayurveda"><img src="assets/images/classic/AYURVEDA/image_36.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
@@ -145,7 +141,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/airPurifire"><img src="assets/images/classic/air purifier/image_75.png" alt="Product" /></a>
+                                            <a href="/airPurifire"><img src="assets/images/classic/AIR PURIFIER/image_75.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
@@ -167,7 +163,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/healthFood"><img src="assets/images/classic/health food/image_86.png" alt="Product" /></a>
+                                            <a href="/healthFood"><img src="assets/images/classic/HEALTH FOOD/image_86.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
@@ -221,7 +217,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/oralCare"><img src="assets/images/classic/oral care/image_93.png" alt="Product" /></a>
+                                            <a href="/oralCare"><img src="assets/images/classic/ORAL CARE/image_93.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   
@@ -243,7 +239,7 @@ function Products() {
                                 <div class="custom-col">
                                     <div class="single-product-card">
                                         <div class="part-img">
-                                            <a href="/personalCare"><img src="assets/images/classic/personal care/image_124.png" alt="Product" /></a>
+                                            <a href="/personalCare"><img src="assets/images/classic/PERSONAL CARE/image_124.png" alt="Product" /></a>
                                             <div class="cart-option cart-option-bottom">
                                                 <ul>
                                                   

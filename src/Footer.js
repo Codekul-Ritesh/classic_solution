@@ -45,7 +45,7 @@ function Footer() {
                     </div>
                     <div class="custom-col-2">
                         <div class="link-wrap">
-                            <div class="footer-link">
+                            <div class="footer-link" style={{marginRight:'150px'}}>
                                 <h3 class="footer-title">Information</h3>
                                 <ul>
                                     <li><a href="/">Home</a></li>
@@ -60,24 +60,21 @@ function Footer() {
                     </div>
                     <div class="custom-col">
                         <div class="footer-gallery">
-                            <h3 class="footer-title">Instagram</h3>
+                            <h3 class="footer-title">Social Links</h3>
                             <ul>
                                 <li>
                                     <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
-                                        <img src="assets/gl-3.png" alt="image"/>
-                                        <span><i class="fa-brands fa-instagram"></i></span>
+                                        <i class="fa-brands fa-instagram"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
-                                        <img src="assets/gl-1.png" alt="image"/>
-                                        <span><i class="fa-brands fa-instagram"></i></span>
+                                    <a href="https://www.facebook.com/vestigepandharpur.dlcp.7?mibextid=rS40aB7S9Ucbxw6v" target="_blank">
+                                        <i class="fa-brands fa-facebook"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://instagram.com/classic_solutions?igshid=ZDdkNTZiNTM=" target="_blank">
-                                        <img src="assets/gl-2.png" alt="image"/>
-                                        <span><i class="fa-brands fa-instagram"></i></span>
+                                    <a href="https://youtube.com/@vestigeclassicsolutions1574?si=MwfeDzGJqfizublr" target="_blank">
+                                        <i class="fa-brands fa-youtube"></i>
                                     </a>
                                 </li>
                             </ul>

@@ -48,17 +48,6 @@ function HER_OWN_CAPSULE_BLOG() {
                                     </div>
                                 </nav>
                             </div>
-                            <div class="col-lg-2">
-                                <li class="live-chat d-xl-flex d-none align-items-center">
-                                    <div class="icon">
-                                        <img src="assets/images/call-icon.png" alt="call" />
-                                    </div>
-                                    <div class="txt">
-                                        <span class="d-block">Contact :</span>
-                                        <a class="d-block" href="tel:+997509153">+997 509 153</a>
-                                    </div>
-                                </li>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -84,7 +73,7 @@ function HER_OWN_CAPSULE_BLOG() {
                             Muscle Pain,</p>
                     </div>
                     <div class="part-txt">
-                        <h3 class="secondary-title">Vestige Her Own capsule contains:</h3>
+                        <h3 class="secondary-title">Vestige Her Own capsule contains : </h3>
                         <p>6 Natural Extracts,<br></br>
                             6 Amino Acids,<br></br>
                             13 Multivitamins,<br></br>
@@ -94,7 +83,7 @@ function HER_OWN_CAPSULE_BLOG() {
                     </div>
 
                     <div class="part-txt">
-                        <h3 class="secondary-title">Vestige Her Own one capsule each day has numerous health benefits:</h3>
+                        <h3 class="secondary-title">Vestige Her Own one capsule each day has numerous health benefits : </h3>
                         <p>It enhances Vitality,<br></br>
                             Daily Wellbeing,<br></br>
                             Helps in preventing Fatigue,<br></br>
@@ -113,35 +102,32 @@ function HER_OWN_CAPSULE_BLOG() {
                             <h3 class="sidebar-title">Recent Posts</h3>
                             <ul>
                                 <li>
-                                    <a href="blog-details.html">
+                                    <a href="/hairserum">
                                         <div class="part-img">
-                                            <img src="assets/images/blog-img-5.jpg" alt="image"/>
+                                            <img src="assets/images/blog-details-img3.jpg" alt="image"/>
                                         </div>
                                         <div class="txt-box">
-                                            <span class="title">How to Prepare for your First his</span>
-                                            <span class="date">August 26, 2021</span>
+                                            <span class="title">Vestige Hair Serum</span>
                                         </div>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blog-details.html">
+                                    <a href="/bodybutterblogs">
                                         <div class="part-img">
-                                            <img src="assets/images/blog-img-4.jpg" alt="image"/>
+                                            <img src="assets/images/blog-details-img16.png" alt="image"/>
                                         </div>
                                         <div class="txt-box">
-                                            <span class="title">How to Prepare for your First his</span>
-                                            <span class="date">August 26, 2021</span>
+                                            <span class="title">Vestige Assure Cherry Blossom Body Butter</span>
                                         </div>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blog-details.html">
+                                    <a href="/detoxfootpatch">
                                         <div class="part-img">
-                                            <img src="assets/images/blog-img-3.jpg" alt="image"/>
+                                            <img src="assets/images/blog-details-img10.jpg" alt="image"/>
                                         </div>
                                         <div class="txt-box">
-                                            <span class="title">How to Prepare for your First his</span>
-                                            <span class="date">August 26, 2021</span>
+                                            <span class="title">Vestige Detox Footpatch</span>
                                         </div>
                                     </a>
                                 </li>

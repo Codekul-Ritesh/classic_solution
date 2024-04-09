@@ -48,7 +48,7 @@ function HMB() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function HMB() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE HMB</h2>
-
+                                    <p class="price"><span > ₹1875.00</span>  ₹1585.00</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹1875.00</span> Discount  ₹1585.00</li>
-                                        <li>Product Code: <span> 22036</span></li>
-                                        <li>PV <span>52.83</span></li>
-                                        <li>NET VOLUMES<span>15 x 5 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 22036</span></li>
+                                        <li>PV  :  <span>52.83</span></li>
+                                        <li>NET VOLUMES  : <span>15 x 5 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Hydroxy-methyl-butyrate (HMB) is a chemical produced when the body breaks down leucine, an amino acid and necessary building block of protein. By slowing protein breakdown and speeding up protein synthesis (ie, a process to produce new proteins), HMB helps in building muscles and preventing muscle loss. HMB is also helpful in maintaining, rebuilding and preventing damage to muscles. It helps in increasing muscle strength, muscle recovery and improves aerobic endurance, making it helpful not just for athletes, but also for ageing individuals and patients convalescing from illness.</p>
 
                                     <p>
-                                        Recommended Usage: One sachet to be dissolved in 200 ml of water.
+                                        Recommended Usage :  One sachet to be dissolved in 200 ml of water.
                                     </p>
                                     <form>
                                     </form>

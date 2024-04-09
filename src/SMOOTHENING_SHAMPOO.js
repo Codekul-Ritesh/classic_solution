@@ -48,7 +48,7 @@ function SMOOTHENING_SHAMPOO() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function SMOOTHENING_SHAMPOO() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE KERATIN SMOOTHENING SHAMPOO</h2>
-
+                                    <p class="price"><span > ₹210.00</span> ₹180</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹210.00</span>Discount  ₹180</li>
-                                        <li>Product Code: <span>23093</span></li>
-                                        <li>PV <span>5.00</span></li>
-                                        <li>NET VOLUMES<span>150 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23093</span></li>
+                                        <li>PV  :  <span>5.00</span></li>
+                                        <li>NET VOLUMES  : <span>150 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Enriched with Hydrolysed Keratin and and Vitamin E. Helps your hair restore its keratin making them softer and ultra-manageable. It provides intense hydration and relieves dryness. Provides deep repair to damaged caused to hair by chemical treatment. It revitalises the hair follicles. It refines hair texture by filling these microscopic gaps with broken-down protein helps to brace the hair structure. Reduces breakage dramatically, repairing damage, and strengthening hair by replenishing cysteine as a Keratin substitute. It soothes the scalp to improve hair health.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

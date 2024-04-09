@@ -48,7 +48,7 @@ function HAIR_CONDITIONER() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function HAIR_CONDITIONER() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE HAIR CONDITIONER</h2>
-
+                                    <p class="price"><span >₹245.00</span>₹208</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹245.00</span>MRP  ₹208</li>
-                                        <li>Product Code: <span>23010</span></li>
-                                        <li>PV <span> 6.93</span></li>
-                                        <li>NET VOLUMES<span> 75 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23010</span></li>
+                                        <li>PV  :  <span> 6.93</span></li>
+                                        <li>NET VOLUMES  : <span> 75 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">A moisture-rich, light conditioning formula to prevent frizz and repair rough hair. It is fortified with nourishing ingredients like natural proteins of silk, wheat and soy for extra smoothness and bounce, a special blend of jojoba, coconut, olive and almond oil to nourish hair strands and provide long-lasting shine and moringa seed extract to repair and strengthen damaged hair and provide protection from further damage.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

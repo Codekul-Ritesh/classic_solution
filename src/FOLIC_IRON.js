@@ -48,7 +48,7 @@ function FOLIC_IRON() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,23 +69,23 @@ function FOLIC_IRON() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE FOLIC & IRON PLUS</h2>
-
+                                    <p class="price"><span > ₹280.00</span> ₹240.00</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹280.00</span>Discount  ₹240.00</li>
-                                        <li>Product Code: <span>  21006</span></li>
-                                        <li>PV <span>8.00</span></li>
-                                        <li>NET VOLUMES<span>60 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>  21006</span></li>
+                                        <li>PV  :  <span>8.00</span></li>
+                                        <li>NET VOLUMES  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Folic & Iron Plus combination contains a mineral (iron) along with vitamins (Vitamin C, Vitamin B12 and Folic acid). It is useful to prevent lack of these nutrients which may occur in certain health conditions (iron deficiency, pregnancy, poor diet etc). It also plays an important role in growth and development of the body and helps reduce tiredness and fatigue. Each capsule contains Ferrous Fumerate 250 mg, Folic Acid 1 mg, Vitamin C (coated) 75 mg, Vitamin B12 15 mcg, Zinc Sulphate Heptahydrate 100 mg equivalent to elemental zinc 22.7 mg.</p>
 
                                     <p>
-                                    Dosage: One or two capsules daily for adults and children above 12 years.
+                                        Dosage :  One or two capsules daily for adults and children above 12 years.
                                     </p>
 
                                     <p>
-                                    Appropriate overages added.
+                                        Appropriate overages added.
                                     </p>
                                     <form>
                                     </form>

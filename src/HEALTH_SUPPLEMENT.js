@@ -49,17 +49,6 @@ function HEALTH_SUPPLEMENT() {
           </div>
         </nav>
       </div>
-      <div class="col-lg-2">
-        <li class="live-chat d-xl-flex d-none align-items-center">
-          <div class="icon">
-            <img src="assets/images/call-icon.png" alt="call" />
-          </div>
-          <div class="txt">
-            <span class="d-block">Contact :</span>
-            <a class="d-block" href="tel:+997509153">+997 509 153</a>
-          </div>
-        </li>
-      </div>
     </div>
   </div>
 </div>

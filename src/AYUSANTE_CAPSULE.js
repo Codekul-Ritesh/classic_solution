@@ -48,7 +48,7 @@ function AYUSANTE_CAPSULE() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,23 +69,20 @@ function AYUSANTE_CAPSULE() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">AYUSANTE VITAL COMPLEX CAPSULE </h2>
-
+                                    <p class="price"><span >₹895.00 </span> ₹765.00 </p>
                                     <ul class="short-details">
-                                   
-                                        <li><span >MRP  ₹895.00 </span>Discount  ₹765.00 </li>  
-
-                                        <li>Product Code: <span>20012</span></li>
-                                        <li>PV <span>25.50</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li>Product Code :  <span>20012</span></li>
+                                        <li>PV  :  <span>25.50</span></li>
+                                        <li>NET CONTENT  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">A combination of powerful natural antioxidants (Emblica officinalis, Vitis vinifera, Camellia sinensis, Daucus carota, Bhasma dus puti, Tagetes erecta) that act as a shield to protect from degenerative diseases and also provide strength, vigour and vitality for a healthy life. Power-packed with antioxidant-rich phyto-actives, this composition helps the body fight against oxidative stress, tackles fatigue, and nourishes body tissues.</p>
                                     <p>
-                                    Dosage: One capsule twice daily or as advised by a physician.
+                                        Dosage :  One capsule twice daily or as advised by a physician.
                                     </p>
                                     <p>
-                                    Indications: Rasayan and Poshtik (health tonic for general wellness).
+                                        Indications :  Rasayan and Poshtik (health tonic for general wellness).
                                     </p>
                                     <form>
                                     </form>

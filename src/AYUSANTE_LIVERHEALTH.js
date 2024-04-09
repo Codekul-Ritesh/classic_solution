@@ -49,7 +49,7 @@ function AYUSANTE_LIVERHEALTH() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -70,14 +70,11 @@ function AYUSANTE_LIVERHEALTH() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">AYUSANTE LIVERHEALTH </h2>
-
+                                    <p class="price"><span >₹765.00 </span> ₹655.00 </p>
                                     <ul class="short-details">
-                              
-                                        <li><span >MRP  ₹765.00 </span>Discount  ₹655.00 </li>  
-
-                                        <li>Product Code: <span>20014</span></li>
-                                        <li>PV <span>21.83</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li>Product Code :  <span>20014</span></li>
+                                        <li>PV  :  <span>21.83</span></li>
+                                        <li>NET CONTENT  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>

@@ -48,7 +48,7 @@ function HAIR_OIL() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function HAIR_OIL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE HAIR OIL</h2>
-
+                                    <p class="price"><span >₹195.00</span>₹165</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹195.00</span>MRP  ₹165</li>
-                                        <li>Product Code: <span>23011</span></li>
-                                        <li>PV <span> 5.50</span></li>
-                                        <li>NET VOLUMES<span>200 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23011</span></li>
+                                        <li>PV  :  <span> 5.50</span></li>
+                                        <li>NET VOLUMES  : <span>200 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Assure Hair Oil provides nourishment to the hair from the roots to the tips. It’s special non-greasy formula prevents hair loss and helps control dandruff. It also helps in reducing premature greying, improves the hair texture and adds luster.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

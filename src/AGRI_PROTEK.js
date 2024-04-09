@@ -69,12 +69,11 @@ function VESTIGE_AGRI_PROTEK() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE AGRI PROTEK </h2>
-
-                                    <ul class="short-details">
-                                    <li><span >MRP  ₹760.00 </span>Discount  ₹630.00 </li>  
-                                        <li>Product Code: <span>26018</span></li>
-                                        <li>PV <span>21.00</span></li>
-                                        <li>NET CONTENT<span>250 g</span></li>
+                                    <p class="price"><span >₹760.00 </span> ₹630.00</p> 
+                                    <ul class="short-details">                                    
+                                        <li>Product Code :  <span>26018</span></li>
+                                        <li>PV  :  <span>21.00</span></li>
+                                        <li>NET CONTENT  : <span>250 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>

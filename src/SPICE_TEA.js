@@ -48,7 +48,7 @@ function SPICE_TEA() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function SPICE_TEA() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ZETA PREMIUM SPICE TEA</h2>
-
+                                    <p class="price"><span >₹285.00</span>₹99</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹285.00</span>MRP  ₹99</li>
-                                        <li>Product Code: <span>22015</span></li>
-                                        <li>PV <span> 8.33</span></li>
-                                        <li>NET VOLUMES<span> 250 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>22015</span></li>
+                                        <li>PV  :  <span> 8.33</span></li>
+                                        <li>NET VOLUMES  : <span> 250 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Zeta Premium Spice Tea is made using hand-picked tea leaves from the renowned tea gardens of Assam and is blended with herbs and spices inspired by the recommendation made by Ministry of AYUSH. This perfectly blended black tea is enriched with the goodness of eight powerful herbs, ie, Ashwagandha, Mulethi, Tulsi, Shunthi and four other herbs. Each sip of this rich tea refreshes the body and helps in strengthening immunity.</p>
 
                                     {/* <p>
-                                    Recommended Usage: Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
+                                    Recommended Usage :  Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
                                     </p> */}
                                     <form>
                                     </form>

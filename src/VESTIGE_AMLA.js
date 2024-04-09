@@ -48,7 +48,7 @@ function VESTIGE_AMLA() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -63,25 +63,24 @@ function VESTIGE_AMLA() {
                                     <div class="img-box" id="bigPreview">
                                         <img src="assets/images/classic/ayurveda/image_39.png" alt="Image" />
                                     </div>
-
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE AMLA</h2>
-
+                                    <p class="price"><span >₹222.00 </span> ₹185.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹222.00 </span>Discount  ₹185.00 </li>  
-                                        <li>Product Code: <span>  20025</span></li>
-                                        <li>PV <span>6.17</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>  20025</span></li>
+                                        <li>PV  :  <span>6.17</span></li>
+                                        <li>NET CONTENT  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Amla (Emblica officinalis) is known for its medicinal benefits for more than 3,000 years in Ayurveda and is respected as a symbol of good health. It is a good source of Vitamin C. Amla helps in improving the body's immune system as it contains effective antioxidants and flavonoids. Amla is also good for digestion as it helps the body to absorb and assimilate nutrients from food.</p>
 
                                     <p>
-                                    Dosage: One or two capsules twice a day.
+                                        Dosage :  One or two capsules twice a day.
                                     </p>
                                     <form>
                                     </form>

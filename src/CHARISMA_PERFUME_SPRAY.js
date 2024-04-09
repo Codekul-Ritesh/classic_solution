@@ -68,17 +68,17 @@ function CHARISMA_PERFUME_SPRAY() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE CHARISMA PERFUME SPRAY</h2>
-                                    <p class="price"><span >MRP  ₹100.00</span>MRP  ₹85</p>
+                                    <p class="price"><span >₹100.00</span>₹85</p>
                                     <ul class="short-details">
-                                        <li>Product Code: <span>23043</span></li>
-                                        <li>PV <span>2.83</span></li>
-                                        <li>NET VOLUMES<span>18 ml</span></li>
+                                        <li>Product Code :  <span>23043</span></li>
+                                        <li>PV  :  <span>2.83</span></li>
+                                        <li>NET VOLUMES  : <span>18 ml</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">The timeless classic sweet and subtle fragrance for the trendy and unique you. An ideal wear that keeps you smelling great all day long and effortlessly brings out the charm factor in you. Make everyone turn around with this magical fragrance.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

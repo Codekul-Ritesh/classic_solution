@@ -48,7 +48,7 @@ function ZETA_SPECIAL_TEA() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function ZETA_SPECIAL_TEA() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ZETA SPECIAL TEA</h2>
-
+                                    <p class="price"><span >₹118.00</span> ₹99</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹118.00</span>Discount  ₹99</li>
-                                        <li>Product Code: <span> 22044</span></li>
-                                        <li>PV <span>1.92</span></li>
-                                        <li>NET VOLUMES<span> 200 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 22044</span></li>
+                                        <li>PV  :  <span>1.92</span></li>
+                                        <li>NET VOLUMES  :  <span> 200 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Zeta from Vestige is a select, exquisite blend of pure Assam tea, whose red liquor and intense aroma will delight and refresh your senses. It is also rich in natural antioxidants (flavonoids) to protect the cells and tissues in your body. Each cup of tea contains antioxidants equivalent to 4 glasses of orange juice.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One or two capsules on an empty stomach.
+                                    Recommended Usage :  One or two capsules on an empty stomach.
                                     </p> */}
                                     <form>
                                     </form>

@@ -48,7 +48,7 @@ function FOOT_PATCH() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,20 +69,20 @@ function FOOT_PATCH() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE DETOX FOOT PATCHES</h2>
-
+                                    <p class="price"><span >₹1400.00</span> ₹1204.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1400.00</span>Discount  ₹1204.00</li>
-                                        <li>Product Code: <span> 21012</span></li>
-                                        <li>PV <span>33.44</span></li>
-                                        <li>NET VOLUMES<span>10 pieces</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21012</span></li>
+                                        <li>PV  :  <span>33.44</span></li>
+                                        <li>NET VOLUMES  : <span>10 pieces</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Detox Foot Patches helps you regain health and vitality by helping the body eliminate toxins through a natural process. It works on the principle of reflexology, which is based on the concept that areas on the foot corresponds to different areas of the body, and that manipulating these may improve health. These patches are 100 % natural, safe, easy to use and provide rapid detoxification.<br></br>
-                                    Note: Drink plenty of water to assist complete detoxification.</p>
+                                        Note :  Drink plenty of water to assist complete detoxification.</p>
 
                                     <p>
-                                    {/* Dosage: Two capsules daily with meals. */}
+                                        {/* Dosage :  Two capsules daily with meals. */}
                                     </p>
                                     <form>
                                     </form>

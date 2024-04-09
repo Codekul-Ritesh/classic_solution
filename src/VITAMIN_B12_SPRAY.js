@@ -48,17 +48,7 @@ function VITAMIN_B12_SPRAY () {
                             </div>
                         </nav>
                     </div>
-                    <div class="col-lg-2">
-                        <li class="live-chat d-xl-flex d-none align-items-center">
-                            <div class="icon">
-                                <img src="assets/images/call-icon.png" alt="call" />
-                            </div>
-                            <div class="txt">
-                                <span class="d-block">Contact :</span>
-                                <a class="d-block" href="tel:+997509153">+917420998608</a>
-                            </div>
-                        </li>
-                    </div>
+                    
                 </div>
             </div>
         </div>
@@ -81,10 +71,10 @@ function VITAMIN_B12_SPRAY () {
                             <h2 class="main-product-title">VESTIGE PRIME ABSORVIT VITAMIN B12 SUBLINGUAL SPRAY</h2>
 
                             <ul class="short-details">
-                                <li><span >MRP  ₹625.00</span> Discount  ₹540.00</li>
-                                <li>Product Code: <span>21046</span></li>
-                                <li>PV <span>18</span></li>
-                                <li>NET VOLUMES<span> 9 ml</span></li>
+                                <li><span >₹625.00</span>  ₹540.00</li>
+                                <li>Product Code :  <span>21046</span></li>
+                                <li>PV  :  <span>18</span></li>
+                                <li>NET VOLUMES  : <span> 9 ml</span></li>
 
                             </ul>
                             <h3>Description</h3>
@@ -94,7 +84,7 @@ function VITAMIN_B12_SPRAY () {
                             energy thus maintaining healthy energy levels. It supports nerve health and red blood cells formation.</p>
 
                             <p>
-                            Dose: Just 1 spray a day
+                            Dose :  Just 1 spray a day
                             </p>
                             <form>
                             </form>

@@ -48,7 +48,7 @@ function PANTY_LINERS() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ function PANTY_LINERS() {
                             <div class="col-xl-6 col-lg-5 col-md-6">
                                 <div class="part-img mr-30">
                                     <div class="img-box" id="bigPreview">
-                                        <img src="assets/images/classic/women hygiene/image_90.png" alt="Image" style={{ width: '500px', height: '400px' }} />
+                                        <img src="assets/images/classic/women hygiene/image_90.png" alt="Image" style={{ width :  '500px', height :  '400px' }} />
                                     </div>
 
                                 </div>
@@ -69,19 +69,19 @@ function PANTY_LINERS() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">DEWGARDEN PANTY LINERS</h2>
-
+                                    <p class="price"><span > ₹175.00</span> ₹150</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹175.00</span>Discount  ₹150</li>
-                                        <li>Product Code: <span> 23046</span></li>
-                                        <li>PV <span>5.00</span></li>
-                                        <li>NET VOLUMES<span>12 Nos.</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 23046</span></li>
+                                        <li>PV  :  <span>5.00</span></li>
+                                        <li>NET VOLUMES  : <span>12 Nos.</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">DewGarden Panty Liner is a hygienic napkin with anti-bacterial properties embedded with Graphene-anion chip and Far Infrared Rays (FIR) function. It helps you stay fresh all day long on regular days, or on the days before and after your periods. It quickly absorbs discharge and menstrual spots to keep your panty clean. Its 100% cotton top layer keeps you comfortable and confident for longer hours.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

@@ -48,7 +48,7 @@ function RAPTURE_DEO() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -63,25 +63,24 @@ function RAPTURE_DEO() {
                                     <div class="img-box" id="bigPreview">
                                         <img src="assets/images/classic/personal care/image_125.png" alt="Image" />
                                     </div>
-
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE RAPTURE DEO (Women)</h2>
-
+                                    <p class="price"><span >₹205.00</span>₹175</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹205.00</span>MRP  ₹175</li>
-                                        <li>Product Code: <span>23088</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23088</span></li>
                                         <li>PV <span>4.86</span></li>
-                                        <li>NET VOLUMES<span>125 ml</span></li>
+                                        <li>NET VOLUMES  : <span>125 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Assure Rapture for women has a refreshing fragrance that protects against body odour and makes you feel fresh, active and energetic all day long.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

@@ -49,7 +49,7 @@ function VESTIGE_AGRI_MOSS() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -70,18 +70,18 @@ function VESTIGE_AGRI_MOSS() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE AGRI MOSS</h2>
-
+                                    <p class="price"><span >₹380.00 </span> ₹330.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹380.00 </span>Discount  ₹330.00 </li>  
-                                        <li>Product Code: <span>26011</span></li>
-                                        <li>PV <span>11.00</span></li>
-                                        <li>NET CONTENT<span>100 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>26011</span></li>
+                                        <li>PV  :  <span>11.00</span></li>
+                                        <li>NET CONTENT  : <span>100 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Agri-Moss is a product of natural origin for the complete nutrition of plants. It is water soluble and non-toxic to plants, animals and human beings. It enhances crop performance growth, vigour, yield and quality. It is very useful in plant's fertility and reproduction process.</p>
-                                   
-                                    
+
+
                                     <form>
                                     </form>
                                 </div>

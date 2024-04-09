@@ -48,7 +48,7 @@ function STEVIA() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function STEVIA() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE PRE GLUCOHEALTH</h2>
-
+                                    <p class="price"><span >₹160.00</span> ₹140.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹160.00</span>Discount  ₹140.00</li>
-                                        <li>Product Code: <span> 21008</span></li>
-                                        <li>PV <span>4.67</span></li>
-                                        <li>NET VOLUMES<span>100 tablets</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21008</span></li>
+                                        <li>PV  :  <span>4.67</span></li>
+                                        <li>NET VOLUMES  : <span>100 tablets</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Rebaudioside in stevia is a 100% natural low-calorie sugar substitute. It is a healthier alternative to sugar as it is made from natural herbs and does not contain Aspartame. Rebaudioside is a natural and fat free (less than 2% calories of sugar per tablet) sugar substitute, suitable for weight conscious and low calorie diets. Each uncoated tablets contains Rebaudioside A 97%, Excipients q.s. (Lactose, Croscarmellose Sodium, Colloidal Silicon Dioxide, Hydroxy Propyl Cellulose, Magnesium Stearate.)</p>
 
                                     <p>
-                                    {/* Recommended Usage: One capsule twice a day or as directed by a healthcare practitioner. */}
+                                        {/* Recommended Usage :  One capsule twice a day or as directed by a healthcare practitioner. */}
                                     </p>
                                     <form>
                                     </form>

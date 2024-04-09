@@ -69,19 +69,19 @@ function CHOCO_FLAXSEED_BAR() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ENERVA CHOCO-FLAXSEED BAR</h2>
-
+                                    <p class="price"><span >₹60.00</span>₹50</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹60.00</span>MRP  ₹50</li>
-                                        <li>Product Code: <span>21006</span></li>
-                                        <li>PV <span> 1.67</span></li>
-                                        <li>NET VOLUMES<span> 30 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>21006</span></li>
+                                        <li>PV  :  <span> 1.67</span></li>
+                                        <li>NET VOLUMES  : <span> 30 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Enerva Choco-Flaxseed bar is a tasty and wholesome nutrition bar that is prepared with healthy ingredients like wheat flakes, oats, almonds, raisin and flaxseeds.</p>
 
                                     {/* <p>
-                                    Recommended Usage: Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
+                                    Recommended Usage :  Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
                                     </p> */}
                                     <form>
                                     </form>

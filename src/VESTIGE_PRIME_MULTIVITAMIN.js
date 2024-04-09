@@ -5,7 +5,7 @@ import Footer from "./Footer";
 function VESTIGE_PRIME_MULTIVITAMIN() {
     return (
         <div>
-            <Header/>
+            <Header />
             <div class="header">
                 <div class="menu-bar">
                     <div class="container">
@@ -48,7 +48,7 @@ function VESTIGE_PRIME_MULTIVITAMIN() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,21 +69,21 @@ function VESTIGE_PRIME_MULTIVITAMIN() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE PRIME MULTI VITA MIN</h2>
-
+                                    <p class="price"><span >₹825.00</span>  ₹540.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹825.00</span> Discount  ₹540.00</li>
-                                        <li>Product Code: <span>21035</span></li>
-                                        <li>PV <span>23.17</span></li>
-                                        <li>NET VOLUMES<span> 60 gummies</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>21035</span></li>
+                                        <li>PV  :  <span>23.17</span></li>
+                                        <li>NET VOLUMES  : <span> 60 gummies</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Perfect for both adults and children alike, fulfil your nutritional needs with Vestige Prime Multi Vita+Min Gummies. It uses a comprehensive blend of vital vitamins and minerals such as Vitamin A, Vitamin C, Vitamin D, Vitamin E, Zinc, Magnesium and more. These essential vitamins and minerals boost physical strength, endurance, immunity and metabolism. The delicious gummies deliver nutrition in a convenient and tasty package while also being easily absorbed by the body. Now carry your nutrition on the go, anywhere, any time.</p>
 
                                     <p>
-                                    Recommended Usage: For adults – Two gummies per day. 
-                                    For kids above 5 years – One gummy per day. 
-                                    Chew gummy thoroughly before swallowing.
+                                        Recommended Usage :  For adults – Two gummies per day.
+                                        For kids above 5 years – One gummy per day.
+                                        Chew gummy thoroughly before swallowing.
                                     </p>
                                     <form>
                                     </form>
@@ -93,7 +93,7 @@ function VESTIGE_PRIME_MULTIVITAMIN() {
                     </div>
                 </div>
             </div>
-            <Footer/>
+            <Footer />
         </div>
     )
 }

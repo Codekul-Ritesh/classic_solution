@@ -2,10 +2,10 @@ import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
 
-function flax_oil () {
+function flax_oil() {
     return (
         <div>
-            <Header/>
+            <Header />
             <div class="header">
                 <div class="menu-bar">
                     <div class="container">
@@ -48,7 +48,7 @@ function flax_oil () {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function flax_oil () {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE FLAX OIL</h2>
-
+                                    <p class="price"><span >₹635.00 </span> ₹540.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹635.00 </span>Discount  ₹540.00 </li>  
-                                        <li>Product Code: <span> 20037</span></li>
-                                        <li>PV <span>18.00</span></li>
-                                        <li>NET CONTENT<span>90 softgels</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 20037</span></li>
+                                        <li>PV  :  <span>18.00</span></li>
+                                        <li>NET CONTENT  : <span>90 softgels</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Flaxseed oil is a rich source of the essential fatty acids such as alpha-linolenic acid (ALA), Omega-3 and Omega - 6. Omega 3 fatty acids are good fats that have heart-healthy effects. It is also a rich source of Vitamin E which is a powerful antioxidant required for maintaining the integrity of cell membranes by protecting it from harmful free-radicals. Flaxseed helps maintain a healthy cholesterol level and aids in regulating high blood pressure. Each soft gelatin capsule contains Flax seed Oil (Linseed Oil) 500 mg.</p>
 
                                     <p>
-                                    Dosage: One Capsule thrice a day after meals.
+                                        Dosage :  One Capsule thrice a day after meals.
                                     </p>
                                     <form>
                                     </form>
@@ -91,7 +91,7 @@ function flax_oil () {
                     </div>
                 </div>
             </div>
-            <Footer/>
+            <Footer />
         </div>
     )
 }

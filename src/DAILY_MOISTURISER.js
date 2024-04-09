@@ -48,7 +48,7 @@ function DAILY_MOISTURISER() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function DAILY_MOISTURISER() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE DAILY MOISTURISER</h2>
-
+                                    <p class="price"><span >₹290.00</span>₹248</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹290.00</span>MRP  ₹248</li>
-                                        <li>Product Code: <span>23036</span></li>
-                                        <li>PV <span> 8.27</span></li>
-                                        <li>NET VOLUMES<span> 250 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23036</span></li>
+                                        <li>PV  :  <span> 8.27</span></li>
+                                        <li>NET VOLUMES  : <span> 250 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Nourishes the skin from deep within leaving it soft, smooth and supple without making it oily. A light weight and non-greasy formula that easily absorbs into the skin and gives the skin a healthy glow. Enriched with nourishing mango butter, olive oil and sunflower oil that helps to hydrate the skin for longer, retain skin elasticity and prevent from dryness. Perfect all day moisturiser for silky soft skin.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

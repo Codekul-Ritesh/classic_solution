@@ -48,17 +48,6 @@ function HYPERPIGMENTATION_BLOG() {
                                     </div>
                                 </nav>
                             </div>
-                            <div class="col-lg-2">
-                                <li class="live-chat d-xl-flex d-none align-items-center">
-                                    <div class="icon">
-                                        <img src="assets/images/call-icon.png" alt="call" />
-                                    </div>
-                                    <div class="txt">
-                                        <span class="d-block">Contact :</span>
-                                        <a class="d-block" href="tel:+997509153">+997 509 153</a>
-                                    </div>
-                                </li>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -80,8 +69,8 @@ function HYPERPIGMENTATION_BLOG() {
                             </ul>
                             <h2 class="blog-title">Hyperpigmentation Got You Down? Cure It in Style!</h2>
                         </div>
-                        <p>Imagine this: you're strolling down the street, Suddenly, you catch a glimpse of your reflection in a store window, and instead of seeing your dazzling smile, all you can focus on are those pesky dark spots playing peek-a-boo on your face. Hyperpigmentation can be a real buzzkill, but fear not! We've got your back with these fantastic tips and tricks to banish those spots and reclaim your radiant glow. Get ready to bid farewell to hyperpigmentation, one witty step at a time!</p>
-                        <p>I am going to cover:<br></br>
+                        <p>Imagine this :  you're strolling down the street, Suddenly, you catch a glimpse of your reflection in a store window, and instead of seeing your dazzling smile, all you can focus on are those pesky dark spots playing peek-a-boo on your face. Hyperpigmentation can be a real buzzkill, but fear not! We've got your back with these fantastic tips and tricks to banish those spots and reclaim your radiant glow. Get ready to bid farewell to hyperpigmentation, one witty step at a time!</p>
+                        <p>I am going to cover : <br></br>
                             What is Hyperpigmentation?<br></br>
                             What are causes of Hyperpigmentation?<br></br>
                             What can we do along with the treatment?</p>
@@ -93,7 +82,7 @@ function HYPERPIGMENTATION_BLOG() {
 
                     <div class="part-txt">
                         <h3 class="secondary-title">Causes</h3>
-                        <p>Many things can lead to hyperpigmentation :<br></br>
+                        <p>Many things can lead to hyperpigmentation  : <br></br>
                             Sun Tanning,<br></br>
                             Genetics,<br></br>
                             Scars & blemishes,<br></br>
@@ -110,14 +99,14 @@ function HYPERPIGMENTATION_BLOG() {
                     </div>
 
                     <div class="part-txt">
-                        <h3 class="secondary-title">Natural Tips to take care of Hyperpigmentation:</h3>
-                        <p><h3 class="secondary-title">1. Sun burns :</h3> We know you've heard it a million times, but trust us, sunscreen is your ultimate BFF in the battle against hyperpigmentation. Those harmful UV rays love to trigger excess melanin production Melanin is a hormone which keeps skin healthy and protect from sunburns. Over production of Melanin causes darkness and dullness of skin. Melanin can be controlled by avoiding sunlight. Eating High Antioxidant fruits like Orange, Papaya, Guava, Lemon, passion fruit, etc. Vestige Assure Natural Lightning cream helps to reduce Melanin on your face. It contains Passion fruit which is high in Vitamin C, Vitamin A and Antioxidants. This antioxidant powerhouse not only boosts your immune system but also fights hyperpigmentation like a champ. Studies have shown that topical application of vitamin C can reduce the appearance of dark spots and even out skin tone. Time to let the vitamin C shine! So, go ahead and add some citrusy goodness to your skincare routine! You can apply this cream while going outside.</p>
-                        <p><h3 class="secondary-title">2. Exfoliation : Buff Away Those Worries</h3> Exfoliating regularly not only removes dead skin cells but also helps fade hyperpigmentation. Say hello to bright and even-toned skin!</p>
-                        <p><h3 class="secondary-title">3. Retin oids :</h3> The Skin's Fairy Godmother Want to turn back the clock on hyperpigmentation? Say hello to retinoids! These powerful derivatives of vitamin A can work wonders on your skin. Research suggests that retinoids help regulate melanin production, fade dark spots, and stimulate collagen production for a plump and youthful complexion. Just remember to start with a low concentration and gradually increase it to avoid any Cinderella-esque side effects.</p>
-                        <p><h3 class="secondary-title">4. Natural Remedies: Kitchen Magic</h3> When life gives you lemons, make a hyperpigmentation-busting face mask! Natural remedies like lemon juice, aloe vera, and honey have long been used to combat dark spots. However, proceed with caution as some natural ingredients can be harsh or cause irritation. Research the specific benefits and potential risks of each remedy, and remember that patience is key when using natural treatments.</p>
-                        <p><h3 class="secondary-title">5. Professional Treatments: Seek Expertise</h3> If your hyperpigmentation feels like a stubborn foe that just won't quit, it's time to call in the professionals. Treatments like chemical peels, laser therapy, and microdermabrasion can give your skin the extra boost it needs. Consult a dermatologist or skincare specialist to determine the best course of action for your skin type and concerns.</p>
-                        <p><h3 class="secondary-title">6. Patience: The Virtuous Path</h3> Last but not least, be patient! Hyperpigmentation doesn't vanish overnight, so embrace the journey and enjoy the small victories along the way. Consistency is key with any treatment, and results may take weeks or even months to show. Keep a positive mindset, practice self-care, and remember that you are beautiful, spots and all!</p>
-                        <p>Remember,<h4 style={{fontWeight:'bold'}}>hyperpigmentation is a common skin woe that affects many people.</h4>By following these witty tips and incorporating them into your skincare routine, you'll be well on your way to a complexion that radiates confidence and charm. Say goodbye to hyperpigmentation and hello to your best, most luminous self!</p>
+                        <h3 class="secondary-title">Natural Tips to take care of Hyperpigmentation : </h3>
+                        <p><h3 class="secondary-title">1. Sun burns  : </h3> We know you've heard it a million times, but trust us, sunscreen is your ultimate BFF in the battle against hyperpigmentation. Those harmful UV rays love to trigger excess melanin production Melanin is a hormone which keeps skin healthy and protect from sunburns. Over production of Melanin causes darkness and dullness of skin. Melanin can be controlled by avoiding sunlight. Eating High Antioxidant fruits like Orange, Papaya, Guava, Lemon, passion fruit, etc. Vestige Assure Natural Lightning cream helps to reduce Melanin on your face. It contains Passion fruit which is high in Vitamin C, Vitamin A and Antioxidants. This antioxidant powerhouse not only boosts your immune system but also fights hyperpigmentation like a champ. Studies have shown that topical application of vitamin C can reduce the appearance of dark spots and even out skin tone. Time to let the vitamin C shine! So, go ahead and add some citrusy goodness to your skincare routine! You can apply this cream while going outside.</p>
+                        <p><h3 class="secondary-title">2. Exfoliation  :  Buff Away Those Worries</h3> Exfoliating regularly not only removes dead skin cells but also helps fade hyperpigmentation. Say hello to bright and even-toned skin!</p>
+                        <p><h3 class="secondary-title">3. Retin oids  : </h3> The Skin's Fairy Godmother Want to turn back the clock on hyperpigmentation? Say hello to retinoids! These powerful derivatives of vitamin A can work wonders on your skin. Research suggests that retinoids help regulate melanin production, fade dark spots, and stimulate collagen production for a plump and youthful complexion. Just remember to start with a low concentration and gradually increase it to avoid any Cinderella-esque side effects.</p>
+                        <p><h3 class="secondary-title">4. Natural Remedies :  Kitchen Magic</h3> When life gives you lemons, make a hyperpigmentation-busting face mask! Natural remedies like lemon juice, aloe vera, and honey have long been used to combat dark spots. However, proceed with caution as some natural ingredients can be harsh or cause irritation. Research the specific benefits and potential risks of each remedy, and remember that patience is key when using natural treatments.</p>
+                        <p><h3 class="secondary-title">5. Professional Treatments :  Seek Expertise</h3> If your hyperpigmentation feels like a stubborn foe that just won't quit, it's time to call in the professionals. Treatments like chemical peels, laser therapy, and microdermabrasion can give your skin the extra boost it needs. Consult a dermatologist or skincare specialist to determine the best course of action for your skin type and concerns.</p>
+                        <p><h3 class="secondary-title">6. Patience :  The Virtuous Path</h3> Last but not least, be patient! Hyperpigmentation doesn't vanish overnight, so embrace the journey and enjoy the small victories along the way. Consistency is key with any treatment, and results may take weeks or even months to show. Keep a positive mindset, practice self-care, and remember that you are beautiful, spots and all!</p>
+                        <p>Remember,<h4 style={{fontWeight : 'bold'}}>hyperpigmentation is a common skin woe that affects many people.</h4>By following these witty tips and incorporating them into your skincare routine, you'll be well on your way to a complexion that radiates confidence and charm. Say goodbye to hyperpigmentation and hello to your best, most luminous self!</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -130,35 +119,32 @@ function HYPERPIGMENTATION_BLOG() {
                             <h3 class="sidebar-title">Recent Posts</h3>
                             <ul>
                                 <li>
-                                    <a href="blog-details.html">
+                                    <a href="/hairserum">
                                         <div class="part-img">
-                                            <img src="assets/images/blog-img-5.jpg" alt="image"/>
+                                            <img src="assets/images/blog-details-img3.jpg" alt="image"/>
                                         </div>
                                         <div class="txt-box">
-                                            <span class="title">How to Prepare for your First his</span>
-                                            <span class="date">August 26, 2021</span>
+                                            <span class="title">Vestige Hair Serum</span>
                                         </div>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blog-details.html">
+                                    <a href="/bodybutterblogs">
                                         <div class="part-img">
-                                            <img src="assets/images/blog-img-4.jpg" alt="image"/>
+                                            <img src="assets/images/blog-details-img16.png" alt="image"/>
                                         </div>
                                         <div class="txt-box">
-                                            <span class="title">How to Prepare for your First his</span>
-                                            <span class="date">August 26, 2021</span>
+                                            <span class="title">Vestige Assure Cherry Blossom Body Butter</span>
                                         </div>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blog-details.html">
+                                    <a href="/detoxfootpatch">
                                         <div class="part-img">
-                                            <img src="assets/images/blog-img-3.jpg" alt="image"/>
+                                            <img src="assets/images/blog-details-img10.jpg" alt="image"/>
                                         </div>
                                         <div class="txt-box">
-                                            <span class="title">How to Prepare for your First his</span>
-                                            <span class="date">August 26, 2021</span>
+                                            <span class="title">Vestige Detox Footpatch</span>
                                         </div>
                                     </a>
                                 </li>

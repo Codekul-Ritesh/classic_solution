@@ -68,17 +68,17 @@ function AURA_PERFUME_SPRAY() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE AURA PERFUME SPRAY</h2>
-                                    <p class="price"><span >MRP  ₹325.00</span>MRP  ₹275</p>
+                                    <p class="price"><span >₹325.00</span>₹275</p>
                                     <ul class="short-details">
-                                        <li>Product Code: <span>23033</span></li>
-                                        <li>PV <span>9.17</span></li>
-                                        <li>NET VOLUMES<span>100 ml</span></li>
+                                        <li>Product Code :  <span>23033</span></li>
+                                        <li>PV  :  <span>9.17</span></li>
+                                        <li>NET VOLUMES  : <span>100 ml</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">A no-gas perfume spray with a tantalising fragrance that makes your mood positive and revives your spirit. It lets you be who you are and truly impress everyone around you with your own aura.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

@@ -48,7 +48,7 @@ function INTIMATE_WASH() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ function INTIMATE_WASH() {
                             <div class="col-xl-6 col-lg-5 col-md-6">
                                 <div class="part-img mr-30">
                                     <div class="img-box" id="bigPreview">
-                                        <img src="assets/images/classic/women hygiene/image_92.png" alt="Image"  />
+                                        <img src="assets/images/classic/women hygiene/image_92.png" alt="Image" />
                                     </div>
 
                                 </div>
@@ -69,19 +69,19 @@ function INTIMATE_WASH() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">DEWGARDEN FOAMING INTIMATE WASH</h2>
-
+                                    <p class="price"><span > ₹210.00</span> ₹180</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹210.00</span>Discount  ₹180</li>
-                                        <li>Product Code: <span> 23039</span></li>
-                                        <li>PV <span>6.00</span></li>
-                                        <li>NET VOLUMES<span>80 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 23039</span></li>
+                                        <li>PV  :  <span>6.00</span></li>
+                                        <li>NET VOLUMES  : <span>80 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">DewGarden Foaming Intimate Wash is a soap-free and alcohol-free solution with a pH of 3.7±0.5, which is ideal for the female intimate area. It contains the extracts of Blueberry, Sea buckthorn and Chamomile flower, which offer a pleasant and soothing fragrance with an odour-block protection power.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

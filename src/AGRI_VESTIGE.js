@@ -48,7 +48,7 @@ function AGRI_VESTIGE() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,18 +69,17 @@ function AGRI_VESTIGE() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE AGRI 82 </h2>
-
-                                    <ul class="short-details">
-                                    <li><span >MRP  ₹381.00 </span>Discount  ₹350.00 </li>  
-                                        <li>Product Code: <span>26015A</span></li>
-                                        <li>PV <span>9.72</span></li>
-                                        <li>NET CONTENT<span>100 ml * 3</span></li>
+                                    <p class="price"><span >₹381.00 </span> ₹350.00 </p>
+                                    <ul class="short-details">                                        
+                                        <li>Product Code :  <span>26015A</span></li>
+                                        <li>PV  :  <span>9.72</span></li>
+                                        <li>NET CONTENT  : <span>100 ml * 3</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Vestige Agri 82 is a highly concentrated non-ionic spray adjuvant with 82% active ingredients. An excellent Spreader, Activator and Wetter, Agri 82 increases crop yield by improving pesticide coverage. It activates the spray fluid to moisten the plant surface and allows uniform spreading of spray deposits. A helpful tool in irrigation, it improves the water absorption in soil. It helps and facilitates uniform mixing of powders, pesticides and most liquid fertilizers. It is completely non-phyto toxic, safe and eco-friendly. Use in fungicides, herbicides, insecticides, foliar fertilizers, plant nutrients and defoliators.</p>
-                                   
-                                    
+
+
                                     <form>
                                     </form>
                                 </div>

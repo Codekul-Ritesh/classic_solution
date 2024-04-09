@@ -48,17 +48,7 @@ function BODY_BUTTER_BLOGS() {
                                     </div>
                                 </nav>
                             </div>
-                            <div class="col-lg-2">
-                                <li class="live-chat d-xl-flex d-none align-items-center">
-                                    <div class="icon">
-                                        <img src="assets/images/call-icon.png" alt="call" />
-                                    </div>
-                                    <div class="txt">
-                                        <span class="d-block">Contact :</span>
-                                        <a class="d-block" href="tel:+997509153">+997 509 153</a>
-                                    </div>
-                                </li>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -76,7 +66,7 @@ function BODY_BUTTER_BLOGS() {
                                     <h2 class="blog-title">Vestige Assure Cherry Blossom Body Butter</h2>
                                 </div>
                                 <h4 class="blog-title">Presenting Assure Cherry Blossom Body Butter
-                                    Overlooking the body skin requirements may:</h4>
+                                    Overlooking the body skin requirements may : </h4>
                                 <p>
                                     Make the skin dry and Parched.<br></br>
                                     Assure Cherry Blossom Body Butter is enriched with Cherry Blossom Extracts.<br></br>
@@ -106,43 +96,40 @@ function BODY_BUTTER_BLOGS() {
                                     <button><i class="fa-light fa-magnifying-glass"></i></button>
                                 </form>
                                 <div class="recent-post">
-                                    <h3 class="sidebar-title">Recent Posts</h3>
-                                    <ul>
-                                        <li>
-                                            <a href="blog-details.html">
-                                                <div class="part-img">
-                                                    <img src="assets/images/blog-img-5.jpg" alt="image" />
-                                                </div>
-                                                <div class="txt-box">
-                                                    <span class="title">How to Prepare for your First his</span>
-                                                    <span class="date">August 26, 2021</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog-details.html">
-                                                <div class="part-img">
-                                                    <img src="assets/images/blog-img-4.jpg" alt="image" />
-                                                </div>
-                                                <div class="txt-box">
-                                                    <span class="title">How to Prepare for your First his</span>
-                                                    <span class="date">August 26, 2021</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog-details.html">
-                                                <div class="part-img">
-                                                    <img src="assets/images/blog-img-3.jpg" alt="image" />
-                                                </div>
-                                                <div class="txt-box">
-                                                    <span class="title">How to Prepare for your First his</span>
-                                                    <span class="date">August 26, 2021</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
+                            <h3 class="sidebar-title">Recent Posts</h3>
+                            <ul>
+                                <li>
+                                    <a href="/hairserum">
+                                        <div class="part-img">
+                                            <img src="assets/images/blog-details-img3.jpg" alt="image"/>
+                                        </div>
+                                        <div class="txt-box">
+                                            <span class="title">Vestige Hair Serum</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/bodybutterblogs">
+                                        <div class="part-img">
+                                            <img src="assets/images/blog-details-img16.png" alt="image"/>
+                                        </div>
+                                        <div class="txt-box">
+                                            <span class="title">Vestige Assure Cherry Blossom Body Butter</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/detoxfootpatch">
+                                        <div class="part-img">
+                                            <img src="assets/images/blog-details-img10.jpg" alt="image"/>
+                                        </div>
+                                        <div class="txt-box">
+                                            <span class="title">Vestige Detox Footpatch</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
                                 <div class="tags">
                                     <h3 class="sidebar-title">Tags</h3>
                                     <div class="btn-box">

@@ -48,17 +48,7 @@ function VESTIGE_NONI_BLOG() {
                                     </div>
                                 </nav>
                             </div>
-                            <div class="col-lg-2">
-                                <li class="live-chat d-xl-flex d-none align-items-center">
-                                    <div class="icon">
-                                        <img src="assets/images/call-icon.png" alt="call" />
-                                    </div>
-                                    <div class="txt">
-                                        <span class="d-block">Contact :</span>
-                                        <a class="d-block" href="tel:+997509153">+997 509 153</a>
-                                    </div>
-                                </li>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
@@ -120,72 +110,37 @@ function VESTIGE_NONI_BLOG() {
                             <h3 class="sidebar-title">Recent Posts</h3>
                             <ul>
                                 <li>
-                                    <a href="blog-details.html">
+                                    <a href="/hairserum">
                                         <div class="part-img">
-                                            <img src="assets/images/blog-img-5.jpg" alt="image"/>
+                                            <img src="assets/images/blog-details-img3.jpg" alt="image"/>
                                         </div>
                                         <div class="txt-box">
-                                            <span class="title">How to Prepare for your First his</span>
-                                            <span class="date">August 26, 2021</span>
+                                            <span class="title">Vestige Hair Serum</span>
                                         </div>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blog-details.html">
+                                    <a href="/bodybutterblogs">
                                         <div class="part-img">
-                                            <img src="assets/images/blog-img-4.jpg" alt="image"/>
+                                            <img src="assets/images/blog-details-img16.png" alt="image"/>
                                         </div>
                                         <div class="txt-box">
-                                            <span class="title">How to Prepare for your First his</span>
-                                            <span class="date">August 26, 2021</span>
+                                            <span class="title">Vestige Assure Cherry Blossom Body Butter</span>
                                         </div>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="blog-details.html">
+                                    <a href="/detoxfootpatch">
                                         <div class="part-img">
-                                            <img src="assets/images/blog-img-3.jpg" alt="image"/>
+                                            <img src="assets/images/blog-details-img10.jpg" alt="image"/>
                                         </div>
                                         <div class="txt-box">
-                                            <span class="title">How to Prepare for your First his</span>
-                                            <span class="date">August 26, 2021</span>
+                                            <span class="title">Vestige Detox Footpatch</span>
                                         </div>
                                     </a>
                                 </li>
                             </ul>
                         </div>
-                        {/* <div class="categories">
-                            <h3 class="sidebar-title">Categories</h3>
-                            <ul>
-                                <li><a href="#"><span><i class="fa-light fa-chevrons-right"></i> Organic Vegetables</span><span>(07)</span></a></li>
-                                <li><a href="#"><span><i class="fa-light fa-chevrons-right"></i> Fresh Fruits</span><span>(05)</span></a></li>
-                                <li><a href="#"><span><i class="fa-light fa-chevrons-right"></i> Fresh Vegetables</span><span>(10)</span></a></li>
-                                <li><a href="#"><span><i class="fa-light fa-chevrons-right"></i> Our Restaurant</span><span>(13)</span></a></li>
-                                <li><a href="#"><span><i class="fa-light fa-chevrons-right"></i> Special Food</span><span>(15)</span></a></li>
-                                <li><a href="#"><span><i class="fa-light fa-chevrons-right"></i> Organic Product</span><span>(17)</span></a></li>
-                            </ul>
-                        </div> */}
-                        {/* <div class="image-slider">
-                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                                <div class="carousel-inner">
-                                    <div class="carousel-item active">
-                                        <img src="assets/images/blog-img-1.jpg" class="d-block w-100" alt="Image"/>
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img src="assets/images/blog-img-2.jpg" class="d-block w-100" alt="Image"/>
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img src="assets/images/blog-img-3.jpg" class="d-block w-100" alt="Image"/>
-                                    </div>
-                                </div>
-                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                    <span><i class="fa-light fa-chevron-left"></i></span>
-                                </button>
-                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                    <span><i class="fa-light fa-chevron-right"></i></span>
-                                </button>
-                            </div>
-                        </div> */}
                         <div class="tags">
                             <h3 class="sidebar-title">Tags</h3>
                             <div class="btn-box">

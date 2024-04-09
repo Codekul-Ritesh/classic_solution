@@ -49,7 +49,7 @@ function AYUSANTE_PROSTATE_CARE() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -70,14 +70,11 @@ function AYUSANTE_PROSTATE_CARE() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">AYUSANTE PROSTATE CARE </h2>
-
+                                    <p class="price"><span >₹525.00 </span> ₹450.00 </p>
                                     <ul class="short-details">
-                                  
-                                    <li><span >MRP  ₹525.00 </span>Discount  ₹450.00 </li>  
-
-                                        <li>Product Code: <span>20016</span></li>
-                                        <li>PV <span>15.00</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li>Product Code :  <span>20016</span></li>
+                                        <li>PV  :  <span>15.00</span></li>
+                                        <li>NET CONTENT  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>

@@ -48,7 +48,7 @@ function DEEP_CLEANSE_SHAMPOO() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,17 @@ function DEEP_CLEANSE_SHAMPOO() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE DEEP CLEANSE SHAMPOO (OILY)</h2>
-
+                                    <p class="price"><span > ₹190.00</span> ₹163</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹190.00</span>Discount  ₹163</li>
-                                        <li>Product Code: <span>23020</span></li>
-                                        <li>PV <span>4.53</span></li>
-                                        <li>NET VOLUMES<span> 200 ml</span></li>
-
+                                        <li>Product Code :  <span>23020</span></li>
+                                        <li>PV  :  <span>4.53</span></li>
+                                        <li>NET VOLUMES  : <span> 200 ml</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">New Assure Deep Cleanse Shampoo effectively rinses away dirt and impurities. It gives required amount of moisture to the hair leaving them healthy and supple. It helps to manage excessive oil secretion from the scalp and leaves the hair fresh and bouncy.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

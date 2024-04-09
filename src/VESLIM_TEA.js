@@ -48,7 +48,7 @@ function VESLIM_TEA() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function VESLIM_TEA() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE VESLIM TEA</h2>
-
+                                    <p class="price"><span >₹795.00 </span> ₹680.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹795.00 </span>Discount  ₹680.00</li>
-                                        <li>Product Code: <span> 21021</span></li>
-                                        <li>PV <span>22.67</span></li>
-                                        <li>NET VOLUMES<span>150 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21021</span></li>
+                                        <li>PV  :  <span>22.67</span></li>
+                                        <li>NET VOLUMES  : <span>150 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">It is a low-calorie drink which is a suggested healthier alternative to tea, coffee, aerated or sweetened beverages. It is enriched with green tea, green coffee beans, and Garcinia cambogia extracts with a delicious honey-lemon flavour that refreshes and revitalises the body instantly.</p>
 
                                     <p>
-                                    {/* Dosage: Simply take 3 scoops of Vestige Veslim Shake (25 g) in a shaker, and add 300 ml of either skimmed milk or water. Shake well and sip the goodness of your favourite flavour. */}
+                                        {/* Dosage :  Simply take 3 scoops of Vestige Veslim Shake (25 g) in a shaker, and add 300 ml of either skimmed milk or water. Shake well and sip the goodness of your favourite flavour. */}
                                     </p>
                                     <form>
                                     </form>

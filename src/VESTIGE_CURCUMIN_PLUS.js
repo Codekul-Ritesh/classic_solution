@@ -48,7 +48,7 @@ function VESTIGE_CURCUMIN_PLUS() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,24 +69,22 @@ function VESTIGE_CURCUMIN_PLUS() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE CURCUMIN PLUS </h2>
-
+                                    <p class="price"><span >₹1050.00 </span> ₹900.00 </p>
                                     <ul class="short-details">
-                                  
-                                    <li><span >MRP  ₹1050.00 </span>Discount  ₹900.00 </li>  
-
-                                        <li>Product Code: <span>20016</span></li>
-                                        <li>PV <span>30.00</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>20016</span></li>
+                                        <li>PV  :  <span>30.00</span></li>
+                                        <li>NET CONTENT  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr"> Curcumin has been recognised and used worldwide in different forms for multiple potential health benefits. It has anti-oxidant and anti-inflammatory properties that help support chemotherapy and protect healthy cells from damage. It helps in the prevention of heart disease and arthritis. Regular use helps in flushing out toxins from the body.</p>
 
                                     <p>
-                                    Dosage: One capsule thrice daily or as advised by a physician.
+                                        Dosage :  One capsule thrice daily or as advised by a physician.
                                     </p>
                                     <p>
-                                    Indication: Sheet pita (Urticaria), Tvag Roga.
+                                        Indication :  Sheet pita (Urticaria), Tvag Roga.
                                     </p>
                                     <form>
                                     </form>

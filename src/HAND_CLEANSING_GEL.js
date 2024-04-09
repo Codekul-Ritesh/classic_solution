@@ -69,17 +69,17 @@ function HAND_CLEANSING_GEL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE HAND CLEANSING GEL</h2>
-                                    <p class="price"><span >MRP  ₹75.00</span>MRP  ₹65</p>
+                                    <p class="price"><span >₹75.00</span>₹65</p>
                                     <ul class="short-details">
-                                        <li>Product Code: <span>23068</span></li>
-                                        <li>PV <span> 1.81</span></li>
-                                        <li>NET VOLUMES<span>60 ml</span></li>
+                                        <li>Product Code :  <span>23068</span></li>
+                                        <li>PV  :  <span> 1.81</span></li>
+                                        <li>NET VOLUMES  : <span>60 ml</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Assure Hand Cleansing Gel is an alcohol-based gel in a pocket-friendly package, enriched with a unique blend of seven plants. It helps in killing off germs to keep the hands clean when on the go.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

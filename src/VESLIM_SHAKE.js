@@ -48,7 +48,7 @@ function VESLIM_SHAKE() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function VESLIM_SHAKE() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE VESLIM SHAKE 500G</h2>
-
+                                    <p class="price"><span >₹1750.00 </span> ₹1495.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1750.00 </span>Discount  ₹1495.00</li>
-                                        <li>Product Code: <span> 22040</span></li>
-                                        <li>PV <span>49.83</span></li>
-                                        <li>NET VOLUMES<span>500 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 22040</span></li>
+                                        <li>PV  :  <span>49.83</span></li>
+                                        <li>NET VOLUMES  : <span>500 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">The new Veslim Shake is a delicious mango-flavoured low-calorie meal that provides complete nutrition without overloading you with unnecessary fats and calories. Each serving of Veslim Shake provides 22 vitamins and minerals, 9.78 g of protein and 4 g of fibre. Veslim Shake is an ideal drink for the people trying to lose or maintain their weight in a convenient and healthy way.</p>
 
                                     <p>
-                                    {/* Dosage: Simply take 3 scoops of Vestige Veslim Shake (25 g) in a shaker, and add 300 ml of either skimmed milk or water. Shake well and sip the goodness of your favourite flavour. */}
+                                        {/* Dosage :  Simply take 3 scoops of Vestige Veslim Shake (25 g) in a shaker, and add 300 ml of either skimmed milk or water. Shake well and sip the goodness of your favourite flavour. */}
                                     </p>
                                     <form>
                                     </form>

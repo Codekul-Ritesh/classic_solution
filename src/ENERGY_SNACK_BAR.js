@@ -48,7 +48,7 @@ function ENERGY_SNACK_BAR() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function ENERGY_SNACK_BAR() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ENERVA ENERGY SNACK BAR</h2>
-
+                                    <p class="price"><span >₹60.00</span>₹50</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹60.00</span>MRP  ₹50</li>
-                                        <li>Product Code: <span>21013</span></li>
-                                        <li>PV <span> 1.67</span></li>
-                                        <li>NET VOLUMES<span> 30 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>21013</span></li>
+                                        <li>PV  :  <span> 1.67</span></li>
+                                        <li>NET VOLUMES  : <span> 30 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Enerva Energy Snack Bar is a nutritious energy bar that provides a healthy snacking option. Its healthy ingredients like almonds, soybean, whey protein, honey, raisin, milk and dark chocolate, peanuts, help in providing instant energy whenever one feels low after studying, working out or playing. It is the perfect snack, full of nutrients, with a rich chocolate flavour, that curbs untimely hunger pangs and energises the body and mind.</p>
 
                                     {/* <p>
-                                    Recommended Usage: Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
+                                    Recommended Usage :  Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
                                     </p> */}
                                     <form>
                                     </form>

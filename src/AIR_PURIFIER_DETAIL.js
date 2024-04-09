@@ -69,19 +69,18 @@ function AIR_PURIFIER_DETAIL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">Air Purifier</h2>
-
+                                    <p class="price"><span >₹19,500.00</span> ₹18,500</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹19,500.00</span>Discount  ₹18,500</li>
-                                        <li>Product Code: <span> 27011</span></li>
-                                        <li>PV <span>616.67</span></li>
-                                        <li>NET VOLUMES<span>1 Unit</span></li>
+                                        <li>Product Code :  <span> 27011</span></li>
+                                        <li>PV  :  <span>616.67</span></li>
+                                        <li>NET VOLUMES  : <span>1 Unit</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Indoor air can be 5 to 10 times more polluted than the air outside your house We spend more time indoors than outdoors and we breathe more volume of air indoors than we do outdoors everyday Current air pollution level is equivalent to smoking 10 to 20 cigarettes a day Poor indoor air quality at home causes headache, fatigue, shortness of breath, sinus congestion, coughing, sneezing, dizziness and nausea. There are more allergic elements Indoor than Outdoor.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

@@ -71,10 +71,10 @@ function MELATONIN_ORAL_SPRAY() {
                                     <h2 class="main-product-title">VESTIGE MELATONIN ORAL SPRAY</h2>
 
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹460.00</span>Discount  ₹395.00</li>
-                                        <li>Product Code: <span> 21037</span></li>
-                                        <li>PV <span>13.17</span></li>
-                                        <li>NET VOLUMES<span>30 ml</span></li>
+                                        <li><span >₹460.00</span> ₹395.00</li>
+                                        <li>Product Code :  <span> 21037</span></li>
+                                        <li>PV  :  <span>13.17</span></li>
+                                        <li>NET VOLUMES  : <span>30 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
@@ -82,7 +82,7 @@ function MELATONIN_ORAL_SPRAY() {
                                     Changing lifestyle habits like late night working, work from home, binge watching, 
                                     frequent travelling, etc disrupt the normal sleep cycle and thus people often feel lethargic, 
                                     less energetic and unproductive during the day.<br></br>
-                                    Benefits of Vestige Melatonin Oral Spray:<br></br>
+                                    Benefits of Vestige Melatonin Oral Spray : <br></br>
                                     • Induces natural sleep thus regulates sleep cycle.<br></br>
                                     • Promotes calmness and focus.<br></br>
                                     • Helps in relaxing the body.<br></br>
@@ -91,7 +91,7 @@ function MELATONIN_ORAL_SPRAY() {
                                     Thus helps n boosting our productivity.</p>
 
                                     <p>
-                                    Recommended Usage: 3 oral sprays under the tongue, 30-60 minutes before bedtime.
+                                    Recommended Usage :  3 oral sprays under the tongue, 30-60 minutes before bedtime.
                                     </p>
                                     <form>
                                     </form>

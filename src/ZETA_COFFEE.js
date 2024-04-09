@@ -48,7 +48,7 @@ function ZETA_COFFEE() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function ZETA_COFFEE() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ZETA COFFEE</h2>
-
+                                    <p class="price"><span >₹205.00</span>₹175</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹205.00</span>MRP  ₹175</li>
-                                        <li>Product Code: <span>22041</span></li>
-                                        <li>PV <span> 5.83</span></li>
-                                        <li>NET VOLUMES<span> 50 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>22041</span></li>
+                                        <li>PV  :  <span> 5.83</span></li>
+                                        <li>NET VOLUMES  : <span> 50 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Vestige Zeta Coffee is a premium blend of carefully selected Robusta and Arabica coffee beans for an intense aroma and a rich full-bodied flavour.</p>
 
                                     {/* <p>
-                                    Recommended Usage: Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
+                                    Recommended Usage :  Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
                                     </p> */}
                                     <form>
                                     </form>

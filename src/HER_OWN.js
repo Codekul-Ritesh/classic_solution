@@ -48,7 +48,7 @@ function HER_OWN() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function HER_OWN() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE HER OWN</h2>
-
+                                    <p class="price"><span > ₹460.00</span> ₹385.00</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹460.00</span>Discount  ₹385.00</li>
-                                        <li>Product Code: <span> 21038</span></li>
-                                        <li>PV <span>12.83</span></li>
-                                        <li>NET VOLUMES<span>30 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21038</span></li>
+                                        <li>PV  :  <span>12.83</span></li>
+                                        <li>NET VOLUMES  : <span>30 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Vestige Her Own is a robust health and wellness booster for modern women who wear multiple hats. Powered by 11 minerals, 13 multi-vitamins, six natural extracts and six amino acids, these capsules help combat fatigue, manage PMS, reduce hot flashes and mood swings, maintain high energy and hormonal functions. Daily consumption of these capsules will enhance the overall wellbeing of women and allow them to stay active all day long.</p>
 
                                     <p>
-                                    Recommended Usage: One softgel capsule per day.
+                                        Recommended Usage :  One softgel capsule per day.
                                     </p>
                                     <form>
                                     </form>

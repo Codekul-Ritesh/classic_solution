@@ -68,17 +68,17 @@ function RELIEF_CREAM() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESCARE INSTA RELIEF CREAM</h2>
-                                    <p class="price"><span >MRP  ₹150.00</span>MRP  ₹129</p>
+                                    <p class="price"><span >₹150.00</span>₹129</p>
                                     <ul class="short-details">
-                                        <li>Product Code: <span>23015</span></li>
-                                        <li>PV <span>4.30</span></li>
-                                        <li>NET VOLUMES<span>50 g</span></li>
+                                        <li>Product Code :  <span>23015</span></li>
+                                        <li>PV  :  <span>4.30</span></li>
+                                        <li>NET VOLUMES  : <span>50 g</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">It is a unique formula that helps to alleviate discomfort and gives instant relief. It is a non-greasy cream that absorbs easily into the skin giving an instant cool sensation.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

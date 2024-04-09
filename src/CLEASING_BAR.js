@@ -48,7 +48,7 @@ function CLEASING_BAR() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function CLEASING_BAR() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE CREAMY CLEASING BAR</h2>
-
+                                    <p class="price"><span > ₹69.00</span>₹58</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹69.00</span>MRP  ₹58</li>
-                                        <li>Product Code: <span>23091A</span></li>
-                                        <li>PV <span>1.13</span></li>
-                                        <li>NET VOLUMES<span> 75 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23091A</span></li>
+                                        <li>PV  :  <span>1.13</span></li>
+                                        <li>NET VOLUMES  : <span> 75 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Assure Creamy Cleansing bar is a unique blend of moisturising, nourishing and mild cleansing agents. It provides a creamy lather that helps to keep the skin soft and silky. This beauty bar hydrates your skin and does not strip away essential nutrients and moisture from it, which leaves your skin smooth with a radiant glow.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

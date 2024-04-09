@@ -48,7 +48,7 @@ function ENCHANT_BODY_TALC() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ function ENCHANT_BODY_TALC() {
                             <div class="col-xl-6 col-lg-5 col-md-6">
                                 <div class="part-img mr-30">
                                     <div class="img-box" id="bigPreview" >
-                                        <img src="assets/images/classic/personal care/image_129.png" alt="Image"  />
+                                        <img src="assets/images/classic/personal care/image_129.png" alt="Image" />
                                     </div>
 
                                 </div>
@@ -69,19 +69,18 @@ function ENCHANT_BODY_TALC() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE ENCHANT BODY TALC</h2>
-
+                                    <p class="price"><span >₹65.00</span> ₹58</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹65.00</span>Discount  ₹58</li>
-                                        <li>Product Code: <span>23074</span></li>
-                                        <li>PV <span> 1.74</span></li>
-                                        <li>NET VOLUMES<span>100 g</span></li>
+                                        <li>Product Code :  <span>23074</span></li>
+                                        <li>PV  :  <span> 1.74</span></li>
+                                        <li>NET VOLUMES  : <span>100 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Rejuvenating musky fragrance that refreshes the mind and energises the body. Its unique formula keeps you fresh and active throughout the day.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

@@ -68,17 +68,17 @@ function HAND_BODY_LOTION() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE HAND & BODY LOTION</h2>
-                                    <p class="price"><span >MRP  ₹225.00</span>MRP  ₹191</p>
+                                    <p class="price"><span >₹225.00</span>₹191</p>
                                     <ul class="short-details">
-                                        <li>Product Code: <span>23035</span></li>
-                                        <li>PV <span>6.37</span></li>
-                                        <li>NET VOLUMES<span>250 ml</span></li>
+                                        <li>Product Code :  <span>23035</span></li>
+                                        <li>PV  :  <span>6.37</span></li>
+                                        <li>NET VOLUMES  : <span>250 ml</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Our body, especially hands are generally exposed to harsh conditions, making them dry and even cracked. New Assure Hand and Body Lotion rebalances and restores the skin of essential moisture and glow. It maintains the skin elasticity making it soft and supple. It deeply nourishes the skin and helps restore skin's natural oils. Its soft flowery scent invigorates the senses and keeps the skin refreshed all day.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

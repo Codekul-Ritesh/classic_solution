@@ -48,7 +48,7 @@ function GANO_TOOTHPASTE() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ function GANO_TOOTHPASTE() {
                             <div class="col-xl-6 col-lg-5 col-md-6">
                                 <div class="part-img mr-30">
                                     <div class="img-box" id="bigPreview">
-                                        <img src="assets/images/classic/oral care/image_95.png" alt="Image"  />
+                                        <img src="assets/images/classic/oral care/image_95.png" alt="Image" />
                                     </div>
 
                                 </div>
@@ -69,19 +69,19 @@ function GANO_TOOTHPASTE() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">DENTASSURE GANO TOOTHPASTE</h2>
-
+                                    <p class="price"><span >₹175.00</span> ₹150</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹175.00</span>Discount  ₹150</li>
-                                        <li>Product Code: <span> 24007</span></li>
-                                        <li>PV <span> 5.00</span></li>
-                                        <li>NET VOLUMES<span> 100 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 24007</span></li>
+                                        <li>PV  :  <span> 5.00</span></li>
+                                        <li>NET VOLUMES  : <span> 100 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Dentassure Gano Toothpaste is a healthy toothpaste that is powered by the king of all mushrooms- Ganoderma. It is a unique product that helps to refresh the mouth and has anti-bacterial property. It also helps in gaining fresh breath and in whitening teeth.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

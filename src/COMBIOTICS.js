@@ -69,19 +69,18 @@ function COMBIOTICS () {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE PRIME COMBIOTICS</h2>
-
+                                    <p class="price"><span >₹680.00</span> ₹570.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹525.00</span>Discount  ₹570.00</li>
-                                        <li>Product Code: <span>21020A</span></li>
-                                        <li>PV <span>19 </span></li>
-                                        <li>NET VOLUMES<span> 30 capsules</span></li>
+                                        <li>Product Code :  <span>21020A</span></li>
+                                        <li>PV  :  <span>19 </span></li>
+                                        <li>NET VOLUMES  : <span> 30 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Vestige Prime Combiotics is a unique product in a capsule-in-capsule form with a mixture of multivitamins and minerals along with prebiotics and probiotics, which not only takes care of the bodys nutritional requirements but also supports a healthy digestive system.</p>
 
                                     <p>
-                                    Recommended Usage: One capsule a day after meals.
+                                    Recommended Usage :  One capsule a day after meals.
                                     </p>
                                     <form>
                                     </form>

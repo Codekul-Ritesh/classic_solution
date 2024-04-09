@@ -48,7 +48,7 @@ function BODY_BUTTER() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,18 @@ function BODY_BUTTER() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE CHERRY BLOSSOM BODY BUTTER</h2>
-
+                                    <p class="price"><span >₹360.00</span> ₹320</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹360.00</span>Discount  ₹320</li>
-                                        <li>Product Code: <span>23079</span></li>
-                                        <li>PV <span> 8.88</span></li>
-                                        <li>NET VOLUMES<span>100 g</span></li>
+                                        <li>Product Code :  <span>23079</span></li>
+                                        <li>PV  :  <span> 8.88</span></li>
+                                        <li>NET VOLUMES  : <span>100 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Bid goodbye to dry skin woes with a body butter with an enchanting floral fragrance that lingers all day. Assure Cherry Blossom Body Butter glides on smoothly and grants soft and supple skin with the floral scent of cherry blossoms. Apply thoroughly after a shower for moisturised and hydrated skin.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

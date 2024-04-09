@@ -48,7 +48,7 @@ function VESTIGE_SHATAVARI_MAX() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,26 +69,23 @@ function VESTIGE_SHATAVARI_MAX() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE SHATAVARI MAX </h2>
-
+                                    <p class="price"><span >₹545.00 </span> ₹460.00 </p>
                                     <ul class="short-details">
-                                 
-                                    <li><span >MRP  ₹545.00 </span>Discount  ₹460.00 </li>  
-
-                                        <li>Product Code: <span>20017</span></li>
-                                        <li>PV <span>15.33</span></li>
-                                        <li>NET CONTENT<span>90 capsules</span></li>
+                                        <li>Product Code :  <span>20017</span></li>
+                                        <li>PV  :  <span>15.33</span></li>
+                                        <li>NET CONTENT  : <span>90 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Shatavari has been used in Ayurveda for thousands of years as a female reproductive tonic. It is also known as the "Queen of Herbs" due to its numerous benefits in promoting women's health and balancing hormones. It is rich in plant estrogen that supports female health from adolescence to menopause. It helps to relieve symptoms of premenstrual syndrome (PMS), regulates irregular cycles and related hormonal levels.</p>
 
                                     <p>
-                                    Dosage: One capsule thrice daily or as advised by a physician
-        
+                                        Dosage :  One capsule thrice daily or as advised by a physician
+
                                     </p>
                                     <p>
-                                
-                               Indication: Poustik, Stanya Vardahak.
+
+                                        Indication :  Poustik, Stanya Vardahak.
                                     </p>
                                     <form>
                                     </form>

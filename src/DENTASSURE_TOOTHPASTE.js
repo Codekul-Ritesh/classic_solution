@@ -48,7 +48,7 @@ function DENTASSURE_TOOTHPASTE() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ function DENTASSURE_TOOTHPASTE() {
                             <div class="col-xl-6 col-lg-5 col-md-6">
                                 <div class="part-img mr-30">
                                     <div class="img-box" id="bigPreview">
-                                        <img src="assets/images/classic/oral care/image_94.png" alt="Image"  />
+                                        <img src="assets/images/classic/oral care/image_94.png" alt="Image" />
                                     </div>
 
                                 </div>
@@ -69,19 +69,19 @@ function DENTASSURE_TOOTHPASTE() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">DENTASSURE TOOTHPASTE</h2>
-
+                                    <p class="price"><span >₹80.00</span> ₹67</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹80.00</span>Discount  ₹67</li>
-                                        <li>Product Code: <span> 24010</span></li>
-                                        <li>PV <span> 1.86</span></li>
-                                        <li>NET VOLUMES<span> 100 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 24010</span></li>
+                                        <li>PV  :  <span> 1.86</span></li>
+                                        <li>NET VOLUMES  : <span> 100 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Dentassure Toothpaste is a unique formula and comes with the dual protection of Neem and Clove that fights germs and prevents dental cavities. It also supports gum health and stronger teeth. It contains calcium that strengthens the teeth. Use it daily for fresh breath and sparkling teeth.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

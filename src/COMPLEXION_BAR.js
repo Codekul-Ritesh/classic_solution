@@ -48,7 +48,7 @@ function COMPLEXION_BAR() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function COMPLEXION_BAR() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE COMPLEXION BAR</h2>
-
+                                    <p class="price"><span >₹84.00</span>₹70</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹84.00</span>MRP  ₹70</li>
-                                        <li>Product Code: <span>23086</span></li>
-                                        <li>PV <span>1.94</span></li>
-                                        <li>NET VOLUMES<span>75 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23086</span></li>
+                                        <li>PV  :  <span>1.94</span></li>
+                                        <li>NET VOLUMES  : <span>75 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Assure Complexion bar is a nourishing and moisturising bathing bar that cleanses the skin leaving it clean, soft and supple. It is enriched with brightening extracts of Kesar, Olive and honey that enhances the complexion.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

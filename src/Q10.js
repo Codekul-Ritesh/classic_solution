@@ -48,7 +48,7 @@ function Q10() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function Q10() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE COENZYME Q10</h2>
-
+                                    <p class="price"><span >₹1050.00</span> ₹995.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1050.00</span>Discount  ₹995.00</li>
-                                        <li>Product Code: <span> 21030A</span></li>
-                                        <li>PV <span>33.17</span></li>
-                                        <li>NET VOLUMES<span>30 softgels capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21030A</span></li>
+                                        <li>PV  :  <span>33.17</span></li>
+                                        <li>NET VOLUMES  : <span>30 softgels capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Coenzyme Q10 is a vitamin like substance that is essential for energy production in the body. It acts as an antioxidant, helps support the heart and protects from harmful free radicals. It boosts energy and helps support the immune system. It helps protect the heart, kidney and muscles Each capsule contains Coenzyme Q10 (Kaneka) 100 mg.</p>
 
                                     <p>
-                                    Dosage: One or two capsules daily after meals.
+                                        Dosage :  One or two capsules daily after meals.
                                     </p>
                                     <form>
                                     </form>

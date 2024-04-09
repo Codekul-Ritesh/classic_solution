@@ -2,11 +2,11 @@ import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
 
-function SEA_BUCKTHORN () {
+function SEA_BUCKTHORN() {
     return (
         <div>
-            <Header/>
-<div class="header">
+            <Header />
+            <div class="header">
                 <div class="menu-bar">
                     <div class="container">
                         <div class="row align-items-center">
@@ -48,7 +48,7 @@ function SEA_BUCKTHORN () {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function SEA_BUCKTHORN () {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE PRIME SEA BUCKTHORN</h2>
-
+                                    <p class="price"><span >₹1000.00</span>  ₹850.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1000.00</span> Discount  ₹850.00</li>
-                                        <li>Product Code: <span>21028</span></li>
-                                        <li>PV <span>28.33 </span></li>
-                                        <li>NET VOLUMES<span> 60 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>21028</span></li>
+                                        <li>PV  :  <span>28.33 </span></li>
+                                        <li>NET VOLUMES  : <span> 60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Sea Buckthorn has been used since time immemorial for numerous health benefits. It contains carotenoids, tocopherols, flavonoids, lipids and ascorbic acid, which help in maintaining overall health. Sea Buckthorn is well-known for its antioxidant and anti-ageing properties. It helps to maintain energy, build stamina and improve skin quality. Get all these qualities stored in each capsule to enhance your health and well-being for an active life.</p>
 
                                     <p>
-                                    Recommended Usage: One capsule twice a day after meal
+                                        Recommended Usage :  One capsule twice a day after meal
                                     </p>
                                     <form>
                                     </form>
@@ -91,7 +91,7 @@ function SEA_BUCKTHORN () {
                     </div>
                 </div>
             </div>
-            <Footer/>
+            <Footer />
         </div>
     )
 }

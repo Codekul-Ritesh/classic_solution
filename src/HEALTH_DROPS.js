@@ -48,7 +48,7 @@ function HEALTH_DROPS() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function HEALTH_DROPS() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">INVIGO HEALTH DROPS PANCH TULSI ARK</h2>
-
+                                    <p class="price"><span >₹210.00 </span> ₹175.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹210.00 </span>Discount  ₹175.00 </li>  
-                                        <li>Product Code: <span> 20029</span></li>
-                                        <li>PV <span>5.83</span></li>
-                                        <li>NET CONTENT<span>30 ML</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 20029</span></li>
+                                        <li>PV  :  <span>5.83</span></li>
+                                        <li>NET CONTENT  : <span>30 ML</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Invigo Health Drops Panch Tulsi Ark brings the advantage of 5 distinct tulsi plants. The Panch Tulsi Ark is made of antioxidant-rich herbs like Krishna Tulsi, Ram Tulsi, Shukla Tulsi, Van Tulsi, and Kapoor Tulsi. It may help in relieving cold and cough. Known for its effective healing ability, the Invigo Health Drops Panch Tulsi Ark may aid in strengthening the immune system and enhancing general health. The antioxidants included in tulsi leaves may help the digestive system function better and even aid to detoxify the body.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

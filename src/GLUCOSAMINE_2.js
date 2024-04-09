@@ -48,7 +48,7 @@ function GLUCOSAMINE_2() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function GLUCOSAMINE_2() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE GLUCOSAMINE</h2>
-
+                                    <p class="price"><span >₹610.00</span> ₹520.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹610.00</span>Discount  ₹520.00</li>
-                                        <li>Product Code: <span> 21001</span></li>
-                                        <li>PV <span>17.33</span></li>
-                                        <li>NET VOLUMES<span>60 tablets</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21001</span></li>
+                                        <li>PV  :  <span>17.33</span></li>
+                                        <li>NET VOLUMES  : <span>60 tablets</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Glucosamine is a natural compound and a normal constituent of glycosaminoglycans. It is found in healthy cartilage and synovial fluid.Glucosamine helps lubricate joints and supports healthy cartilage. It helps to promote cartilage regeneration. It also helps to stimulate synovial fluid production. Each film coated tablet contains Glucosamine HCl 450 mg (containing Chondroitin).</p>
 
                                     <p>
-                                    Dosage: 1 tablet twice daily after meals.
+                                        Dosage :  1 tablet twice daily after meals.
                                     </p>
                                     <form>
                                     </form>

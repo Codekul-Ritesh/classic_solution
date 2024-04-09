@@ -48,17 +48,6 @@ function VESTIGE_ARGININE_BLOGS() {
                                     </div>
                                 </nav>
                             </div>
-                            <div class="col-lg-2">
-                                <li class="live-chat d-xl-flex d-none align-items-center">
-                                    <div class="icon">
-                                        <img src="assets/images/call-icon.png" alt="call" />
-                                    </div>
-                                    <div class="txt">
-                                        <span class="d-block">Contact :</span>
-                                        <a class="d-block" href="tel:+997509153">+997 509 153</a>
-                                    </div>
-                                </li>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -73,9 +62,9 @@ function VESTIGE_ARGININE_BLOGS() {
                             </div>
                             <div class="part-txt">
                                 <div class="title-box">
-                                    <h2 class="blog-title">Vestige L-Arginine: The New Healthy Heart Solution</h2>
+                                    <h2 class="blog-title">Vestige L-Arginine :  The New Healthy Heart Solution</h2>
                                 </div>
-                                <h4 class="blog-title">In this blog we will cover the following points:</h4>
+                                <h4 class="blog-title">In this blog we will cover the following points : </h4>
                                 <p>
                                     1. Introduction to Vestige  L- Arginine<br></br>
                                     2. Why L-Argrine is needed?<br></br>
@@ -92,17 +81,17 @@ function VESTIGE_ARGININE_BLOGS() {
                                     3. L- Arginine can be created in laboratories and provided as a supplement.<br></br>
                                     4. Vestige L-Arginine is a unique combination of heart-healthy ingredients like vitamins, Lycopene, Folic Acid, and Resveratol that help to improve cardiovascular health in several ways.<br></br><br></br>
                                     <b> Vestige's L Arginine  is a combination of ingredients like</b><br></br><br></br>
-                                    a) <b>Folic Acid, Vitamin B6 and B12:</b> <br></br>
+                                    a) <b>Folic Acid, Vitamin B6 and B12 : </b> <br></br>
                                     It  Naturally decreases Bad Cholesterol.<br></br><br></br>
-                                    b) <b>Lycopene:</b> <br></br>
+                                    b) <b>Lycopene : </b> <br></br>
                                     It helps by boosting the body's natural antioxidants.<br></br>
                                     It also Inhibits bad cholesterol deposits in arteries.<br></br><br></br>
-                                    c) <b>Grape Skin extract, Resvetora ,l and Beet Juice:</b><br></br>
+                                    c) <b>Grape Skin extract, Resvetora ,l and Beet Juice : </b><br></br>
                                     These contain superior antioxidants that benefit the cardiovascular  system.<br></br>
                                     Beet juice also contains the chemical nitrate which contributes t  reducing blood pressure, cutting the risk of heart disease.<br></br><br></br>
-                                    d) <b>Vitamin K2</b>:<br></br>
+                                    d) <b>Vitamin K2</b> : <br></br>
                                     It Keeps calcium in bones and out of the arteries.<br></br><br></br>
-                                    e) <b>Vitamin D3:</b> <br></br>
+                                    e) <b>Vitamin D3 : </b> <br></br>
                                     Aids in calcium absorption.</p>
                             </div>
 
@@ -110,7 +99,7 @@ function VESTIGE_ARGININE_BLOGS() {
                                 <h3 class="secondary-title">#Why L- Arginine is needed?</h3>
                                 <p>1. The heart is a muscular organ about the size of a fist, located just behind and slightly left of the breastbone. <br></br>
                                     2  The heart pumps blood through the network of arteries and veins. <br></br>
-                                    3. Irregular Pumping of blood can lead to  heart diseases like: <br></br> <br></br>
+                                    3. Irregular Pumping of blood can lead to  heart diseases like :  <br></br> <br></br>
                                     <b>High Blood pressure</b> <br></br>
                                     High blood pressure is a common condition that affects the body's arteries. <br></br> <br></br>
                                     <b>High Cholesterol</b> <br></br>
@@ -155,9 +144,9 @@ function VESTIGE_ARGININE_BLOGS() {
                                     <p>To buy Vestige L-Arginine you need to become a member of Vestige Company.<br></br>
                                         To become a member of Vestige Company You can contact to
                                         Vestige Marketing Pandharpur Shop- <b>7420998608.</b><br></br>
-                                        Documents needed for Joining: Only Adhar Card Photo.
+                                        Documents needed for Joining :  Only Adhar Card Photo.
                                         There is no investment in joining.<br></br>
-                                        Or You can Contact the nearest Vestige Shoppe: <a href="https://www.myvestige.com/branches.aspx">https://www.myvestige.com/branches.aspx</a> </p>
+                                        Or You can Contact the nearest Vestige Shoppe :  <a href="https : //www.myvestige.com/branches.aspx">https : //www.myvestige.com/branches.aspx</a> </p>
                                 </div>
 
 
@@ -170,43 +159,40 @@ function VESTIGE_ARGININE_BLOGS() {
                                     <button><i class="fa-light fa-magnifying-glass"></i></button>
                                 </form>
                                 <div class="recent-post">
-                                    <h3 class="sidebar-title">Recent Posts</h3>
-                                    <ul>
-                                        <li>
-                                            <a href="blog-details.html">
-                                                <div class="part-img">
-                                                    <img src="assets/images/blog-img-5.jpg" alt="image" />
-                                                </div>
-                                                <div class="txt-box">
-                                                    <span class="title">How to Prepare for your First his</span>
-                                                    <span class="date">August 26, 2021</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog-details.html">
-                                                <div class="part-img">
-                                                    <img src="assets/images/blog-img-4.jpg" alt="image" />
-                                                </div>
-                                                <div class="txt-box">
-                                                    <span class="title">How to Prepare for your First his</span>
-                                                    <span class="date">August 26, 2021</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog-details.html">
-                                                <div class="part-img">
-                                                    <img src="assets/images/blog-img-3.jpg" alt="image" />
-                                                </div>
-                                                <div class="txt-box">
-                                                    <span class="title">How to Prepare for your First his</span>
-                                                    <span class="date">August 26, 2021</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
+                            <h3 class="sidebar-title">Recent Posts</h3>
+                            <ul>
+                                <li>
+                                    <a href="/hairserum">
+                                        <div class="part-img">
+                                            <img src="assets/images/blog-details-img3.jpg" alt="image"/>
+                                        </div>
+                                        <div class="txt-box">
+                                            <span class="title">Vestige Hair Serum</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/bodybutterblogs">
+                                        <div class="part-img">
+                                            <img src="assets/images/blog-details-img16.png" alt="image"/>
+                                        </div>
+                                        <div class="txt-box">
+                                            <span class="title">Vestige Assure Cherry Blossom Body Butter</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/detoxfootpatch">
+                                        <div class="part-img">
+                                            <img src="assets/images/blog-details-img10.jpg" alt="image"/>
+                                        </div>
+                                        <div class="txt-box">
+                                            <span class="title">Vestige Detox Footpatch</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
                                 <div class="tags">
                                     <h3 class="sidebar-title">Tags</h3>
                                     <div class="btn-box">

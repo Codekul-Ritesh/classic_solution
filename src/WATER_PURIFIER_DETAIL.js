@@ -48,7 +48,7 @@ function WATER_PURIFIRE_DETAIL() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,24 +69,24 @@ function WATER_PURIFIRE_DETAIL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">WATER PURIFIER</h2>
-
+                                    <p class="price"><span > ₹35500.00</span> ₹30990</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹35500.00</span>Discount  ₹30990</li>
-                                        <li>Product Code: <span> 27013</span></li>
-                                        <li>PV <span>1033</span></li>
-                                        <li>NET VOLUMES<span>1 Unit</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 27013</span></li>
+                                        <li>PV  :  <span>1033</span></li>
+                                        <li>NET VOLUMES  : <span>1 Unit</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
-                                    <p class="dscr">With purer, tastier water and a modern look, the Sharp Water Purifier is a beautiful 
-                                    addition to every health conscious family's kitchen. It comes with a Disruptor System which ensures 
-                                    only the cleanest and purest water. It has a unique 4-stage filtration process which gives you safe 
-                                    drinking water for your loved ones, no matter the source. Its resettable Filter Life Display Indicator 
-                                    ensures consistently clean water without increasing operating cost. Made from environmentally safe and 
-                                    high quality materials, it is built around advanced technology and with innovative performance features.</p>
+                                    <p class="dscr">With purer, tastier water and a modern look, the Sharp Water Purifier is a beautiful
+                                        addition to every health conscious family's kitchen. It comes with a Disruptor System which ensures
+                                        only the cleanest and purest water. It has a unique 4-stage filtration process which gives you safe
+                                        drinking water for your loved ones, no matter the source. Its resettable Filter Life Display Indicator
+                                        ensures consistently clean water without increasing operating cost. Made from environmentally safe and
+                                        high quality materials, it is built around advanced technology and with innovative performance features.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

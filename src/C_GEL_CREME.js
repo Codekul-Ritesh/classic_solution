@@ -69,19 +69,18 @@ function C_GEL_CREME() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE VITAMIN C GEL CREME</h2>
-
+                                    <p class="price"><span >₹230.00</span>₹240</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹230.00</span>MRP  ₹240</li>
-                                        <li>Product Code: <span>23081A</span></li>
-                                        <li>PV <span> 8.00</span></li>
-                                        <li>NET VOLUMES<span>50 g (When packed)</span></li>
+                                        <li>Product Code :  <span>23081A</span></li>
+                                        <li>PV  :  <span> 8.00</span></li>
+                                        <li>NET VOLUMES  : <span>50 g (When packed)</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Soothe yourself with a gel that results in plump, hydrated, and glowing skin! Assure Vitamin C Gel Creme gives perfect hydration and improves skin texture without any stickiness. The lightweight gel creme formula is enriched with Vitamin C and absorbs into the skin easily, resulting in instant moisturisation and an even skin tone with continued use.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

@@ -48,7 +48,7 @@ function DAMAGE_PROTECTION_HAIR_SERUM() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function DAMAGE_PROTECTION_HAIR_SERUM() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE DAMAGE PROTECTION LEAVE-ON HAIR SERUM</h2>
-
+                                    <p class="price"><span >₹190.00</span> ₹165</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹190.00</span>Discount  ₹165</li>
-                                        <li>Product Code: <span>23096</span></li>
-                                        <li>PV <span>4.58</span></li>
-                                        <li>NET VOLUMES<span>30 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23096</span></li>
+                                        <li>PV  :  <span>4.58</span></li>
+                                        <li>NET VOLUMES  : <span>30 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">The Assure Damage Protection Leave-On Hair Serum is specially designed to smoothen and repair your damaged hair. It is enriched with 7 types of oils and is accompanied by the goodness of Vitamin E. The 7 types of oil that are blended in this hair serum are almond, sunflower, amla, olive, soy, jojoba, and rapeseed. It protects your hair from harmful UV rays, helps de-tangle, enhances shine, strengthens hair follicles, reduces breakage, unlocks moisture, and provides an ultimate solution to split-ends. Complete your hair care regime with this hair serum.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

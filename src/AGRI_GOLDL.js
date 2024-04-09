@@ -69,12 +69,12 @@ function AGRI_GOLDL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">AGRI GOLDL </h2>
-
+                                    <p class="price"><span >₹600.00 </span> ₹500.00</p> 
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹600.00 </span>Discount  ₹500.00 </li>  
-                                        <li>Product Code: <span>26002</span></li>
-                                        <li>PV <span>16.67</span></li>
-                                        <li>NET CONTENT<span>100 g</span></li>
+                                    <li></li>  
+                                        <li>Product Code : <span>26002</span></li>
+                                        <li>PV :<span>16.67</span></li>
+                                        <li>NET CONTENT : <span>100 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>

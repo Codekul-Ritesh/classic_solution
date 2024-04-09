@@ -48,7 +48,7 @@ function ENERGY_BOOSTER() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,23 +69,22 @@ function ENERGY_BOOSTER() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE PRIME ENERGY BOOSTER</h2>
-
+                                    <p class="price"><span >₹1050.00</span>₹920.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1050.00</span> Discount  ₹920.00</li>
-                                        <li>Product Code: <span>20028</span></li>
-                                        <li>PV <span>30.67</span></li>
-                                        <li>NET VOLUMES<span> 30 Units</span></li>
+                                        <li>Product Code :  <span>20028</span></li>
+                                        <li>PV  :  <span>30.67</span></li>
+                                        <li>NET VOLUMES  : <span> 30 Units</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
-                                    <p class="dscr">VESTIGE PRIME Energy Booster is one of the health supplements that contain energy-supportive Ashwagandha, 
-                                    Sarpagandha and Terminalia blend (Arjuna, Haritaki & Bhibhitaki). It is a patented formulation that has been clinically proven 
-                                    & scientifically developed. It helps you to give relief from stress, depression & anxiety and lower serum cortisol levels. 
-                                    In order to help you perform at your best, it can also improve your testosterone levels, reduce stress, and give you more energy 
-                                    and stamina. Consuming it on a daily basis can help you maintain good health overall and increase your endurance.</p>
+                                    <p class="dscr">VESTIGE PRIME Energy Booster is one of the health supplements that contain energy-supportive Ashwagandha,
+                                        Sarpagandha and Terminalia blend (Arjuna, Haritaki & Bhibhitaki). It is a patented formulation that has been clinically proven
+                                        & scientifically developed. It helps you to give relief from stress, depression & anxiety and lower serum cortisol levels.
+                                        In order to help you perform at your best, it can also improve your testosterone levels, reduce stress, and give you more energy
+                                        and stamina. Consuming it on a daily basis can help you maintain good health overall and increase your endurance.</p>
 
                                     <p>
-                                    Dose: 1 capsule per day, preferably after dinner
+                                        Dose :  1 capsule per day, preferably after dinner
                                     </p>
                                     <form>
                                     </form>

@@ -70,23 +70,20 @@ function AYUSANTE_GLUCOHEALTH() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">AYUSANTE GLUCOHEALTH</h2>
-
+                                    <p class="price"><span >₹795.00 </span> ₹680.00 </p>
                                     <ul class="short-details">
-                           
-                                        <li><span >MRP  ₹795.00 </span>Discount  ₹680.00 </li>  
-
-                                        <li>Product Code: <span>20010</span></li>
-                                        <li>PV <span>22.67</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li>Product Code :  <span>20010</span></li>
+                                        <li>PV  :  <span>22.67</span></li>
+                                        <li>NET CONTENT  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr"> A unique proprietary formulation of Emblica offcinalis, Curcuma longa, Cinnamomum zeylanicum, Plerocarpus marsupium, Tinospora cordifolia, Casearia tomentosa and Camellia sinesis offers a comprehensive natural alternative for maintenance of normal glycemic health to support and manage hyperglycemia. The phyto-ingredients of Ayusante Gluco Health are well known for regulating appetite, lowering blood glucose levels, insulin resistance and optimising insulin secretion. Gluco Health offers a comprehensive alternative for the maintenance of normal glycemic health, naturally!</p>
                                     <p>
-                                    Dosage: Two capsules thrice daily or as advised by a physician.
+                                    Dosage :  Two capsules thrice daily or as advised by a physician.
                                     </p>
                                     <p>
-                                    Indications: Use for Madhumeh (Diabetes).
+                                    Indications :  Use for Madhumeh (Diabetes).
                                     </p>
                                     <form>
                                     </form>

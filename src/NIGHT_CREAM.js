@@ -48,7 +48,7 @@ function NIGHT_CREAM() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function NIGHT_CREAM() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE ANTI-AGEING NIGHT CREAM</h2>
-
+                                    <p class="price"><span >₹255.00</span>₹219</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹255.00</span>MRP  ₹219</li>
-                                        <li>Product Code: <span>23023</span></li>
-                                        <li>PV <span> 7.30</span></li>
-                                        <li>NET VOLUMES<span> 60 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23023</span></li>
+                                        <li>PV  :  <span> 7.30</span></li>
+                                        <li>NET VOLUMES  : <span> 60 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">A revitalising night cream that helps in repairing daily skin damage, lighten fine lines and wrinkles while you sleep. It boosts skin hydration, restores firmness and even out imperfections. Enriched with stem cells of grape seeds that rejuvenates cells and strengthen natural defenses of the skin.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

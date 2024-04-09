@@ -48,7 +48,7 @@ function GERM_PROTECTION_SOAP() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function GERM_PROTECTION_SOAP() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE GERM PROTECTION SOAP</h2>
-
+                                    <p class="price"><span > ₹63.00</span>₹53</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹63.00</span>MRP  ₹53</li>
-                                        <li>Product Code: <span>23089A</span></li>
-                                        <li>PV <span>1.03</span></li>
-                                        <li>NET VOLUMES<span> 75 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23089A</span></li>
+                                        <li>PV  :  <span>1.03</span></li>
+                                        <li>NET VOLUMES  : <span> 75 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Assure Germ Protection Soap helps to protect you and your family from a wide range of germs and bacteria.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

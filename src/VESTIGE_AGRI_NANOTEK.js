@@ -48,7 +48,7 @@ function VESTIGE_AGRI_NANOTEK() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,18 +69,18 @@ function VESTIGE_AGRI_NANOTEK() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE AGRI NANOTEK </h2>
-
+                                    <p class="price"><span >₹635.00 </span> ₹550.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹635.00 </span>Discount  ₹550.00 </li>  
-                                        <li>Product Code: <span>26023</span></li>
-                                        <li>PV <span>18.33</span></li>
-                                        <li>NET CONTENT<span>500 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>26023</span></li>
+                                        <li>PV  :  <span>18.33</span></li>
+                                        <li>NET CONTENT  : <span>500 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr"> Agri-Nanotek is a highly innovative product which is developed using nano- technology. It helps to improve soil-fertility by releasing fixed nutrients and minerals in the soil. It enhances soil fertility, plant growth, increases the nutrient usage and helps in photosynthesis process.</p>
-                                   
-                                    
+
+
                                     <form>
                                     </form>
                                 </div>

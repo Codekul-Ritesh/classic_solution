@@ -48,7 +48,7 @@ function INSTANT_GLOW_FACE_PACK() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function INSTANT_GLOW_FACE_PACK() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE INSTANT GLOW FACE PACK</h2>
-
+                                    <p class="price"><span >₹170.00</span>₹146</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹170.00</span>MRP  ₹146</li>
-                                        <li>Product Code: <span>23025</span></li>
-                                        <li>PV <span> 4.87</span></li>
-                                        <li>NET VOLUMES<span> 60 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23025</span></li>
+                                        <li>PV  :  <span> 4.87</span></li>
+                                        <li>NET VOLUMES  : <span> 60 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Assure Instant Glow Face Pack is a unique combination of natural ingredients that helps to clarify skin from deep within. The Fuller's earth and kaolin clay cleanses the skin of impurities and helps to reveal a natural glow. It is enriched with barberry extract that helps to calm, heal and rejuvenate the skin leaving it healthy and luminous.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

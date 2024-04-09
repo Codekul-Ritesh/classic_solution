@@ -48,7 +48,7 @@ function L_ARGININE() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function L_ARGININE() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE L-ARGININE</h2>
-
+                                    <p class="price"><span >₹1515.00</span> ₹1320.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1515.00</span>Discount  ₹1320.00</li>
-                                        <li>Product Code: <span> 21003</span></li>
-                                        <li>PV <span>44.00</span></li>
-                                        <li>NET VOLUMES<span>15 x 10g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21003</span></li>
+                                        <li>PV  :  <span>44.00</span></li>
+                                        <li>NET VOLUMES  : <span>15 x 10g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">It is a complete food supplement that includes a perfect combination of L-Arginine, antioxidants and vitamins to maximise effect on overall health. It offers great taste, multiple health benefits and powerful support for the cardiovascular system.Packed with health enhancing ingredients like vitamins, lycopene, folic acid and resveratrol that help improve cardiovascular health in a number of ways.</p>
 
                                     <p>
-                                    Dosage: One sachet to be dissolved in 200 ml water or juice.
+                                        Dosage :  One sachet to be dissolved in 200 ml water or juice.
                                     </p>
                                     <form>
                                     </form>

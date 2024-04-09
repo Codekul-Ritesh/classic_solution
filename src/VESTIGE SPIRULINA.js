@@ -49,7 +49,7 @@ function VESTIGE_SPIRULINA() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -70,21 +70,19 @@ function VESTIGE_SPIRULINA() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE SPIRULINA </h2>
-
+                                    <p class="price"><span >₹421.00 </span> ₹360.00 </p>
                                     <ul class="short-details">
-                                  
-                                    <li><span >MRP  ₹421.00 </span>Discount  ₹360.00 </li>  
-                                        
-                                        <li>Product Code: <span>20023</span></li>
-                                        <li>PV <span>12.00</span></li>
-                                        <li>NET CONTENT<span>100 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>20023</span></li>
+                                        <li>PV  :  <span>12.00</span></li>
+                                        <li>NET CONTENT  : <span>100 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Spirulina is a natural algae powder that is high in protein and a good source of antioxidants, B-vitamins, Vitamins A, C, D, E and minerals. It is largely made up of protein and essential amino acids and has high natural iron content. It is considered one of the richest source of natural protein. It helps to strengthen the immune system and improves digestive health. It helps to enhance the body's natural cleansing and detoxification. Each capsule contains Spirulina (Spirulina platensis) 500 mg</p>
 
                                     <p>
-                                    Dosage: One capsule twice a day after meals.
+                                        Dosage :  One capsule twice a day after meals.
                                     </p>
                                     <form>
                                     </form>

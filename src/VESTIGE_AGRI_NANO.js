@@ -48,7 +48,7 @@ function VESTIGE_AGRI_NANO() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,18 +69,18 @@ function VESTIGE_AGRI_NANO() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE AGRI82 NANO </h2>
-
+                                    <p class="price"><span >₹535.00 </span> ₹500.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹535.00 </span>Discount  ₹500.00 </li>  
-                                        <li>Product Code: <span>26015A</span></li>
-                                        <li>PV <span>13.89</span></li>
-                                        <li>NET CONTENT<span> 500 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>26015A</span></li>
+                                        <li>PV  :  <span>13.89</span></li>
+                                        <li>NET CONTENT  : <span> 500 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr"> Powered by nanotechnology, Vestige Agri82 delivers a powerful non-ionic spray adjuvant with higher spreading efficacy. Agri82 combines nano silicon that increases the spreading, wetting, sticking, activation, and penetration capacity of agrochemicals, herbicides, and fertilizers. It helps in reducing input costs and significantly increases productivity. It helps in lowering water's evaporation rate and increases its absorption in soil. It enhances the mixing and suspension capacity of agri inputs in foliar applications.</p>
-                                   
-                                    
+
+
                                     <form>
                                     </form>
                                 </div>

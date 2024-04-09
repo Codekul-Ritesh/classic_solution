@@ -48,7 +48,7 @@ function PROTEIN_POWDER_2() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -63,26 +63,25 @@ function PROTEIN_POWDER_2() {
                                     <div class="img-box" id="bigPreview">
                                         <img src="assets/images/classic/health supplement/image_27.png" alt="Image" />
                                     </div>
-
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE PROTEIN POWDER 200g</h2>
-
+                                    <p class="price"><span >₹1050.00 </span> ₹895.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1050.00 </span>Discount  ₹895.00</li>
-                                        <li>Product Code: <span> 22041</span></li>
-                                        <li>PV <span>29.83</span></li>
-                                        <li>NET VOLUMES<span>200 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 22041</span></li>
+                                        <li>PV  :  <span>29.83</span></li>
+                                        <li>NET VOLUMES  : <span>200 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Protein Powder is a low fat soy and milk protein food supplement that provides the body with all the essential amino acids. It is a soluble, easy to digest protein powder and is quickly absorbed into the body. It contains bioactive isoflavones which help regulate blood cholesterol and boost immunity. It is especially beneficial for people involved in sports, weight watchers and for general wellness.
-                                    One tablespoon (10 g) of Vestige Protein Powder provides 8.2 g of protein with all essential amino acids.</p>
+                                        One tablespoon (10 g) of Vestige Protein Powder provides 8.2 g of protein with all essential amino acids.</p>
 
                                     <p>
-                                    {/* Dosage: Simply take 3 scoops of Vestige Veslim Shake (25 g) in a shaker, and add 300 ml of either skimmed milk or water. Shake well and sip the goodness of your favourite flavour. */}
+                                        {/* Dosage :  Simply take 3 scoops of Vestige Veslim Shake (25 g) in a shaker, and add 300 ml of either skimmed milk or water. Shake well and sip the goodness of your favourite flavour. */}
                                     </p>
                                     <form>
                                     </form>

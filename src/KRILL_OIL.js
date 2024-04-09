@@ -48,7 +48,7 @@ function KRILL_OIL() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,24 +69,24 @@ function KRILL_OIL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE PRIME KRILL OIL</h2>
-
+                                    <p class="price"><span >₹1435.00</span> ₹1250.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1435.00</span>Discount  ₹1250.00</li>
-                                        <li>Product Code: <span> 21013</span></li>
-                                        <li>PV <span>41.67</span></li>
-                                        <li>NET VOLUMES<span>30 softgels</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21013</span></li>
+                                        <li>PV  :  <span>41.67</span></li>
+                                        <li>NET VOLUMES  : <span>30 softgels</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
-                                    <p class="dscr">Antarctic Krill, which is the source of Krill Oil, is comprised of three major components - 
-                                    Omega-3 fatty acids, primarily eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) attached to phospholipids and astaxanthin. 
-                                    Most of the Omega-3 fatty acids in Krill Oil are attached to phospholipids, making them more bioavailable to the body, and allowing 
-                                    Omega-3 to be easily absorbed by target organs such as the heart, brain, and liver, where they exert their beneficial effects. 
-                                    VESTIGE PRIME Krill Oil is extracted by a proprietary technology, called Multi Stage Oil (MSO®) extraction process that assures 
-                                    high-quality oil which has superior stability, quality, and organoleptic properties.</p>
+                                    <p class="dscr">Antarctic Krill, which is the source of Krill Oil, is comprised of three major components -
+                                        Omega-3 fatty acids, primarily eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA) attached to phospholipids and astaxanthin.
+                                        Most of the Omega-3 fatty acids in Krill Oil are attached to phospholipids, making them more bioavailable to the body, and allowing
+                                        Omega-3 to be easily absorbed by target organs such as the heart, brain, and liver, where they exert their beneficial effects.
+                                        VESTIGE PRIME Krill Oil is extracted by a proprietary technology, called Multi Stage Oil (MSO®) extraction process that assures
+                                        high-quality oil which has superior stability, quality, and organoleptic properties.</p>
 
                                     <p>
-                                        Recommended Usage: One to two softgel capsules daily with food.
+                                        Recommended Usage :  One to two softgel capsules daily with food.
                                     </p>
                                     <form>
                                     </form>

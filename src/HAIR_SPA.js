@@ -48,7 +48,7 @@ function HAIR_SPA() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function HAIR_SPA() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE HAIR SPA</h2>
-
+                                    <p class="price"><span > ₹405.00</span> ₹350</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹405.00</span>Discount  ₹350</li>
-                                        <li>Product Code: <span>23009</span></li>
-                                        <li>PV <span> 11.67</span></li>
-                                        <li>NET VOLUMES<span>150 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23009</span></li>
+                                        <li>PV  :  <span> 11.67</span></li>
+                                        <li>NET VOLUMES  : <span>150 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">A unique blend of the Moroccan beauty secret - argan oil, with the goodness of rosemary and lavender that fortify hair and revitalize the scalp. The intense conditioning formula penetrates deep into the scalp to help repair damaged roots. Specially formulated for weak, dull tresses, it provides intense moisture therapy for extra smoothness, shine and bounce.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

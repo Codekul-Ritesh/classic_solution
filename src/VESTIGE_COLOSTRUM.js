@@ -48,7 +48,7 @@ function VESTIGE_COLOSTRUM() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,20 +69,20 @@ function VESTIGE_COLOSTRUM() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE COLOSTRUM </h2>
-
+                                    <p class="price"><span >₹720.00 </span> ₹615.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹720.00 </span>Discount  ₹615.00 </li>  
-                                        <li>Product Code: <span>20008</span></li>
-                                        <li>PV <span>20.50</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>20008</span></li>
+                                        <li>PV  :  <span>20.50</span></li>
+                                        <li>NET CONTENT  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Colostrum, known as the first milk after delivery, is a mammary secretion produced by bovine animals. It is collected within the first six hours after a calf's birth. Colostrum is a rich natural source of immunoglobulin that helps in strengthening the immune system and provides protection against various diseases. Colostrum is a rich source of nutrients, antibodies, and growth factors. It is a complete formula of essential vitamins, minerals, essential fatty acids, and amino acids required for the optimal functioning of the body and maintaining overall health. The immune factors and antibodies in Colostrum also help to fight viral infections, allergens, and toxins that harm the body.</p>
 
                                     <p>
-                                    Dosage: Two capsules twice daily.
-                                    Indication: Immunity booster and balvardhak.
+                                        Dosage :  Two capsules twice daily.
+                                        Indication :  Immunity booster and balvardhak.
                                     </p>
                                     <form>
                                     </form>

@@ -48,7 +48,7 @@ function INSTA_GLOW_FACIAL_KIT() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function INSTA_GLOW_FACIAL_KIT() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE INSTA-GLOW FACIAL KIT</h2>
-
+                                    <p class="price"><span >₹700.00</span>₹620</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹700.00</span>MRP  ₹620</li>
-                                        <li>Product Code: <span>23085</span></li>
-                                        <li>PV <span> 20.67</span></li>
-                                        <li>NET VOLUMES<span>1 N x 5 g + 3 N x 10 g = 35 g (Pack of 5 kits)</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23085</span></li>
+                                        <li>PV  :  <span> 20.67</span></li>
+                                        <li>NET VOLUMES  : <span>1 N x 5 g + 3 N x 10 g = 35 g (Pack of 5 kits)</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
-                                    <p class="dscr">The ultimate solution for enticing, glowing skin in just 4 easy steps! Enriched with mulberry and gold dust to brighten skin and improve texture, this is the luxury facial experience available right at home. The box contains 4 sachets: facial cleanser, facial scrub, facial massage cream and facial mask. Rejuvenate skin, clean off dirt and grime and brighten skin tone with the whole package. Get ready for your picture-perfect moment!</p>
+                                    <p class="dscr">The ultimate solution for enticing, glowing skin in just 4 easy steps! Enriched with mulberry and gold dust to brighten skin and improve texture, this is the luxury facial experience available right at home. The box contains 4 sachets :  facial cleanser, facial scrub, facial massage cream and facial mask. Rejuvenate skin, clean off dirt and grime and brighten skin tone with the whole package. Get ready for your picture-perfect moment!</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

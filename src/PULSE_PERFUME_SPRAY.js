@@ -68,17 +68,17 @@ function PULSE_PERFUME_SPRAY() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE PULSE PERFUME SPRAY</h2>
-                                    <p class="price"><span >MRP  ₹325.00</span>MRP  ₹275</p>
+                                    <p class="price"><span >₹325.00</span>₹275</p>
                                     <ul class="short-details">
-                                        <li>Product Code: <span>23032</span></li>
-                                        <li>PV <span>9.17</span></li>
-                                        <li>NET VOLUMES<span>100 ml</span></li>
+                                        <li>Product Code :  <span>23032</span></li>
+                                        <li>PV  :  <span>9.17</span></li>
+                                        <li>NET VOLUMES  : <span>100 ml</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">A no-gas perfume spray that has an intensely alluring fragrance to make you feel special throughout the day. It is your best companion for all weathers and invigorates your mind and soul when applied.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

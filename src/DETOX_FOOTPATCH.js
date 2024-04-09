@@ -48,17 +48,6 @@ function DETOX_FOOTPATCH() {
                                     </div>
                                 </nav>
                             </div>
-                            <div class="col-lg-2">
-                                <li class="live-chat d-xl-flex d-none align-items-center">
-                                    <div class="icon">
-                                        <img src="assets/images/call-icon.png" alt="call" />
-                                    </div>
-                                    <div class="txt">
-                                        <span class="d-block">Contact :</span>
-                                        <a class="d-block" href="tel:+997509153">+997 509 153</a>
-                                    </div>
-                                </li>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -75,52 +64,49 @@ function DETOX_FOOTPATCH() {
                                 <div class="title-box">
                                     <h2 class="blog-title">Vestige Detox Footpatch</h2>
                                 </div>
-                                <p>Every day approximately 400 toxins invade our bodies in the form of food, water, air, alcohol, drugs, and tobacco. Exposure to toxins results in sickness, Allergies, frequent mood swings, stress, tension, weight gain, etc. The natural way to assist the body is the removal of heavy metals, metabolic wastes, toxins, microscopic parasites, mucous, chemicals, cellulite, and much more. A detox foot patch is designed to absorb toxins from the body while sleeping. It contains ingredients like: Molcho powder Tourmaline Bamboo vinegar Chitosan Vegetable Fibre Dextrin Benefits of Vestige Detox Footpatch are Works on principles of foot reflexology. Helps to remove toxins from our bodies. Promotes better health and longevity.</p>
-                                <h2 class="blog-title">How to use Detox Footpath :</h2>
+                                <p>Every day approximately 400 toxins invade our bodies in the form of food, water, air, alcohol, drugs, and tobacco. Exposure to toxins results in sickness, Allergies, frequent mood swings, stress, tension, weight gain, etc. The natural way to assist the body is the removal of heavy metals, metabolic wastes, toxins, microscopic parasites, mucous, chemicals, cellulite, and much more. A detox foot patch is designed to absorb toxins from the body while sleeping. It contains ingredients like :  Molcho powder Tourmaline Bamboo vinegar Chitosan Vegetable Fibre Dextrin Benefits of Vestige Detox Footpatch are Works on principles of foot reflexology. Helps to remove toxins from our bodies. Promotes better health and longevity.</p>
+                                <h2 class="blog-title">How to use Detox Footpath  : </h2>
                                 <p>Simply apply a detox footpath to the soles of your feet, before going to bed. Leave it overnight You will see a change in the smell and color of the patch in the morning drink.</p>
                             </div>
                         </div>
                         <div class="col-lg-4">
                             <div class="blog-sidebar">
                                 
-                                <div class="recent-post">
-                                    <h3 class="sidebar-title">Recent Posts</h3>
-                                    <ul>
-                                        <li>
-                                            <a href="blog-details.html">
-                                                <div class="part-img">
-                                                    <img src="assets/images/blog-img-5.jpg" alt="image" />
-                                                </div>
-                                                <div class="txt-box">
-                                                    <span class="title">How to Prepare for your First his</span>
-                                                    <span class="date">August 26, 2021</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog-details.html">
-                                                <div class="part-img">
-                                                    <img src="assets/images/blog-img-4.jpg" alt="image" />
-                                                </div>
-                                                <div class="txt-box">
-                                                    <span class="title">How to Prepare for your First his</span>
-                                                    <span class="date">August 26, 2021</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="blog-details.html">
-                                                <div class="part-img">
-                                                    <img src="assets/images/blog-img-3.jpg" alt="image" />
-                                                </div>
-                                                <div class="txt-box">
-                                                    <span class="title">How to Prepare for your First his</span>
-                                                    <span class="date">August 26, 2021</span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
+                            <div class="recent-post">
+                            <h3 class="sidebar-title">Recent Posts</h3>
+                            <ul>
+                                <li>
+                                    <a href="/hairserum">
+                                        <div class="part-img">
+                                            <img src="assets/images/blog-details-img3.jpg" alt="image"/>
+                                        </div>
+                                        <div class="txt-box">
+                                            <span class="title">Vestige Hair Serum</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/bodybutterblogs">
+                                        <div class="part-img">
+                                            <img src="assets/images/blog-details-img16.png" alt="image"/>
+                                        </div>
+                                        <div class="txt-box">
+                                            <span class="title">Vestige Assure Cherry Blossom Body Butter</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="/detoxfootpatch">
+                                        <div class="part-img">
+                                            <img src="assets/images/blog-details-img10.jpg" alt="image"/>
+                                        </div>
+                                        <div class="txt-box">
+                                            <span class="title">Vestige Detox Footpatch</span>
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
                                 <div class="tags">
                                     <h3 class="sidebar-title">Tags</h3>
                                     <div class="btn-box">

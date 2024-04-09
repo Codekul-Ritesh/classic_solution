@@ -49,7 +49,7 @@ function VESTIGE_AGRI82_NANO() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -70,18 +70,18 @@ function VESTIGE_AGRI82_NANO() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE_AGRI82_NANO </h2>
-
+                                    <p class="price"><span >₹4300.00 </span> ₹3600.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹4300.00 </span>Discount  ₹3600.00 </li>  
-                                        <li>Product Code: <span>26021</span></li>
-                                        <li>PV <span>100</span></li>
-                                        <li>NET CONTENT<span>5 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>26021</span></li>
+                                        <li>PV  :  <span>100</span></li>
+                                        <li>NET CONTENT  : <span>5 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Vestige Agri 82 is a highly concentrated non-ionic spray adjuvant with 82% active ingredients. An excellent Spreader, Activator and Wetter, Agri 82 increases crop yield by improving pesticide coverage. It activates the spray fluid to moisten the plant surface and allows uniform spreading of spray deposits. A helpful tool in irrigation, it improves the water absorption in soil. It helps and facilitates uniform mixing of powders, pesticides and most liquid fertilizers. It is completely non-phyto toxic, safe and eco-friendly. Use in fungicides, herbicides, insecticides, foliar fertilizers, plant nutrients and defoliators.</p>
-                                   
-                                    
+
+
                                     <form>
                                     </form>
                                 </div>

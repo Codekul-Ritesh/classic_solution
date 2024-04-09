@@ -68,17 +68,17 @@ function CAPTIVE_PERFUME_SPRAY() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE CAPTIVE PERFUME SPRAY</h2>
-                                    <p class="price"><span >MRP  ₹100.00</span>MRP  ₹85</p>
+                                    <p class="price"><span >₹100.00</span>₹85</p>
                                     <ul class="short-details">
-                                        <li>Product Code: <span>23040</span></li>
-                                        <li>PV <span>2.83</span></li>
-                                        <li>NET VOLUMES<span>18 ml (15.3 g)</span></li>
+                                        <li>Product Code :  <span>23040</span></li>
+                                        <li>PV  :  <span>2.83</span></li>
+                                        <li>NET VOLUMES  : <span>18 ml (15.3 g)</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Your pocket-friendly secret of being desirable anytime, anywhere. It offers a captivating and long-lasting fragrance with bursts of cologne to keep you energised and active during all your daily activities.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

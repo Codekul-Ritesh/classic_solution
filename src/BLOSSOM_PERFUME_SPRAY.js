@@ -68,17 +68,17 @@ function BLOSSOM_PERFUME_SPRAY() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE BLOSSOM PERFUME SPRAY</h2>
-                                    <p class="price"><span >MRP  ₹100.00</span>MRP  ₹85</p>
+                                    <p class="price"><span >₹100.00</span>₹85</p>
                                     <ul class="short-details">
-                                        <li>Product Code: <span>23041</span></li>
-                                        <li>PV <span>2.83</span></li>
-                                        <li>NET VOLUMES<span>18 ml (15.3 g)</span></li>
+                                        <li>Product Code :  <span>23041</span></li>
+                                        <li>PV  :  <span>2.83</span></li>
+                                        <li>NET VOLUMES  : <span>18 ml (15.3 g)</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Let the floral fragrance mark your day with confidence. Its sparkling floral note with a blend of jasmine keeps you natural and refreshed all day long. Stay ahead of all with this mesmerising floral aura.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

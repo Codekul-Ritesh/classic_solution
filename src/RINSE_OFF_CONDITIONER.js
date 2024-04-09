@@ -48,7 +48,7 @@ function RINSE_OFF_CONDITIONER() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function RINSE_OFF_CONDITIONER() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE INTENSIVE CARE RINSE OFF CONDITIONER</h2>
-
+                                    <p class="price"><span >₹280.00</span> ₹240</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹280.00</span>Discount  ₹240</li>
-                                        <li>Product Code: <span>23095</span></li>
-                                        <li>PV <span>8.00</span></li>
-                                        <li>NET VOLUMES<span>100 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23095</span></li>
+                                        <li>PV  :  <span>8.00</span></li>
+                                        <li>NET VOLUMES  : <span>100 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">The Assure Intensive Care Rinse Off Conditioner is specially designed to detangle and condition for smoother lustrous looking healthy hair. It has the power of 7 oils like amla, almond, olive, sunflower, jojoba, rapeseed, and soy. Comes with the goodness of Vitamin E, it is paraben and silicone free as well. It repairs brittle hair, reduces breakage, restores hair health, enhances shine, unlocks moisture, works on split-ends, and controls hair fall. Use it after every hair wash to get better results. Treat your hair better with Assure Intensive Care Rinse Off Conditioner.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

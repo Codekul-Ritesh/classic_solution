@@ -68,17 +68,17 @@ function HAND_WASH() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE HAND WASH</h2>
-                                    <p class="price"><span >MRP  ₹145.00</span>MRP  ₹130</p>
+                                    <p class="price"><span >₹145.00</span>₹130</p>
                                     <ul class="short-details">
-                                        <li>Product Code: <span>23038</span></li>
-                                        <li>PV <span>3.97</span></li>
-                                        <li>NET VOLUMES<span>250 ml</span></li>
+                                        <li>Product Code :  <span>23038</span></li>
+                                        <li>PV  :  <span>3.97</span></li>
+                                        <li>NET VOLUMES  : <span>250 ml</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">New and improved Assure Hand Wash gives the hands a gentle care with mild yet effective cleansing agents. It is enriched with Neem and Aloe Vera extracts that moisturise and provide gentle protection without drying out the skin. The refreshing fragrance keeps the hands fresh for long.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

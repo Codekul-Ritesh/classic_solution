@@ -48,7 +48,7 @@ function COLLAGEN() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function COLLAGEN() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE COLLAGEN</h2>
-
+                                    <p class="price"><span >₹700.00</span> ₹600.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹700.00</span>Discount  ₹600.00</li>
-                                        <li>Product Code: <span> 21026</span></li>
-                                        <li>PV <span>20.00</span></li>
-                                        <li>NET VOLUMES<span>10 x 7.5 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21026</span></li>
+                                        <li>PV  :   :  <span>20.00</span></li>
+                                        <li>NET VOLUMES  : <span>10 x 7.5 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Vestige Collagen with Rosehip extract and Vitamin C helps to replenish the body with vital collagen and helps in maintenance of healthy tissues. It is shown to support joint comfort, flexibility and cartilage health. It helps in reduction of inflammation, eases pain in people with stiff and immobile joints, especially in conditions like osteoarthritis.</p>
 
                                     <p>
-                                    Recommended Usage: One sachet to be dissolved in 100 ml water. Use twice a day.
+                                        Recommended Usage :  One sachet to be dissolved in 100 ml water. Use twice a day.
                                     </p>
                                     <form>
                                     </form>

@@ -48,7 +48,7 @@ function PRE_GLUCOHEALTH() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function PRE_GLUCOHEALTH() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE PRE GLUCOHEALTH</h2>
-
+                                    <p class="price"><span >₹1020.00</span> ₹870.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1020.00</span>Discount  ₹870.00</li>
-                                        <li>Product Code: <span> 21039</span></li>
-                                        <li>PV <span>29.00</span></li>
-                                        <li>NET VOLUMES<span>60 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21039</span></li>
+                                        <li>PV  :  <span>29.00</span></li>
+                                        <li>NET VOLUMES  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">A combination of Ivy gourd, Gymnema sylvestre (Gudmar) and Fenugreek (Methi) extracts which helps in controlling and preventing the onset of diabetic symptoms. The capsules help in preventing the onset of elevated blood glucose levels, reducing sugar cravings and reducing the absorption of sugar by supporting glucose metabolism. It also helps in enhancing insulin sensitivity and reducing insulin resistance. With the additional advantage of probiotics, it also helps to lower the rate of absorption of carbohydrates and supports gut health.</p>
 
                                     <p>
-                                    Recommended Usage: One capsule twice a day or as directed by a healthcare practitioner.
+                                        Recommended Usage :  One capsule twice a day or as directed by a healthcare practitioner.
                                     </p>
                                     <form>
                                     </form>

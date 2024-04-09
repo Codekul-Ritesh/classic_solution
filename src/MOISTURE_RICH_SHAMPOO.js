@@ -48,7 +48,7 @@ function MOISTURE_RICH_SHAMPOO() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function MOISTURE_RICH_SHAMPOO() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE MOISTURE RICH SHAMPOO</h2>
-
+                                    <p class="price"><span > ₹190.00</span> ₹163</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹190.00</span>Discount  ₹163</li>
-                                        <li>Product Code: <span>23021</span></li>
-                                        <li>PV <span>4.53</span></li>
-                                        <li>NET VOLUMES<span> 200 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23021</span></li>
+                                        <li>PV  :  <span>4.53</span></li>
+                                        <li>NET VOLUMES  : <span> 200 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">New Assure Moisture Rich Shampoo specially formulated for dry and damaged hair gently cleanses the hair making it manageable and smooth. Enriched with milk protein that hydrates dry hair and makes them soft and shiny. Green tea extract nourishes the hair and strengthens it from the root to tip.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

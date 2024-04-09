@@ -69,12 +69,11 @@ function AGRI_HUMIC() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title"> AGRI HUMIC </h2>
-
-                                    <ul class="short-details">
-                                    <li><span >MRP  ₹635.00 </span>Discount  ₹550.00 </li>  
+                                    <p class="price"><span >₹635.00 </span> ₹550.00 </p>
+                                    <ul class="short-details"> 
                                         <li>Product Code: <span>26023</span></li>
-                                        <li>PV <span>18.33</span></li>
-                                        <li>NET CONTENT<span>500 ml</span></li>
+                                        <li>PV : <span>18.33</span></li>
+                                        <li>NET CONTENT : <span>500 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>

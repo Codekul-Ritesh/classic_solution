@@ -48,7 +48,7 @@ function MULTIVITAMIN_SPRAY() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function MULTIVITAMIN_SPRAY() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE PRIME ABSORVIT MULTIVITAMIN SUBLINGUAL SPRAY</h2>
-
+                                    <p class="price"><span >₹625.00</span>  ₹540.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹625.00</span> Discount  ₹540.00</li>
-                                        <li>Product Code: <span>21047</span></li>
-                                        <li>PV <span>18</span></li>
-                                        <li>NET VOLUMES<span> 22 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>21047</span></li>
+                                        <li>PV  :  <span>18</span></li>
+                                        <li>NET VOLUMES  : <span> 22 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">An innovative dosage (Sublingual Spray) form which upgrades the conventional way of taking vitamins. VESTIGE PRIME Absorvit Multivitamin Sublingual Spray helps in faster absorption of nutrients in the blood stream. It has better compliance for those who have swallowing issues. Helps in fulfilling the nutrition gap between the diet & the body's requirement. It improves overall health. It helps in overall growth and daily maintenance of the body. It helps in maintaining higher energy levels.</p>
 
                                     <p>
-                                        Dose: Just 3 sprays a day.
+                                        Dose :  Just 3 sprays a day.
                                     </p>
                                     <form>
                                     </form>

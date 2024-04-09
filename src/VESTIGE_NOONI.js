@@ -48,7 +48,7 @@ function VESTIGE_NOONI() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,20 +69,18 @@ function VESTIGE_NOONI() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE_NOONI </h2>
-
+                                    <p class="price"><span >₹585.00 </span> ₹500.00 </p>
                                     <ul class="short-details">
-                                   
-                                        <li><span >MRP  ₹585.00 </span>Discount  ₹500.00 </li>  
-                                        <li>Product Code: <span>20004</span></li>
-                                        <li>PV <span>18.05</span></li>
-                                        <li>NET CONTENT<span>90 capsules</span></li>
+                                        <li>Product Code :  <span>20004</span></li>
+                                        <li>PV  :  <span>18.05</span></li>
+                                        <li>NET CONTENT  : <span>90 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">A tropical evergreen tree native to South East Asia, Noni or Morinda citrifolia is a rich source of protein, carbohydrates and high concentration of phytonutrients, vitamins and minerals. It supports overall health and well being. It contains Xeronine, which enables enlargement of pores in the walls of the human cells to allow nutrients to enter and increase the absorption of nutrients. It helps to strengthen the immune system as it contains a number of essential vitamins and minerals. People suffering from respiratory problems may benefit from its consumption. It helps prevent various skin and hair issues. It also helps to promote a healthy digestive system. Each capsule contains Morinda Citrifolia Extract 500 mg.</p>
 
                                     <p>
-                                    Dosage: One capsule twice a day atleast half an hour before meal.
+                                        Dosage :  One capsule twice a day atleast half an hour before meal.
                                     </p>
                                     <form>
                                     </form>

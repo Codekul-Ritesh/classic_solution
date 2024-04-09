@@ -48,7 +48,7 @@ function VITAMIN_D_SPRAY() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,23 +69,23 @@ function VITAMIN_D_SPRAY() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE PRIME ABSORVIT VITAMIN D SUBLINGUAL SPRAY</h2>
-
+                                    <p class="price"><span >₹560.00</span>  ₹480.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹560.00</span> Discount  ₹480.00</li>
-                                        <li>Product Code: <span>21044</span></li>
-                                        <li>PV <span>16</span></li>
-                                        <li>NET VOLUMES<span> 9 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>21044</span></li>
+                                        <li>PV  :  <span>16</span></li>
+                                        <li>NET VOLUMES  : <span> 9 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
-                                    <p class="dscr">An innovative dosage (Sublingual Spray) form which upgrades the conventional way of taking vitamins. 
-                                    Vestige Prime Absorvit Vitamin D Sublingual Spray helps in faster absorption of nutrients in the blood stream. 
-                                    It has better compliance for those who have swallowing issues. It supports immune function. 
-                                    It helps in the absorption and regulation of calcium and phosphorus in the body thus maintaining good bone health. 
-                                    It has anti-inflammatory properties.</p>
+                                    <p class="dscr">An innovative dosage (Sublingual Spray) form which upgrades the conventional way of taking vitamins.
+                                        Vestige Prime Absorvit Vitamin D Sublingual Spray helps in faster absorption of nutrients in the blood stream.
+                                        It has better compliance for those who have swallowing issues. It supports immune function.
+                                        It helps in the absorption and regulation of calcium and phosphorus in the body thus maintaining good bone health.
+                                        It has anti-inflammatory properties.</p>
 
                                     <p>
-                                    Dose: Just 1 spray a day
+                                        Dose :  Just 1 spray a day
                                     </p>
                                     <form>
                                     </form>

@@ -69,12 +69,11 @@ function ACTIVE_DEO_MEN() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE ACTIVE DEO (Men)</h2>
-
+                                    <p class="price"><span >₹215.00</span>₹185</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹215.00</span>MRP  ₹185</li>
-                                        <li>Product Code: <span>23087</span></li>
-                                        <li>PV <span>5.14</span></li>
-                                        <li>NET VOLUMES<span>150 ml</span></li>
+                                        <li>Product Code : <span>23087</span></li>
+                                        <li>PV :<span>5.14</span></li>
+                                        <li>NET VOLUMES : <span>150 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>

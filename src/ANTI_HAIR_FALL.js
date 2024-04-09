@@ -69,19 +69,18 @@ function ANTI_HAIR_FALL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE ANTI-HAIR FALL BOUNCE RESTORE SHAMPOO</h2>
-
+                                    <p class="price"><span > ₹210.00</span> ₹180</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹210.00</span>Discount  ₹180</li>
-                                        <li>Product Code: <span>23094</span></li>
-                                        <li>PV <span>5.00</span></li>
-                                        <li>NET VOLUMES<span>150 ml</span></li>
+                                        <li>Product Code :  <span>23094</span></li>
+                                        <li>PV  :  <span>5.00</span></li>
+                                        <li>NET VOLUMES  : <span>150 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">This shampoo is enriched with Hydrolysed Wheat Protein and Amino Acids. A gentle formula that cleanses the scalp and is ideal for fragile hair hence improving hair quality and preventing hair breakage. Increases the elasticity of your hair by controlling the loss of moisture from your strands. Helps in the hydration and nourishment of hair fiber. It provides deep fiber restoration and split-end repair with anti-breakage properties. It restores the bounce-back appearance of the hair making it look fuller and healthier.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

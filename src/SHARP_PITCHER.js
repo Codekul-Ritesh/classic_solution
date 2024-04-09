@@ -48,7 +48,7 @@ function SHARP_PITCHER() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function SHARP_PITCHER() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">SHARP WATER PURIFIER PITCHER</h2>
-
+                                    <p class="price"><span > ₹3200.00</span> ₹4000</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹3200.00</span>Discount  ₹4000</li>
-                                        <li>Product Code: <span> 27004A</span></li>
-                                        <li>PV <span>133.33</span></li>
-                                        <li>NET VOLUMES<span>1 Unit</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 27004A</span></li>
+                                        <li>PV  :  <span>133.33</span></li>
+                                        <li>NET VOLUMES  : <span>1 Unit</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">The portability of Sharp Water Purifier Pitcher means that you always have access to clean drinking water, no matter where you are. It is ideal for seasonal water problem when no other form of water purification is available and it can even further enhance the purity of filtered water, making it more bio available for your blood circulation system. Keep your loved ones safe from harmful drinking water anywhere, anytime.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

@@ -68,17 +68,17 @@ function CUCUMBER_AQUAGEL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE ALOE CUCUMBER AQUAGEL</h2>
-                                    <p class="price"><span >MRP  ₹315.00</span>MRP  ₹270</p>
+                                    <p class="price"><span >₹315.00</span>₹270</p>
                                     <ul class="short-details">
-                                        <li>Product Code: <span>23043</span></li>
-                                        <li>PV <span>9.00</span></li>
-                                        <li>NET VOLUMES<span>100 ml</span></li>
+                                        <li>Product Code :  <span>23043</span></li>
+                                        <li>PV  :  <span>9.00</span></li>
+                                        <li>NET VOLUMES  : <span>100 ml</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">A fast-absorbing, light-weight, non-sticky and gently-cooling opaque gel formula that gives the skin an instant boost of hydration. It is enriched with aloe vera and cucumber extracts that cool and hydrate the skin. It glides smoothly onto the skin giving it a radiant glow and leaves it deeply moisturised.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

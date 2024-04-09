@@ -48,7 +48,7 @@ function AYUSANTE_RESPOCARE() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,14 +69,11 @@ function AYUSANTE_RESPOCARE() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">AYUSANTE RESPOCARE </h2>
-
+                                    <p class="price"><span >₹730.00 </span> ₹625.00</p>
                                     <ul class="short-details">
-                                  
-                                        <li><span >MRP  ₹730.00 </span>Discount  ₹625.00 </li>  
-
-                                        <li>Product Code: <span>20015</span></li>
-                                        <li>PV <span>20.83</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li>Product Code :  <span>20015</span></li>
+                                        <li>PV  :   :  <span>20.83</span></li>
+                                        <li>NET CONTENT  :   :  <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>

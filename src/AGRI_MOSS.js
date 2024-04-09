@@ -69,12 +69,11 @@ function AGRI_MOSS() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">AGRI MOSS </h2>
-
+                                    <p class="price"><span >₹1750.00 </span> ₹330.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹1750.00 </span>Discount  ₹330.00 </li>  
-                                        <li>Product Code: <span>26011</span></li>
-                                        <li>PV <span>11.00</span></li>
-                                        <li>NET CONTENT<span>500 ml</span></li>
+                                        <li>Product Code :  <span>26011</span></li>
+                                        <li>PV  :  <span>11.00</span></li>
+                                        <li>NET CONTENT  :  <span>500 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>

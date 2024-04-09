@@ -48,7 +48,7 @@ function VESLIM() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function VESLIM() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE VESLIM</h2>
-
+                                    <p class="price"><span >₹1290.00</span> ₹1100.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1290.00</span>Discount  ₹1100.00</li>
-                                        <li>Product Code: <span> 21017</span></li>
-                                        <li>PV <span>36.67</span></li>
-                                        <li>NET VOLUMES<span>90 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21017</span></li>
+                                        <li>PV  :  <span>36.67</span></li>
+                                        <li>NET VOLUMES  : <span>90 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Veslim Capsule is a combination of four powerful herbal ingredients that work towards suppressing the appetite and help burn calories. These ingredients help to enhance metabolism while increasing stamina and endurance.</p>
 
                                     <p>
-                                    Recommended Usage: One or two capsules on an empty stomach.
+                                        Recommended Usage :  One or two capsules on an empty stomach.
                                     </p>
                                     <form>
                                     </form>

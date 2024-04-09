@@ -69,19 +69,18 @@ function CLARIFYING_FACE_WASH() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE CLARIFYING FACE WASH</h2>
-
+                                    <p class="price"><span > ₹170.00</span>₹225</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹170.00</span>MRP  ₹225</li>
-                                        <li>Product Code: <span>23030</span></li>
-                                        <li>PV <span> 7.50</span></li>
-                                        <li>NET VOLUMES<span> 60 g</span></li>
+                                        <li>Product Code :  <span>23030</span></li>
+                                        <li>PV  :  <span> 7.50</span></li>
+                                        <li>NET VOLUMES  : <span> 60 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">It effectively improves skin complexion and makes it look radiant and fresh with continuous use. Infused with a unique whitening complex made of white mulberry, skullcap, saxifraga and grape extracts that gives a natural glow to the skin and helps to lighten dark spots. Spreads easily and absorbs quickly to give even-toned and fairer skin and controls tan.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

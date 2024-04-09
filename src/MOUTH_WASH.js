@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
 
-function MOUTH_WASH () {
+function MOUTH_WASH() {
     return (
         <div>
             <Header />
@@ -48,7 +48,7 @@ function MOUTH_WASH () {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ function MOUTH_WASH () {
                             <div class="col-xl-6 col-lg-5 col-md-6">
                                 <div class="part-img mr-30">
                                     <div class="img-box" id="bigPreview">
-                                        <img src="assets/images/classic/oral care/image_96.png" alt="Image"  />
+                                        <img src="assets/images/classic/oral care/image_97.png" alt="Image" />
                                     </div>
 
                                 </div>
@@ -69,19 +69,19 @@ function MOUTH_WASH () {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">DENTASSURE MOUTH WASH</h2>
-
+                                    <p class="price"><span >₹205.00</span> ₹175</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹205.00</span>Discount  ₹175</li>
-                                        <li>Product Code: <span> 24005</span></li>
-                                        <li>PV <span> 5.83</span></li>
-                                        <li>NET VOLUMES<span> 250 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 24005</span></li>
+                                        <li>PV  :  <span> 5.83</span></li>
+                                        <li>NET VOLUMES  : <span> 250 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Dentassure Mouthwash helps to maintain healthy gums and protects against plaque formation. It has refreshing mint flavour which provides long lasting fresh breath and helps to eliminate germs responsible for bad breath. It also maintains the aesthetics and health of teeth.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

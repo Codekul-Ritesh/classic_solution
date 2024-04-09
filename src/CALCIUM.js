@@ -48,7 +48,7 @@ function CALCIUM() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,18 @@ function CALCIUM() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE CALCIUM</h2>
-
+                                    <p class="price"><span >₹270.00</span> ₹230.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹270.00</span>Discount  ₹230.00</li>
-                                        <li>Product Code: <span> 21023</span></li>
-                                        <li>PV <span>7.67</span></li>
-                                        <li>NET VOLUMES<span>100 tablets</span></li>
+                                        <li>Product Code :  <span> 21023</span></li>
+                                        <li>PV  :  <span>7.67</span></li>
+                                        <li>NET VOLUMES  : <span>100 tablets</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Calcium carbonate helps in building and maintaining strong and healthy bones. It is also useful in preventing dental problems. Along with Vitamin D3 it helps to increase bone density and help reduce chances of fracture in older men and women. Calcium carbonate reduces risk of osteoporosis and is particularly useful for children and women. Each film coated tablet contains Calcium Carbonate 625 mg (Equivalent to elemental calcium 250 mg) & Vitamin D3 250 IU.</p>
 
                                     <p>
-                                    {/* Recommended Usage: One capsule twice a day or as directed by a healthcare practitioner. */}
+                                        {/* Recommended Usage :  One capsule twice a day or as directed by a healthcare practitioner. */}
                                     </p>
                                     <form>
                                     </form>

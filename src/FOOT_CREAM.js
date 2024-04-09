@@ -68,17 +68,17 @@ function FOOT_CREAM() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE FOOT CREAM</h2>
-                                    <p class="price"><span >MRP  ₹165.00</span>MRP  ₹141</p>
+                                    <p class="price"><span >₹165.00</span>₹141</p>
                                     <ul class="short-details">
-                                        <li>Product Code: <span>23014</span></li>
-                                        <li>PV <span>4.70</span></li>
-                                        <li>NET VOLUMES<span>50 g</span></li>
+                                        <li>Product Code :  <span>23014</span></li>
+                                        <li>PV  :  <span>4.70</span></li>
+                                        <li>NET VOLUMES  : <span>50 g</span></li>
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Nourishes and softens dry and rough feet preventing cracks and skin irritations. Enriched with Witch hazel extract and effective skin emollients that hydrates the skin and locks moisture for longer time. Witch hazel possesses anti-inflammatory and astringent properties that sooths tired feet and gives anti-oxidant protection.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

@@ -69,12 +69,11 @@ function AGRI_AQUAGEL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title"> AGRI AQUAGEL </h2>
-
+                                    <p class="price"><span >₹2000.00 </span> ₹180.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹2000.00 </span>Discount  ₹180.00 </li>  
-                                        <li>Product Code: <span>26022</span></li>
-                                        <li>PV <span>60.00</span></li>
-                                        <li>NET CONTENT<span> 1kg</span></li>
+                                        <li>Product Code : <span>26022</span></li>
+                                        <li>PV :<span>60.00</span></li>
+                                        <li>NET CONTENT : <span> 1kg</span></li>
 
                                     </ul>
                                     <h3>Description</h3>

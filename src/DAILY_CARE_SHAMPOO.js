@@ -48,7 +48,7 @@ function DAILY_CARE_SHAMPOO() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function DAILY_CARE_SHAMPOO() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE DAILY CARE SHAMPOO (NORMAL)</h2>
-
+                                    <p class="price"><span >₹190.00</span> ₹163</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹190.00</span>Discount  ₹163</li>
-                                        <li>Product Code: <span>23022</span></li>
-                                        <li>PV <span>4.53</span></li>
-                                        <li>NET VOLUMES<span> 200 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23022</span></li>
+                                        <li>PV  :  <span>4.53</span></li>
+                                        <li>NET VOLUMES  : <span> 200 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">New Assure Daily Care Shampoo enriched with avocado oil and rosemary extract helps to manage moisture level without striping off its natural oils. It adds extra bounce to the hair and mild enough for everyday use leaving the hair glossy, smooth and healthy.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

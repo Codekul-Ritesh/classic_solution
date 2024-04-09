@@ -48,7 +48,7 @@ function BB_CREAM() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,18 @@ function BB_CREAM() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE BB CREAM</h2>
-
+                                    <p class="price"><span >₹400.00</span>₹340</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹400.00</span>MRP  ₹340</li>
-                                        <li>Product Code: <span>23016</span></li>
-                                        <li>PV <span> 11.33</span></li>
-                                        <li>NET VOLUMES<span> 30 g</span></li>
+                                        <li>Product Code :  <span>23016</span></li>
+                                        <li>PV  :  <span> 11.33</span></li>
+                                        <li>NET VOLUMES  : <span> 30 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">An all-in-one beauty solution for common skin problems like uneven skin tone, pimple marks, rough and dull complexion. It brightens, smoothen, moisturises and gives an even tone. It blends perfectly with all skin tones and types giving the skin a natural and healthy looks.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>

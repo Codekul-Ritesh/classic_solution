@@ -48,7 +48,7 @@ function MECH_DRIVE_FW() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ function MECH_DRIVE_FW() {
                             <div class="col-xl-6 col-lg-5 col-md-6">
                                 <div class="part-img mr-30">
                                     <div class="img-box" id="bigPreview">
-                                        <img src="assets/images/classic/mech drive/image_73.png" alt="Image"  />
+                                        <img src="assets/images/classic/mech drive/image_73.png" alt="Image" />
                                     </div>
 
                                 </div>
@@ -69,19 +69,19 @@ function MECH_DRIVE_FW() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">MACH-DRIVE NANOENERGIZER (FOUR-WHEELER)</h2>
-
+                                    <p class="price"><span >₹1870.00</span> ₹1850</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1870.00</span>Discount  ₹1850</li>
-                                        <li>Product Code: <span> 40002A</span></li>
-                                        <li>PV <span>61.67</span></li>
-                                        <li>NET VOLUMES<span>30 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 40002A</span></li>
+                                        <li>PV  :  <span>61.67</span></li>
+                                        <li>NET VOLUMES  : <span>30 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">MACH-DRIVE NanoEnergizer is an additive for the engine along with engine oil, using Ceramic Plus Metallic Coating Technology for better engine health, engine efficiency and reducing pollution. It contains 20nm platinum-coated zirconium powder emulsified in mineral oil which is ideal for engine restoration and protection. These nanoparticles create a tough and smooth layer on all parts within the engine, resulting in a smoother, quieter engine which delivers more power and better mileage.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

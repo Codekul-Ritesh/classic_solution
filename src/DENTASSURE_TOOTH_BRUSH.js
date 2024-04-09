@@ -48,7 +48,7 @@ function DENTASSURE_TOOTH_BRUSH() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ function DENTASSURE_TOOTH_BRUSH() {
                             <div class="col-xl-6 col-lg-5 col-md-6">
                                 <div class="part-img mr-30">
                                     <div class="img-box" id="bigPreview">
-                                        <img src="assets/images/classic/oral care/image_93.png" alt="Image"  />
+                                        <img src="assets/images/classic/oral care/image_93.png" alt="Image" />
                                     </div>
 
                                 </div>
@@ -69,19 +69,19 @@ function DENTASSURE_TOOTH_BRUSH() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">DENTASSURE TOOTH BRUSH</h2>
-
+                                    <p class="price"><span >₹260.00</span> ₹220</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹260.00</span>Discount  ₹220</li>
-                                        <li>Product Code: <span> 24011</span></li>
-                                        <li>PV <span> 7.33</span></li>
-                                        <li>NET VOLUMES<span> Set of 4</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 24011</span></li>
+                                        <li>PV  :  <span> 7.33</span></li>
+                                        <li>NET VOLUMES  : <span> Set of 4</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">The new Dentassure Multi-Action Toothbrush with 100 % DuPont bristles provides superior all round cleaning of the entire mouth. It has rounded bristles with extended tip for cleaning hard to reach places, a moulded tongue cleaner to help freshen up the breath and a gentle gum massager. It sturdy grip and flexible neck allows easy navigation that helps to clean the mouth completely.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

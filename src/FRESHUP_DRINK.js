@@ -48,7 +48,7 @@ function FRESHNUP_DRINK() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function FRESHNUP_DRINK() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">IINVIGO FRESHNUP DRINK </h2>
-
+                                    <p class="price"><span >₹235.00</span>₹200</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹235.00</span>MRP  ₹200</li>
-                                        <li>Product Code: <span>21022</span></li>
-                                        <li>PV <span>6.67</span></li>
-                                        <li>NET VOLUMES<span> 200 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>21022</span></li>
+                                        <li>PV  :  <span>6.67</span></li>
+                                        <li>NET VOLUMES  : <span> 200 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Invigo FRESHnUP Drink has a refreshing orange flavour filled with the goodness of Vitamins C and Zinc that supplies instant energy to the body. It is easy to prepare and has a fresh juicy taste to give a refreshing splash and energy.</p>
 
                                     <p>
-                                    Recommended Usage: Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
+                                        Recommended Usage :  Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
                                     </p>
                                     <form>
                                     </form>

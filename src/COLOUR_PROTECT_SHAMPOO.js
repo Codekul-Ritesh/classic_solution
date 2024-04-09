@@ -48,7 +48,7 @@ function COLOUR_PROTECT_SHAMPOO() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,18 @@ function COLOUR_PROTECT_SHAMPOO() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE COLOUR PROTECT SHAMPOO 150 ML</h2>
-
+                                    <p class="price"><span >₹210.00</span> ₹180</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹210.00</span>Discount  ₹180</li>
-                                        <li>Product Code: <span>23092</span></li>
-                                        <li>PV <span>5.00</span></li>
-                                        <li>NET VOLUMES<span>150 ml</span></li>
+                                        <li>Product Code :  <span>23092</span></li>
+                                        <li>PV  :  <span>5.00</span></li>
+                                        <li>NET VOLUMES  : <span>150 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Assure Colour Protect Shampoo moisturises dry-coloured hair and repairs damaged coloured hair. It comes with a unique UV ray protection barrier that helps your hair stay nourished, makes your hair silky smooth, and prolongs the hair colour. It is packed with ingredients like Hydrolysed Wheat Protein, Linseed oil, Vitamin E, and Vitamin B5. Linseed oil works as the UV ray protection barrier, nourishes the fiber of your hair, and makes your hair silky smooth. Whereas Vitamin B5 helps in strengthening while nourishing hair follicles, promoting healthier hair growth, and preventing hair loss. Love your coloured hair more with Assure Colour Protect Shampoo!</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

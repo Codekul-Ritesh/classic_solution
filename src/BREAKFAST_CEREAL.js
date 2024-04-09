@@ -69,19 +69,18 @@ function BREAKFAST_CEREAL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ENERVA HI-NUTRITION BREAKFAST CEREAL</h2>
-
+                                    <p class="price"><span >₹350.00</span>₹299</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹350.00</span>MRP  ₹299</li>
-                                        <li>Product Code: <span>21007</span></li>
-                                        <li>PV <span> 8.30</span></li>
-                                        <li>NET VOLUMES<span> 350 g</span></li>
+                                        <li>Product Code :  <span>21007</span></li>
+                                        <li>PV  :  <span> 8.30</span></li>
+                                        <li>NET VOLUMES  : <span> 350 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Enerva Hi-Nutrition Breakfast Cereal is a healthy, nutritious and convenient option for a busy lifestyle. It is packed with essential vitamins, minerals, protein, fibre and energy that makes your mornings really good to keep you active for all-day long.</p>
 
                                     {/* <p>
-                                    Recommended Usage: Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
+                                    Recommended Usage :  Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
                                     </p> */}
                                     <form>
                                     </form>

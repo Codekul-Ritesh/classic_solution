@@ -48,7 +48,7 @@ function RICE_BRAN_OIL() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function RICE_BRAN_OIL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">LITE HOUSE RICE BRAN OIL</h2>
-
+                                    <p class="price"><span >₹560.00</span>₹475</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹560.00</span>MRP  ₹475</li>
-                                        <li>Product Code: <span>22042A</span></li>
-                                        <li>PV <span> 7.92</span></li>
-                                        <li>NET VOLUMES<span> 2 Ltr.</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>22042A</span></li>
+                                        <li>PV  :  <span> 7.92</span></li>
+                                        <li>NET VOLUMES  : <span> 2 Ltr.</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Lite House Rice Bran Oil is nutritious edible oil produced from the oily layer of brown rice. It is physically refined through a patented process without using any harsh chemicals to retain Oryzanol. International research reports indicate many health benefits of Oryzanol. Fortified with Vitamin A & D.</p>
 
                                     {/* <p>
-                                    Recommended Usage: Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
+                                    Recommended Usage :  Take 2 tablespoons (30g approx) mix in a glass of cold water. Stir well.
                                     </p> */}
                                     <form>
                                     </form>

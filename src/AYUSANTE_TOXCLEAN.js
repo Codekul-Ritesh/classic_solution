@@ -48,7 +48,7 @@ function AYUSANTE_TOXCLEAN() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,23 +69,20 @@ function AYUSANTE_TOXCLEAN() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">AYUSANTE TOXCLEAN </h2>
-
+                                    <p class="price"><span >₹825.00 </span> ₹705.00 </p>
                                     <ul class="short-details">
-                                  
-                                        <li><span >MRP  ₹825.00 </span>Discount  ₹705.00 </li>  
-
-                                        <li>Product Code: <span>20011</span></li>
-                                        <li>PV <span>23.50</span></li>
-                                        <li>NET CONTENT<span>60 capsules</span></li>
+                                        <li>Product Code :  <span>20011</span></li>
+                                        <li>PV  :  <span>23.50</span></li>
+                                        <li>NET CONTENT  : <span>60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr"> A unique powerful formulation of natural ingredients (Emblica officinalis, Terminalia bellirica, Terminalia chebula, Azadirachta indica, Curcuma longa, Swertia chirata, Cassia angustifolia, Piper nigrum) that are known to help regulate digestion, relieve constipation, flush out body toxins, cleanse colon and purify blood. They are well-researched for their antimicrobial, anti-allergic and laxative properties. It helps colon cleansing, thus expelling various toxins from our body.</p>
                                     <p>
-                                    Dosage: One capsule twice daily or as advised by a physician.
+                                        Dosage :  One capsule twice daily or as advised by a physician.
                                     </p>
                                     <p>
-                                    Indications: Rakta Sodhaka (helps in purifying blood) </p>
+                                        Indications :  Rakta Sodhaka (helps in purifying blood) </p>
                                     <form>
                                     </form>
                                 </div>

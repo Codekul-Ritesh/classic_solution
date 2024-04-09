@@ -48,7 +48,7 @@ function WHITENING_TOOTHPASTE() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ function WHITENING_TOOTHPASTE() {
                             <div class="col-xl-6 col-lg-5 col-md-6">
                                 <div class="part-img mr-30">
                                     <div class="img-box" id="bigPreview">
-                                        <img src="assets/images/classic/oral care/image_96.png" alt="Image"  />
+                                        <img src="assets/images/classic/oral care/image_96.png" alt="Image" />
                                     </div>
 
                                 </div>
@@ -69,19 +69,19 @@ function WHITENING_TOOTHPASTE() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">DENTASSURE WHITENING TOOTH PASTE</h2>
-
+                                    <p class="price"><span >₹150.00</span> ₹125</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹150.00</span>Discount  ₹125</li>
-                                        <li>Product Code: <span> 24004</span></li>
-                                        <li>PV <span> 4.17</span></li>
-                                        <li>NET VOLUMES<span> 90 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 24004</span></li>
+                                        <li>PV  :  <span> 4.17</span></li>
+                                        <li>NET VOLUMES  : <span> 90 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Dentassure Whitening Toothpaste gently polishes the teeth, removes surface stains, such as those caused by drinking coffee or smoking and helps retain natural whiteness of the teeth. It provides a cool mint flavour that gives long lasting fresh breath and keeps your mouth feeling fresh and clean all day.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

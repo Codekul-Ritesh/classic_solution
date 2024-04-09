@@ -48,7 +48,7 @@ function AGRI_GRANULES() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,18 +69,17 @@ function AGRI_GRANULES() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title"> AGRI GRANULES </h2>
-
+                                    <p class="price"><span >₹825.00 </span> ₹700.00 </p>
                                     <ul class="short-details">
-                                    <li><span >MRP  ₹825.00 </span>Discount  ₹700.00 </li>  
                                         <li>Product Code: <span>26009A</span></li>
-                                        <li>PV <span>23.33</span></li>
-                                        <li>NET CONTENT<span> 5 kg</span></li>
+                                        <li>PV : <span>23.33</span></li>
+                                        <li>NET CONTENT : <span> 5 kg</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr"> Agri-Humic Granules is a plant bio-stimulant containing 1.5% Humic Substances, extracted from organic matters. It accelerates plant metabolic processes and helps to enhance the uptake of nutrients. It helps to overcome moisture stress and increases yield parameters, contributing to higher yields and quality of crops. It improves soil texture by binding soil particles, enhancing soil porosity, soil aeration and water-holding capacity. Its higher cation exchange capacity helps higher nutrient availability and prevents leaching of nutrients.</p>
-                                   
-                                    
+
+
                                     <form>
                                     </form>
                                 </div>

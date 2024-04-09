@@ -48,7 +48,7 @@ function VITAMIN_C_FACIAL_FOAM() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function VITAMIN_C_FACIAL_FOAM() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE VITAMIN C FACIAL FOAM</h2>
-
+                                    <p class="price"><span >₹382.00</span>₹335</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹382.00</span>MRP  ₹335</li>
-                                        <li>Product Code: <span>23080</span></li>
-                                        <li>PV <span> 11.17</span></li>
-                                        <li>NET VOLUMES<span>100 ml</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23080</span></li>
+                                        <li>PV  :  <span> 11.17</span></li>
+                                        <li>NET VOLUMES  : <span>100 ml</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Infused with the goodness of Vitamin C, Assure Vitamin C Facial Foam helps in thoroughly removing dirt, sweat and excess oil from the skin’s surface and from within pores. Get a clean, smooth and glowing look with this gentle face wash which also balances the skin’s pH and removes dead skin cells.</p>
 
                                     {/* <p>
-                                    Recommended Usage: One capsule daily.
+                                    Recommended Usage :  One capsule daily.
                                     </p> */}
                                     <form>
                                     </form>

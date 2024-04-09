@@ -48,7 +48,7 @@ function CRANBERRY() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,18 @@ function CRANBERRY() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE CRANBERRY</h2>
-
+                                    <p class="price"><span >₹1875.00</span> ₹1630.00</p>
                                     <ul class="short-details">
-                                        <li><span >MRP  ₹1875.00</span>Discount  ₹1630.00</li>
-                                        <li>Product Code: <span> 21018</span></li>
-                                        <li>PV <span>54.33</span></li>
-                                        <li>NET VOLUMES<span>  60 capsules</span></li>
+                                        <li>Product Code :  <span> 21018</span></li>
+                                        <li>PV  :  <span>54.33</span></li>
+                                        <li>NET VOLUMES  : <span>  60 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">Vestige Cranberry is a unique combination of two powerful ingredients, Cranberry extract and D-Mannose that promotes maintenance of healthy urinary tract. Cranberries have citric acid which helps to manage bladder complications. D-Mannose inhibits a certain kind of bacteria to adhere to the walls of the urinary tract, thus preventing recurrence. It also acts as a prebiotic that helps to promote good bacteria in the digestive system.</p>
 
                                     <p>
-                                    Recommended Usage: One capsule once or twice daily with meals.
+                                        Recommended Usage :  One capsule once or twice daily with meals.
                                     </p>
                                     <form>
                                     </form>

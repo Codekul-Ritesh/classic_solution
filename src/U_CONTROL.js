@@ -48,7 +48,7 @@ function U_CONTROL() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,25 +69,25 @@ function U_CONTROL() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">VESTIGE U CONTROL</h2>
-
+                                    <p class="price"><span > ₹1600.00</span> ₹1400.00</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹1600.00</span>Discount  ₹1400.00</li>
-                                        <li>Product Code: <span> 21034</span></li>
-                                        <li>PV <span>46.67</span></li>
-                                        <li>NET VOLUMES<span>30 capsules</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span> 21034</span></li>
+                                        <li>PV  :  <span>46.67</span></li>
+                                        <li>NET VOLUMES  : <span>30 capsules</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">muscles and sustaining the pelvic floor, U-Control helps in better control of the bladder and combats urinary incontinence.<br></br>
-                                    • Supports healthy and normal bladder function.<br></br>
-                                    • Reduces excessive urge to urinate.<br></br>
-                                    • Reduces nocturnal urination.<br></br>
-                                    • Reduces frequency of urination.<br></br>
-                                    • Improves sleep quality.<br></br>
-                                    • Improves quality of life index.</p>
+                                        • Supports healthy and normal bladder function.<br></br>
+                                        • Reduces excessive urge to urinate.<br></br>
+                                        • Reduces nocturnal urination.<br></br>
+                                        • Reduces frequency of urination.<br></br>
+                                        • Improves sleep quality.<br></br>
+                                        • Improves quality of life index.</p>
 
                                     <p>
-                                    Recommended Usage: One capsule daily.
+                                        Recommended Usage :  One capsule daily.
                                     </p>
                                     <form>
                                     </form>

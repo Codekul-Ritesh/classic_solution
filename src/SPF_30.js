@@ -48,7 +48,7 @@ function SPF_30() {
                                     </div>
                                 </nav>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -69,19 +69,19 @@ function SPF_30() {
                             <div class="col-xl-6 col-lg-7 col-md-6">
                                 <div class="part-txt">
                                     <h2 class="main-product-title">ASSURE SUN DEFENSE SPF 30+</h2>
-
+                                    <p class="price"><span > ₹265.00</span>₹225</p>
                                     <ul class="short-details">
-                                        <li><span >Discount  ₹265.00</span>MRP  ₹225</li>
-                                        <li>Product Code: <span>23029</span></li>
-                                        <li>PV <span>7.50</span></li>
-                                        <li>NET VOLUMES<span> 60 g</span></li>
+                                        <li></li>
+                                        <li>Product Code :  <span>23029</span></li>
+                                        <li>PV  :  <span>7.50</span></li>
+                                        <li>NET VOLUMES  : <span> 60 g</span></li>
 
                                     </ul>
                                     <h3>Description</h3>
                                     <p class="dscr">This sunscreen is a daily sun care cream that protects against harmful UVA and UVB rays that causes skin tanning, sunburns and premature ageing. The non-greasy formula spreads smoothly on the skin and absorbs completely giving a shine free finish.</p>
 
                                     {/* <p>
-                                        Recommended Usage: Use daily on tired skin for a fresher and younger look.
+                                        Recommended Usage :  Use daily on tired skin for a fresher and younger look.
                                     </p> */}
                                     <form>
                                     </form>
